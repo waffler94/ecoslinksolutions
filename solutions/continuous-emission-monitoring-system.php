@@ -98,7 +98,7 @@
                   <img src="../img/solutions/cems/image2.png" alt="Dr. Fodisch logo" width="300" height="200" class='block mb-4 mx-auto' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="cems/image1.png" data-aos="fade-up">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image1.png" data-aos="fade-up">
                         <img src="cems/image1.png" class="w-full" alt="Multi component analyser MCA 10" />
                       </div>
                     </div>
