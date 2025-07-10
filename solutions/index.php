@@ -59,53 +59,47 @@
             />
             <ul class="menu-list flex gap-x-12">
               <li class="menu-item">
-                  <a href="https://ecoslinksolutions.com/">Home</a>
+                  <a href="/">Home</a>
               </li>
               <li class="menu-item">
-                  <a href="https://ecoslinksolutions.com/about-us">About Us</a>
+                  <a href="/about-us">About Us</a>
               </li>
               <li class="menu-item with-dropdown">
-                  <a href="https://ecoslinksolutions.com/solutions">Solutions</a>
+                  <a href="/solutions">Solutions</a>
                   <div class="dropdown pt-6">
                       <ul class="submenu">
+                        <li class="menu-item with-subdropdown block w-full">
+                              <a href="/solutions/cems" class=" block w-full px-6 py-3">Continuous Emission Monitoring System</a>
+                              <div class="subdropdown">
+                                  <ul class="subsubmenu">
+                                      <li class="block w-full"><a href="/solutions/cems" class="block w-full px-6 py-3">Envea</a></li>
+                                      <li class="block w-full"><a href="/solutions/cems#drf" class="block w-full px-6 py-3">Dr. Födisch</a></li>
+                                  </ul>
+                              </div>
+                          </li>
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/analytical-process-measurement" class="block w-full px-6 py-3">Analytical Process Measurement</a>
+                              <a href="/solutions/process-analyzer" class="block w-full px-6 py-3">Process Analzyer</a>
                               <div class="subdropdown">
                                 <ul class="subsubmenu relative">
                                   <li class="block w-full"><a href="/analytical-process-measurement" class="block w-full px-6 py-3">Applied Analytics Inc</a></li>
                                   <li class="block w-full"><a href="/analytical-process-measurement#agc" class="block w-full px-6 py-3">AGC Instrument</a></li>
                                   <li class="block w-full"><a href="/analytical-process-measurement#classic-filters" class="block w-full px-6 py-3">Classic Filters</a></li>
                                   <li class="block w-full"><a href="/analytical-process-measurement#deltac" class="block w-full px-6 py-3">Delta C</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#eralytics" class="block w-full px-6 py-3">Eralytics</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#hydramotion" class="block w-full px-6 py-3">Hydramotion</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#lfe" class="block w-full px-6 py-3">LFE</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#phymetrix" class="block w-full px-6 py-3">Phymetrix</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#tvi" class="block w-full px-6 py-3">TVI</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#southland-sensing" class="block w-full px-6 py-3">Southland Sensing</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#michell" class="block w-full px-6 py-3">Michell</a></li>
                                 </ul>
                               </div>
                           </li>
+                          
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/continuous-emission-monitoring-system" class=" block w-full px-6 py-3">Continuous Emission Monitoring System</a>
-                              <div class="subdropdown">
-                                  <ul class="subsubmenu">
-                                      <li class="block w-full"><a href="/continuous-emission-monitoring-system" class="block w-full px-6 py-3">Envea</a></li>
-                                      <li class="block w-full"><a href="/continuous-emission-monitoring-system#drf" class="block w-full px-6 py-3">Dr. Födisch</a></li>
-                                  </ul>
-                              </div>
+                              <a href="/solutions/iot-system" class=" block w-full px-6 py-3">IOT System</a>
                           </li>
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/iot-system" class=" block w-full px-6 py-3">IOT System</a>
-                          </li>
-                          <li class="menu-item with-subdropdown block w-full">
-                              <a href="/system-integration-work" class=" block w-full px-6 py-3">System Integration Work</a>
+                              <a href="/solutions/system-integrate" class=" block w-full px-6 py-3">System Integration Work</a>
                           </li>
                       </ul>
                   </div>
               </li>
               <li class="menu-item">
-              <a href="https://ecoslinksolutions.com/#contact-us">Contact Us</a>
+              <a href="/#contact-us">Contact Us</a>
               </li>
           </ul>
         </div>
@@ -133,30 +127,24 @@
                   height="100"
               />
               <ul class="mt-6 min-[575px]:mt-12 ml-4">
-                <li><a href="https://ecoslinksolutions.com/">Home</a></li>
-                <li><a href="https://ecoslinksolutions.com/about-us">About Us</a></li>
-                <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Analytics Process Measurement</span><i class="fas fa-chevron-right transition"></i></a>
-                <div class="submenu">
-                  <a href="/analytical-process-measurement" class="block w-fit px-6 py-3">Applied Analytics Inc</a>
-                  <a href="/analytical-process-measurement#agc" class="block w-fit px-6 pb-3">AGC Instrument</a>
-                  <a href="/analytical-process-measurement#classic-filters" class="block w-fit px-6 pb-3">Classic Filters</a>
-                  <a href="/analytical-process-measurement#deltac" class="block w-fit px-6 pb-3">Delta C</a>
-                  <a href="/analytical-process-measurement#eralytics" class="block w-fit px-6 pb-3">Eralytics</a>
-                  <a href="/analytical-process-measurement#hydramotion" class="block w-fit px-6 pb-3">Hydramotion</a>
-                  <a href="/analytical-process-measurement#lfe" class="block w-fit px-6 pb-3">LFE</a>
-                  <a href="/analytical-process-measurement#phymetrix" class="block w-fit px-6 pb-3">Phymetrix</a>
-                  <a href="/analytical-process-measurement#tvi" class="block w-fit px-6 pb-3">TVI</a>
-                  <a href="/analytical-process-measurement#southland-sensing" class="block w-fit px-6 pb-3">Southland Sensing</a>
-                  <a href="/analytical-process-measurement#michell" class="block w-fit px-6 pb-3">Michell</a>
-                </div></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about-us">About Us</a></li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><i class="fas fa-chevron-right transition"></i></a>
                   <div class="submenu">
-                    <a href="/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">Envea</a>
-                    <a href="/continuous-emission-monitoring-system#drf" class="block w-fit px-6 pb-3">Dr. Födisch</a>
+                    <a href="/solutions/cems" class="block w-fit px-6 py-3">Envea</a>
+                    <a href="/solutions/cems#drf" class="block w-fit px-6 pb-3">Dr. Födisch</a>
                   </div>
                 </li>
-                <li><a href="/iot-system">IOT System</a></li>
-                <li><a href="/system-integration-work" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
+                <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Process Analzyer</span><i class="fas fa-chevron-right transition"></i></a>
+                <div class="submenu">
+                  <a href="/solutions/process-analyzer" class="block w-fit px-6 py-3">Applied Analytics Inc</a>
+                  <a href="/solutions/process-analyzer#agc" class="block w-fit px-6 pb-3">AGC Instrument</a>
+                  <a href="/solutions/process-analyzer#classic-filters" class="block w-fit px-6 pb-3">Classic Filters</a>
+                  <a href="/solutions/process-analyzer#deltac" class="block w-fit px-6 pb-3">Delta C</a>
+                </div></li>
+                
+                <li><a href="/solutions/iot-system">IOT System</a></li>
+                <li><a href="/solutions/system-integrate" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
                   <!-- <div class="submenu">
                     <a href="/system-integration-work" class="block w-fit px-6 py-3">System Integration Work</a>
                   </div> -->
@@ -174,7 +162,7 @@
           <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 bg-banner-3">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
               <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down">Solutions</h1>
-              <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><b>Solutions</b></p>
+              <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="/">Home</a><span>/</span><b>Solutions</b></p>
             </div>
           </div>
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
@@ -232,7 +220,7 @@
       <footer id="footer">
         <div class="sm:w-5/6 w-11/12 px-0 pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
             <div class="w-full lg:w-1/3">
-                <a href="https://ecoslinksolutions.com/" class="w-full md:w-2/3">
+                <a href="/" class="w-full md:w-2/3">
                     <img
                     src="../eco-logo3.png"
                     alt="White Logo"
@@ -242,7 +230,7 @@
                     />
                 </a>
                 <p class="mt-6 lg:max-w-[500px] text-center sm:text-left">Since 2015, Ecos Link Solutions has been at the forefront of providing comprehensive monitoring and integration solutions for various industries across Malaysia. </p>
-                <a href="https://www.linkedin.com/company/alam-mulia-teknologi/" target="_blank"class="mt-4 block sm:mx-0 mx-auto w-fit hover:text-[#57c43f] transition"><i class="text-[2em] fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/company/ecos-link-solutions" target="_blank"class="mt-4 block sm:mx-0 mx-auto w-fit hover:text-[#57c43f] transition"><i class="text-[2em] fab fa-linkedin"></i></a>
             </div>
             <div class="w-full lg:w-1/5 pt-6 mt-4 md:mt-0">
                 <h6 class="text-[21px] font-bold mb-6">Quick Links</h6>
@@ -250,15 +238,15 @@
                   <div>
                     <a href="/" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Home</span></a>
                     <a href="/about-us" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>About Us</span></a>
-                    <a href="/contact-us" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Contact Us</span></a>
+                    <a href="/#contact-us" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Contact Us</span></a>
                   </div>
                 </div>
             </div>
             <div class="w-full lg:w-1/3 pt-6 mt-4 md:mt-0">
                 <h6 class="text-[21px] font-bold mb-6">Our Solutions</h6>
-                <a href="/analytical-process-measurement" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Analytical Process Measurement</span></a>
-                <a href="/process-skid-tab" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Process Skid</span></a>
-                <a href="/iot-system" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>IOT System</span></a>
+                <a href="/solutions/cems" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>CEMS</span></a>
+                <a href="/solutions/process-analyzer" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Process Analytical Systems</span></a>
+                <a href="/solutions/iot-system" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>IOT System</span></a>
                 <a href="/system-integration-work" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>System Integration Work</span></a>
             </div>
         </div>
