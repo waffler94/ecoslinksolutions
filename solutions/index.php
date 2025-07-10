@@ -64,7 +64,7 @@
               </p>
             </div>
             <div class='grid grid-cols-1 grid-rows-4 sm:grid-cols-2 sm:grid-rows-2 my-12 md:my-24 gap-8' data-aos="fade-up">
-                <a href="/solutions/cems" class="solutions_box" data-aos="fade-right">
+                <a href="/solutions/continuous-emission-monitoring-system" class="solutions_box" data-aos="fade-right">
                   <div class="w-[80px] h-[80px] bg-[#0396D5] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon11"></i>
                   </div>

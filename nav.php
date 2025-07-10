@@ -1,7 +1,7 @@
 <nav class="nav-menu bg-[#0396D5] md:justify-center flex py-0 md:py-6 text-white items-center fixed top-0 w-full left-0 right-0 z-40">
         <div class="w-5/6 gap-x-32 items-center hidden min-[1024px]:flex">
             <img 
-                src="eco-logo3.png" 
+                src="/eco-logo3.png" 
                 alt="White Logo"
                 class="w-[220px]"
                 width="200"
@@ -19,11 +19,11 @@
                   <div class="dropdown pt-6">
                       <ul class="submenu">
                         <li class="menu-item with-subdropdown block w-full">
-                              <a href="/solutions/cems" class=" block w-full px-6 py-3">Continuous Emission Monitoring System</a>
+                              <a href="/solutions/continuous-emission-monitoring-system" class=" block w-full px-6 py-3">Continuous Emission Monitoring System</a>
                               <div class="subdropdown">
                                   <ul class="subsubmenu">
-                                      <li class="block w-full"><a href="/solutions/cems" class="block w-full px-6 py-3">Envea</a></li>
-                                      <li class="block w-full"><a href="/solutions/cems#drf" class="block w-full px-6 py-3">Dr. Födisch</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system" class="block w-full px-6 py-3">Envea</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#drf" class="block w-full px-6 py-3">Dr. Födisch</a></li>
                                   </ul>
                               </div>
                           </li>
@@ -57,7 +57,7 @@
         <div class="relative min-[1024px]:hidden block w-full">
           <div class="flex justify-between items-center w-full px-6 max-[767px]:py-4 mobile_menu">
             <img 
-                  src="eco-logo3.png" 
+                  src="/eco-logo3.png" 
                   alt="White Logo"
                   class="block"
                   width="300"
@@ -70,7 +70,7 @@
             </div>
             <div class="menu" id="menu">
               <img 
-                  src="white_logo_text_mobile.png" 
+                  src="/white_logo_text_mobile.png" 
                   alt="Logo"
                   class="block mt-4 ml-6"
                   width="200"
@@ -79,10 +79,11 @@
               <ul class="mt-6 min-[575px]:mt-12 ml-4">
                 <li><a href="/">Home</a></li>
                 <li><a href="/about-us">About Us</a></li>
+                <li><a href="/solutions">Solutions</a></li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><i class="fas fa-chevron-right transition"></i></a>
                   <div class="submenu">
-                    <a href="/solutions/cems" class="block w-fit px-6 py-3">Envea</a>
-                    <a href="/solutions/cems#drf" class="block w-fit px-6 pb-3">Dr. Födisch</a>
+                    <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">Envea</a>
+                    <a href="/solutions/continuous-emission-monitoring-system#drf" class="block w-fit px-6 pb-3">Dr. Födisch</a>
                   </div>
                 </li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Process Analzyer</span><i class="fas fa-chevron-right transition"></i></a>

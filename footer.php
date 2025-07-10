@@ -25,7 +25,7 @@
         </div>
         <div class="w-full lg:w-1/3 pt-6 mt-4 md:mt-0">
             <h6 class="text-[21px] font-bold mb-6">Our Solutions</h6>
-            <a href="/solutions/cems" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>CEMS</span></a>
+            <a href="/solutions/continuous-emission-monitoring-system" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>CEMS</span></a>
             <a href="/solutions/process-analyzer" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Process Analytical Systems</span></a>
             <a href="/solutions/iot-system" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>IOT System</span></a>
             <a href="/solutions/system-integration" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>System Integration Work</span></a>

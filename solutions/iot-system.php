@@ -63,7 +63,7 @@
                 <h2 class="text-[18px] md:text-[28px] font-bold text-[#252B42] mb-2">System Architecture &amp; Integration:</h2>
                 <p class="text-[14px] lg:text-[19px] text-[#252B42]" data-aos="fade-right">The software is built on a centralized, scalable platform that collects, stores, and analyzes data from multiple production plants. It integrates with plant-level control systems (SCADA, MES, ERP) via secure communication protocols (e.g., OPC UA, MQTT, REST APIs) and uses real-time data acquisition to provide a unified dashboard. Key features include:</p>
               </div>
-              <img src="../img/solutions/iot-system/image1.png" data-aos="fade-left" alt="IOT System" width="800" height="800" class='w-full max-w-[650px] lg:w-1/3' />
+              <img src="../img/solutions/iot-system/Image1.png" data-aos="fade-left" alt="IOT System" width="800" height="800" class='w-full max-w-[650px] lg:w-1/3' />
             </div>
           </div>
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
