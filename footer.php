@@ -28,7 +28,7 @@
             <a href="/solutions/cems" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>CEMS</span></a>
             <a href="/solutions/process-analyzer" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>Process Analytical Systems</span></a>
             <a href="/solutions/iot-system" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>IOT System</span></a>
-            <a href="/system-integration-work" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>System Integration Work</span></a>
+            <a href="/solutions/system-integration" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>System Integration Work</span></a>
         </div>
     </div>
     <a href="https://wa.link/zq82cu" target="_blank" class="flex items-center justify-center text-[1.8em] w-[50px] h-[50px] rounded-full bg-[#57c43f] transition border border-solid border-[#57c43f] text-white fixed right-4 bottom-4"><i class="fab fa-whatsapp"></i></a>
