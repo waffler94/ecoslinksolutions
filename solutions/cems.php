@@ -115,8 +115,8 @@
                   
                   <div class="flex flex-col md:flex-row gap-6 mb-12 items-center">
                     <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="cems/image3.png" data-aos="fade-up">
-                        <img src="cems/image3.png" class="w-full" alt="Dust monitoring device PFM 02 Ex">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image3.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image3.png" class="w-full" alt="Dust monitoring device PFM 02 Ex">
                       </div>
                     </div>
                     <div class="w-full">
@@ -131,8 +131,8 @@
                   </div>
                   <div class="flex flex-col md:flex-row gap-6 mb-12 items-center">
                     <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="cems/image4.png" data-aos="fade-up">
-                        <img src="cems/image4.png" class="w-full" alt="Flow measuring device FMD 09">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image4.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image4.png" class="w-full" alt="Flow measuring device FMD 09">
                       </div>
                     </div>
                     <div class="w-full">
