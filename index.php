@@ -98,71 +98,71 @@
               <div class='flex gap-x-12 justify-between mt-12 lg:flex-unwrap flex-wrap'>
                 <div class='grid grid-cols-2 lg:grid-cols-3 gap-4 min-[425px]:gap-6'>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/aluminium_production.png" alt="aluminium production" width="800" height="1080" class='' />
+                    <img src="img/home/aluminium_production.webp" alt="aluminium production" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Aluminium Production</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/automotive.png" alt="automotive" width="800" height="1080" class='' />
+                    <img src="img/home/automotive.webp" alt="automotive" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Automotive</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/cement.png" alt="cement" width="800" height="1080" class='' />
+                    <img src="img/home/cement.webp" alt="cement" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Cement</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/chemical.png" alt="chemical" width="800" height="1080" class='' />
+                    <img src="img/home/chemical.webp" alt="chemical" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Chemical</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/copper_zinc_production.png" alt="copper zinc production production" width="800" height="1080" class='' />
+                    <img src="img/home/copper_zinc_production.webp" alt="copper zinc production production" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Copper &amp; Zinc Production</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/food_beverages.png" alt="food & beverages" width="800" height="1080" class='' />
+                    <img src="img/home/food_beverages.webp" alt="food & beverages" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Food &amp; Beverages</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/iron_steel.png" alt="iron steel" width="800" height="1080" class='' />
+                    <img src="img/home/iron_steel.webp" alt="iron steel" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Iron Steel</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/lead_production.png" alt="lead production" width="800" height="1080" class='' />
+                    <img src="img/home/lead_production.webp" alt="lead production" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Lead Production</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/mining.png" alt="mining" width="800" height="1080" class='' />
+                    <img src="img/home/mining.webp" alt="mining" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Mining</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/natural_gas.png" alt="natural gas" width="800" height="1080" class='' />
+                    <img src="img/home/natural_gas.webp" alt="natural gas" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Natural Gas</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/non_ferrous_metals.png" alt="non-ferrous_metals" width="800" height="1080" class='' />
+                    <img src="img/home/non_ferrous_metals.webp" alt="non-ferrous_metals" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Non-Ferrous Metals</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/offshore.png" alt="offshore" width="800" height="1080" class='' />
+                    <img src="img/home/offshore.webp" alt="offshore" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Offshore</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/oil_refining.png" alt="oil refining" width="800" height="1080" class='' />
+                    <img src="img/home/oil_refining.webp" alt="oil refining" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Oil Refining</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/palm_oil.png" alt="natural gas" width="800" height="1080" class='' />
+                    <img src="img/home/palm_oil.webp" alt="natural gas" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Palm Oil</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/pharmaceutical.png" alt="pharmaceutical" width="800" height="1080" class='' />
+                    <img src="img/home/pharmaceutical.webp" alt="pharmaceutical" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Pharmaceutical</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/waste_incineration.png" alt="waste incineration" width="800" height="1080" class='' />
+                    <img src="img/home/waste_incineration.webp" alt="waste incineration" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Waste Incineration</p>
                   </div>
                   <div class="flex flex-col gap-2 min-[425px]:gap-4" data-aos="fade-up">
-                    <img src="img/home/waste_water_treatment.png" alt="waste water treatment" width="800" height="1080" class='' />
+                    <img src="img/home/waste_water_treatment.webp" alt="waste water treatment" width="800" height="1080" class='' />
                     <p class="text-[#252B42] text-[14px] min-[425px]:text-[16px] md:text-[20px]">Waste Water Treatment</p>
                   </div>
                 </div>
@@ -245,7 +245,7 @@
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">CEMS solutions from leading brands, featuring MCA 10 for certified hot-wet gas analysis across multiple components.</p>
                       <a href="/analytical-process-measurement" class='rounded-lg border-[#0396D5] border-solid bg-[#0396D5] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
-                    <img src="img/home/cems.png" alt="CEMS" width="800" height="1080" class='h-full w-1/2 min-[576px]:w-[250px] min-[769px]:w-[150px] lg:w-1/2 mt-6' />
+                    <img src="img/home/cems.webp" alt="CEMS" width="800" height="1080" class='h-full w-1/2 min-[576px]:w-[250px] min-[769px]:w-[150px] lg:w-1/2 mt-6' />
                   </div>
                 </div>
                 <div class='relative solution_box justify-between pr-0' data-aos="fade-up" data-aos-delay="100">
@@ -255,7 +255,7 @@
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Reliable analyzers for real-time monitoring of TOC, gases, and moisture in industrial processes.</p>
                       <a href="/process-skid-tab" class='rounded-lg border-[#0396D5] border-solid bg-[#0396D5] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
-                    <img src="img/home/process_analytical_systems.png" alt="Process Analytical Systems" width="800" height="1080" class='w-1/2 min-[576px]:w-[40%]' />
+                    <img src="img/home/process_analytical_systems.webp" alt="Process Analytical Systems" width="800" height="1080" class='w-1/2 min-[576px]:w-[40%]' />
                   </div>
                 </div>
                 <div class='relative solution_box' data-aos="fade-up" data-aos-delay="200">
@@ -265,7 +265,7 @@
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Modular real-time data platform with remote access, KPI tracking, and system integration.</p>
                       <a href="/analytical-process-measurement" class='rounded-lg border-[#0396D5] border-solid bg-[#0396D5] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
-                    <img src="img/home/iot_system.png" alt="IOT System" width="800" height="1080" class='w-1/2 min-[576px]:w-1/2 mt-12' />
+                    <img src="img/home/iot_system.webp" alt="IOT System" width="800" height="1080" class='w-1/2 min-[576px]:w-1/2 mt-12' />
                   </div>
                 </div>
                 <div class='relative solution_box' data-aos="fade-up" data-aos-delay="300">
@@ -275,7 +275,7 @@
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Custom gas analysis with real-time monitoring and global compliance</p>
                       <a href="/analytical-process-measurement" class='rounded-lg border-[#0396D5] border-solid bg-[#0396D5] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
-                    <img src="img/home/system_intergration_work.png" alt="System Integration Work" width="800" height="1080" class='w-[40%] min-[576px]:w-[40%]' />
+                    <img src="img/home/system_intergration_work.webp" alt="System Integration Work" width="800" height="1080" class='w-[40%] min-[576px]:w-[40%]' />
                   </div>
                 </div>
               </div>

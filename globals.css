@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .bg-banner-1{
-  background: url('./img/home/banner1.png') no-repeat;
+  background: url('./img/home/banner1.webp') no-repeat;
   background-size: cover;
   background-position-x: left;
 }
@@ -89,17 +89,17 @@ h1, h2, h3, h4, h5, h6{
   background-position-x: left;
 }
 .bg-client{
-  background: url('./img/home/bg1.png') no-repeat;
+  background: url('./img/home/bg1.webp') no-repeat;
   background-size: cover;
   background-position: center;
 }
 .bg-solutions{
-  background: url('./img/home/bg2.png') no-repeat;
+  background: url('./img/home/bg2.webp') no-repeat;
   background-size: 100%;
   background-position: center top;
 }
 .bg-contact{
-  background: url('./img/home/bg3.png') no-repeat;
+  background: url('./img/home/bg3.webp') no-repeat;
   background-size: 100%;
   background-position: center;
 }
@@ -583,7 +583,7 @@ nav .overlay {
 
 @media (max-width:575px) {
   .main_bg{
-    background: url('./img/home/mobile_banner.png') no-repeat;
+    background: url('./img/home/mobile_banner.webp') no-repeat;
     background-size: cover;
     background-position: center;
   }
