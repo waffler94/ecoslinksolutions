@@ -44,7 +44,7 @@
                               <a href="/solutions/iot-system" class=" block w-full px-6 py-3">IOT System</a>
                           </li>
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/solutions/system-integrate" class=" block w-full px-6 py-3">System Integration Work</a>
+                              <a href="/solutions/system-integration" class=" block w-full px-6 py-3">System Integration Work</a>
                           </li>
                       </ul>
                   </div>
@@ -97,7 +97,7 @@
                 </div></li>
                 
                 <li><a href="/solutions/iot-system">IOT System</a></li>
-                <li><a href="/solutions/system-integrate" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
+                <li><a href="/solutions/system-integration" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
                   <!-- <div class="submenu">
                     <a href="/system-integration-work" class="block w-fit px-6 py-3">System Integration Work</a>
                   </div> -->
