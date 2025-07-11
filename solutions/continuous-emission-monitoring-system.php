@@ -77,7 +77,7 @@
                 <div class="jq-tab-title" data-tab="2">ABB</div>
                 <div class="jq-tab-title" data-tab="3">Envea</div>
                 <div class="jq-tab-title" data-tab="4">SICK</div>
-                <div class="jq-tab-title" data-tab="4">Auburn Sensor</div>
+                <!-- <div class="jq-tab-title" data-tab="4">Auburn Sensor</div> -->
             </div>
             <div class="dropdown min-[1024px]:hidden block">
               <div class="relative">
@@ -90,12 +90,12 @@
                   <div class="jq-tab-title" data-tab="2">ABB</div>
                   <div class="jq-tab-title" data-tab="3">Envea</div>
                   <div class="jq-tab-title" data-tab="4">SICK</div>
-                  <div class="jq-tab-title" data-tab="4">Auburn Sensor</div>
+                  <!-- <div class="jq-tab-title" data-tab="4">Auburn Sensor</div> -->
               </div>
             </div>
             <div class="jq-tab-content-wrapper">
                 <div class="jq-tab-content active text-black" data-tab="1">
-                  <img src="../img/solutions/cems/image2.png" alt="Dr. Fodisch logo" width="300" height="200" class='block mb-4 mx-auto' />
+                  <img src="../img/solutions/cems/image2.png" alt="Dr. Fodisch logo" width="300" height="200" class='block mb-8' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
                       <div class="gallery-item" data-src="../img/solutions/cems/image1.png" data-aos="fade-up">
@@ -104,7 +104,7 @@
                     </div>
                     <div class="w-full">
                       <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">Multi component analyser MCA 10</h3>
-                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                         <li class="mb-2" data-aos="fade-right">Extractive multicomponent analysis system</li>
                         <li class="mb-2" data-aos="fade-right">Hot-wet gas analysis</li>
                         <li class="mb-2" data-aos="fade-right">QAL 1 & MCERTS according to EN 15267-3</li>
@@ -121,7 +121,7 @@
                     </div>
                     <div class="w-full">
                         <h3 class="font-bold text-[18px] md:text-[24px] mb-4 mt-6 leading-[1.2]" data-aos="fade-down">Dust monitoring device PFM 02 Ex</h3>
-                        <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                        <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                           <li class="mb-2" data-aos="fade-right">Filter monitor for in-situ dust measurement with EC-Type Examination Certificate (IBExU04ATEX1249 X)</li>
                           <li class="mb-2" data-aos="fade-right">Approved for Ex II 1 / 3D Ex ia / tc IIIC T74 ° C Da / Dc</li>
                           <li class="mb-2" data-aos="fade-right">Compact device</li>
@@ -137,7 +137,7 @@
                     </div>
                     <div class="w-full">
                       <h3 class="font-bold text-[18px] md:text-[24px] mb-4 mt-6 leading-[1.2]" data-aos="fade-down">Flow measuring device FMD 09</h3>
-                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                         <li class="mb-2" data-aos="fade-right">Continuous measurement of exhaust gas velocity, exhaust gas flow, pressure and temperature</li>
                         <li class="mb-2" data-aos="fade-right">Compact unit with differential pressure probe</li>
                         <li class="mb-2" data-aos="fade-right">Can be used in flue gases with high dust contents</li>
@@ -148,7 +148,7 @@
                   </div>
                 </div>
                 <div class="jq-tab-content text-black" data-tab="2">
-                  <img src="../img/solutions/cems/image5.png" alt="ABB logo" width="300" height="200" class='block mb-4 mx-auto' />
+                  <img src="../img/solutions/cems/image5.png" alt="ABB logo" width="300" height="200" class='block mb-8' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
                       <div class="gallery-item" data-src="../img/solutions/cems/image6.png" data-aos="fade-up">
@@ -158,7 +158,7 @@
                     <div class="w-full">
                       <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ABB EL3020 Analyzer</h3>
                       <p class="">Features gas-filled opto-pneumatic radiation detectors. Detector filling corresponds to the gas being measured, which means that the detector provides optimum sensitivity and high selectivity compared with the other gas components in the sample.</p>
-                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                         <li class="mb-2" data-aos="fade-right">Detectors with different measurement principles for numerous process and emission monitoring applications</li>
                         <li class="mb-2" data-aos="fade-right">Up to five measurement components per gas analyzer</li>
                         <li class="mb-2" data-aos="fade-right">Suitable for measuring flammable gases</li>
@@ -228,8 +228,8 @@
                   </div>
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image13.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image13.png" class="w-full" alt="IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS" />
+                      <div class="gallery-item" data-src="../img/solutions/cems/image16.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image16.png" class="w-full" alt="IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS" />
                       </div>
                     </div>
                     <div class="w-full">
@@ -242,7 +242,7 @@
                 </div>
                 
                 <div class="jq-tab-content text-black" data-tab="4">
-                  <img src="../img/solutions/cems/image13.png" alt="SICK logo" width="300" height="200" class='block mb-4 mx-auto' />
+                  <img src="../img/solutions/cems/image13.png" alt="SICK logo" width="300" height="200" class='block mb-8' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
                       <div class="gallery-item" data-src="../img/solutions/cems/image14.png" data-aos="fade-up">
@@ -251,7 +251,7 @@
                     </div>
                     <div class="w-full">
                       <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER SP100</h3>
-                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                         <li class="mb-2" data-aos="fade-right">Installation from one side</li>
                         <li class="mb-2" data-aos="fade-right">For very low to medium dust concentrations</li>
                         <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
@@ -270,7 +270,7 @@
                     </div>
                     <div class="w-full">
                       <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER T100</h3>
-                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
                         <li class="mb-2" data-aos="fade-right">For medium to high dust concentrations</li>
                         <li class="mb-2" data-aos="fade-right">Integrated contamination check</li>
                         <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>

@@ -22,8 +22,10 @@
                               <a href="/solutions/continuous-emission-monitoring-system" class=" block w-full px-6 py-3">Continuous Emission Monitoring System</a>
                               <div class="subdropdown">
                                   <ul class="subsubmenu">
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system" class="block w-full px-6 py-3">Envea</a></li>
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#drf" class="block w-full px-6 py-3">Dr. Födisch</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system" class="block w-full px-6 py-3">Dr. Fodisch</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-full px-6 py-3">ABB</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-full px-6 py-3">Envea</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-full px-6 py-3">SICK</a></li>
                                   </ul>
                               </div>
                           </li>
@@ -31,10 +33,9 @@
                               <a href="/solutions/process-analyzer" class="block w-full px-6 py-3">Process Analzyer</a>
                               <div class="subdropdown">
                                 <ul class="subsubmenu relative">
-                                  <li class="block w-full"><a href="/analytical-process-measurement" class="block w-full px-6 py-3">Applied Analytics Inc</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#agc" class="block w-full px-6 py-3">AGC Instrument</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#classic-filters" class="block w-full px-6 py-3">Classic Filters</a></li>
-                                  <li class="block w-full"><a href="/analytical-process-measurement#deltac" class="block w-full px-6 py-3">Delta C</a></li>
+                                  <li class="block w-full"><a href="/solutions/process-analyzer" class="block w-full px-6 py-3">ECD</a></li>
+                                  <li class="block w-full"><a href="/solutions/process-analyzer#phymetrix" class="block w-full px-6 py-3">PhyMetrix</a></li>
+                                  <li class="block w-full"><a href="/solutions/process-analyzer#southland" class="block w-full px-6 py-3">Southland Sensing</a></li>
                                 </ul>
                               </div>
                           </li>
@@ -82,16 +83,17 @@
                 <li><a href="/solutions">Solutions</a></li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><i class="fas fa-chevron-right transition"></i></a>
                   <div class="submenu">
-                    <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">Envea</a>
-                    <a href="/solutions/continuous-emission-monitoring-system#drf" class="block w-fit px-6 pb-3">Dr. Födisch</a>
+                    <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">Dr. Födisch</a>
+                    <a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-fit px-6 pb-3">ABB</a>
+                    <a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-fit px-6 pb-3">Envea</a>
+                    <a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-fit px-6 pb-3">SICK</a>
                   </div>
                 </li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Process Analzyer</span><i class="fas fa-chevron-right transition"></i></a>
                 <div class="submenu">
-                  <a href="/solutions/process-analyzer" class="block w-fit px-6 py-3">Applied Analytics Inc</a>
-                  <a href="/solutions/process-analyzer#agc" class="block w-fit px-6 pb-3">AGC Instrument</a>
-                  <a href="/solutions/process-analyzer#classic-filters" class="block w-fit px-6 pb-3">Classic Filters</a>
-                  <a href="/solutions/process-analyzer#deltac" class="block w-fit px-6 pb-3">Delta C</a>
+                  <a href="/solutions/process-analyzer" class="block w-fit px-6 py-3">ECD</a>
+                  <a href="/solutions/process-analyzer#phymetrix" class="block w-fit px-6 pb-3">PhyMetrix</a>
+                  <a href="/solutions/process-analyzer#southland" class="block w-fit px-6 pb-3">Southland Sensing</a>
                 </div></li>
                 
                 <li><a href="/solutions/iot-system">IOT System</a></li>
