@@ -214,7 +214,7 @@
                 </div> -->
             </div>
         </section>
-        <section class='flex gap-x-1 sm:gap-y-0 gap-y-6 mt-8 w-full bg-[#57C43F]'>
+        <section class='flex gap-x-1 sm:gap-y-0 gap-y-6 mt-8 w-full bg-[#076204]'>
           <div class='text-white px-0 sm:px-6 py-6 text-center w-full sm:w-1/3 flex flex-col items-center justify-center'>
             <h6 class="font-bold text-[1.2em] lg:text-[1.6em] leading-6 mb-2" id="counter1">0</h6>
             <p class='text-[11px] sm:text-[13px] leading-[1.2]'>Years of Service</p>
@@ -304,7 +304,7 @@
                   <a href="mailto:info@ecoslinksolutions.com" class="hover:text-[#035D87]">info@ecoslinksolutions.com</a>
                 </p>
                 <div class='google-maps w-full text-[1.2em]'>
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.3794833350594!2d101.4368387!3d3.2555413000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4fbb75e05057%3A0x710c082800d6a6ff!2sEcos%20Link%20Solutions%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1751821261292!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe title="ecoslinksolutions map location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.3794833350594!2d101.4368387!3d3.2555413000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4fbb75e05057%3A0x710c082800d6a6ff!2sEcos%20Link%20Solutions%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1751821261292!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
               </div>
               <form
@@ -315,53 +315,58 @@
                 data-aos="fade-left"
               >
                 <div class="flex flex-col">
-                  <label for="name" class="mb-1 text-sm font-medium text-gray-700">Name <span class="text-[#ff0000]">*</span></label>
-                  <input
-                    type="text"
-                    class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
-                    name="name"
-                    placeholder=""
-                  />
+                  <label for="name" class="mb-1 text-sm font-medium text-gray-700">Name <span class="text-[#ff0000]">*</span>
+                    <input
+                      type="text"
+                      class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
+                      name="name"
+                      placeholder=""
+                    />
+                  </label>
                 </div>
 
                 <div class="flex flex-col">
-                  <label for="email" class="mb-1 text-sm font-medium text-gray-700">Email <span class="text-[#ff0000]">*</span></label>
-                  <input
-                    type="email"
-                    class="validate-required text-black validate-email w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
-                    name="email"
-                    placeholder=""
-                  />
+                  <label for="email" class="mb-1 text-sm font-medium text-gray-700">Email <span class="text-[#ff0000]">*</span>
+                    <input
+                      type="email"
+                      class="validate-required text-black validate-email w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
+                      name="email"
+                      placeholder=""
+                    />
+                  </label>
                 </div>
 
                 <div class="flex flex-col">
-                  <label for="phone" class="mb-1 text-sm font-medium text-gray-700">Phone Number <span class="text-[#ff0000]">*</span></label>
-                  <input
-                    type="text"
-                    class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
-                    name="phone"
-                    placeholder=""
-                  />
+                  <label for="phone" class="mb-1 text-sm font-medium text-gray-700">Phone Number <span class="text-[#ff0000]">*</span>
+                    <input
+                      type="text"
+                      class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
+                      name="phone"
+                      placeholder=""
+                    />
+                  </label>
                 </div>
 
                 <div class="flex flex-col">
-                  <label for="subject" class="mb-1 text-sm font-medium text-gray-700">Subject <span class="text-[#ff0000]">*</span></label>
-                  <input
-                    type="text"
-                    class="w-full text-black border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
-                    name="subject"
-                    placeholder=""
-                  />
+                  <label for="subject" class="mb-1 text-sm font-medium text-gray-700">Subject <span class="text-[#ff0000]">*</span>
+                    <input
+                      type="text"
+                      class="w-full text-black border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
+                      name="subject"
+                      placeholder=""
+                    />
+                  </label>
                 </div>
 
                 <div class="flex flex-col">
-                  <label for="message" class="mb-1 text-sm font-medium text-gray-700">Message <span class="text-[#ff0000]">*</span></label>
-                  <textarea
-                    class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
-                    name="message"
-                    rows="4"
-                    placeholder=""
-                  ></textarea>
+                  <label for="message" class="mb-1 text-sm font-medium text-gray-700">Message <span class="text-[#ff0000]">*</span>
+                    <textarea
+                      class="validate-required text-black w-full border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-[#035D87]"
+                      name="message"
+                      rows="4"
+                      placeholder=""
+                    ></textarea>
+                  </label>
                 </div>
 
                 <button
