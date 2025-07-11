@@ -155,7 +155,7 @@
         </section>
         <section class='pt-12 lg:pt-24 pb-14 bg-journey'>
           <div class='w-11/12 sm:w-5/6 mx-auto'>
-            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#0396D5]'>My</span> Journey</h2>
+            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#0396D5]'>Our</span> Journey</h2>
             <div data-aos="fade-up" class='relative text-center mx-auto w-1/5 flex justify-center items-center my-6'>
                 <div class='bg-[#0086AF] h-[2px] w-full'></div>
                 <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>

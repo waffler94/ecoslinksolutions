@@ -74,8 +74,8 @@
           <div class="jq-tab-wrapper" id="verticalTab">
             <div class="jq-tab-menu min-[1024px]:block hidden">
                 <div class="jq-tab-title active" data-tab="1">Dr. Fodisch</div>
-                <div class="jq-tab-title" data-tab="2">Envea</div>
-                <div class="jq-tab-title" data-tab="3">ABB</div>
+                <div class="jq-tab-title" data-tab="2">ABB</div>
+                <div class="jq-tab-title" data-tab="3">Envea</div>
                 <div class="jq-tab-title" data-tab="4">SICK</div>
                 <div class="jq-tab-title" data-tab="4">Auburn Sensor</div>
             </div>
@@ -87,8 +87,8 @@
               
               <div class="dropdown-content">
                   <div class="jq-tab-title" data-tab="1">Dr. Fodisch</div>
-                  <div class="jq-tab-title" data-tab="2">Envea</div>
-                  <div class="jq-tab-title" data-tab="3">ABB</div>
+                  <div class="jq-tab-title" data-tab="2">ABB</div>
+                  <div class="jq-tab-title" data-tab="3">Envea</div>
                   <div class="jq-tab-title" data-tab="4">SICK</div>
                   <div class="jq-tab-title" data-tab="4">Auburn Sensor</div>
               </div>
@@ -148,68 +148,136 @@
                   </div>
                 </div>
                 <div class="jq-tab-content text-black" data-tab="2">
-                  
+                  <img src="../img/solutions/cems/image5.png" alt="ABB logo" width="300" height="200" class='block mb-4 mx-auto' />
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image6.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image6.png" class="w-full" alt="ABB EL3020 Analyzer" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ABB EL3020 Analyzer</h3>
+                      <p class="">Features gas-filled opto-pneumatic radiation detectors. Detector filling corresponds to the gas being measured, which means that the detector provides optimum sensitivity and high selectivity compared with the other gas components in the sample.</p>
+                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Detectors with different measurement principles for numerous process and emission monitoring applications</li>
+                        <li class="mb-2" data-aos="fade-right">Up to five measurement components per gas analyzer</li>
+                        <li class="mb-2" data-aos="fade-right">Suitable for measuring flammable gases</li>
+                        <li class="mb-2" data-aos="fade-right">Automatic calibration including pump and valve control</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image7.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image7.png" class="w-full" alt="ABB AO2040" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ABB AO2040</h3>
+                      <p class="">Advance Optima Continuous Gas Analyser AO2000 Series.The ABB Advance Optima AO2040 is part of the AO2000 series, a modular product line designed for continuous process gas analysis. The series is highly versatile and offers a wide range of analyzer modules for a variety of applications, including process and emissions monitoring. AO2040 is specifically configured for use in Zone 1,21 and 2,22 environments, where explosive environments are possible.</p>
+                    </div>
+                  </div>
                 </div>
                 <div class="jq-tab-content text-black" data-tab="3">
-                  <img src="../img/solutions/cems/logo.png" alt="logo" width="200" height="200" class='block mb-8' />
-              
+                  <img src="../img/solutions/cems/image8.png" alt="Envea" width="200" height="200" class='block mb-8' />
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image9.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image9.png" class="w-full" alt="OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710</h3>
+                      <p class="mb-4">QAL1 approved particulate CEM which meets US EPA PS-1 requirements for Opacity monitoring from combustion stack.</p>
+                      <p class="">Robust multi corner cube reflector provides truer reflection of transmitted light compared to traditional "mirror type" reflectors providing greater confidence in measurement.</p>
+                    </div>
+                  </div>
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image10.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image10.png" class="w-full" alt="PARTICULATE CEM FOR WET GAS STREAMS - STACK 181 WS" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">PARTICULATE CEM FOR WET GAS STREAMS - STACK 181 WS</h3>
+                      <p class="">US EPA PS11 capable ProScatter™ particulate CEM for the extractive sampling and measurement of particulate in saturated wet gas streams.</p>
+                    </div>
+                  </div>
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image11.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image11.png" class="w-full" alt="OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">STACKFLOW 400 𝘍𝘭𝘶𝘦𝘚𝘰𝘯𝘪𝘤™ APPROVED FLUE GAS VELOCITY CEM</h3>
+                      <p class="">Approved flue gas velocity CEM for stack velocity, volumetric flow and pollutant mass release calculations when linked to Gas and Dust CEMS.</p>
+                    </div>
+                  </div>
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image12.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image12.png" class="w-full" alt="MIR 9000e NDIR-GFC Multi-Gas Analyzer" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">MIR 9000e NDIR-GFC Multi-Gas Analyzer</h3>
+                      <p class="mb-4">Eco-designed, ultra-compact, smart &amp; connected instrument, the MIR 9000e is your next tool to measure combustion exhaust gas from boiler, or gas from different industrial furnaces and process applications.</p>
+                      <p class="">It offers superior metrological performances for the simultaneous multi-gas measurement of: NOx, SO2, CO, O2, residual H2O, CO2, CH4 and N2O (greenhouse gases).</p>
+                    </div>
+                  </div>
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image13.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image13.png" class="w-full" alt="IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS</h3>
+                      <p class="mb-4">A complete &quot;all in one compact&quot; system, for multi-gas measurements, based on the field-proven MIR 9000 analyzer and on-board SEC sampling system.</p>
+                      <p class="mb-4">Fast &amp; simultaneous measurement of up to 10 gases among: HCl, NO, NO2 (NOx), SO2, CO, CO2, HC, CH4 (TOC), HF, N2O, O2, at the sampling location.</p>
+                      <p class="">Integrated sample drying &amp; system conditioning; no sample line necessary.</p>
+                    </div>
+                  </div>
                 </div>
-                <!-- <div class="jq-tab-content text-black" data-tab="4">
-                  <img src="../img/solutions/cems/logo.png" alt="logo" width="400" height="400" class='block mb-4' />
-                  <p class="text-[0.8em] md:text-[1em] mb-8">Delta C Technologies is a privately owned, Canadian company located in Salmon Arm, British Columbia. Founded in 1989, Delta C specializes in the design and manufacture of capacitance based watercut analzyers. Our unique design approach, coupled with our uncompromising commitment to quality redefined capacitive watercut technology.
-                  </p>
-                  <div class="flex flex-col justify-between gap-4 mt-10 md:mb-10 mb-6">
-                    
+                
+                <div class="jq-tab-content text-black" data-tab="4">
+                  <img src="../img/solutions/cems/image13.png" alt="SICK logo" width="300" height="200" class='block mb-4 mx-auto' />
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image14.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image14.png" class="w-full" alt="DUSTHUNTER SP100" />
+                      </div>
+                    </div>
                     <div class="w-full">
-                      <p class="text-[1.1em] md:text-[1.4em] text-[#b00100] mb-1">DC-1510</p>
-                      <p class="text-[1em] md:text-[1.3em] mb-1 text-[#b00100]">Flanged Inline</p>
-                      <p class="text-[0.9em] md:text-[1.1em] mb-4 text-[#b00100]">ANSI B16.5</p>
-                      <p class="text-[0.8em] md:text-[1em] mb-4">ANSI B16.5 flanged inline sensor for capacitive high-sensitivity measurement of quality of fluid processes in upstream and midstream petroleum, fuel, lubricant other industrial applications.</p>
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER SP100</h3>
+                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Installation from one side</li>
+                        <li class="mb-2" data-aos="fade-right">For very low to medium dust concentrations</li>
+                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
+                        <li class="mb-2" data-aos="fade-right">Contamination check</li>
+                        <li class="mb-2" data-aos="fade-right">Hastelloy probe available for corrosive gases</li>
+                        <li class="mb-2" data-aos="fade-right">For small to medium duct diameters</li>
+                        <li class="mb-2" data-aos="fade-right">Device version for Ex zone 2</li>
+                      </ul>
                     </div>
-                    <div class="lightgallery flex sm:flex-row flex-col items-center gap-4 w-full min-w-[300px] mx-auto">
-                      <div class="gallery-item mx-auto block" data-src="../img/solutions/cems/image10.png">
-                        <a class="example-image-link"><img src="../img/solutions/cems/image10.png" class="mx-auto" alt="Image 1" data-index="0"></a>
-                      </div>
-                      <div class="gallery-item max-w-[250px]" data-src="../img/solutions/cems/image11.png">
-                        <img src="../img/solutions/cems/image11.png" alt="Image 2" data-index="0">
+                  </div> 
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-1/3">
+                      <div class="gallery-item" data-src="../img/solutions/cems/image15.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/image15.png" class="w-full" alt="DUSTHUNTER T100" />
                       </div>
                     </div>
-                  </div>
-
-                  
-                  <div class="flex flex-col justify-between gap-4 mt-12 md:mb-10 mb-6">
-                    
                     <div class="w-full">
-                      <p class="text-[1em] md:text-[1.2em] text-[#b00100] mb-2">DC-3510F</p>
-                      <p class="text-[0.9em] md:text-[1.1em] text-[#b00100] mb-2">Flanged Insertion Watercut Analyzer</p>
-                      <p class="text-[0.8em] md:text-[1em] mb-4">ANSI B16.5 flanged insertion sensor for capacitive high-sensitivity measurement of quality of fluid processes in upstream and midstream petroleum, fuel, lubricant and other industrial applications.
-                      </p>
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER T100</h3>
+                      <ul class='list-disc pl-6 text-[14px] lg:text-[19px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">For medium to high dust concentrations</li>
+                        <li class="mb-2" data-aos="fade-right">Integrated contamination check</li>
+                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
+                        <li class="mb-2" data-aos="fade-right">For small to large measuring distances</li>
+                      </ul>
                     </div>
-                    <div class="lightgallery flex sm:flex-row flex-col items-center gap-4 w-full min-w-[300px] mx-auto">
-                      <div class="gallery-item mx-auto block" data-src="../img/solutions/cems/DC-3510F.jpg">
-                        <a class="example-image-link"><img src="../img/solutions/cems/DC-3510F.jpg" class="mx-auto" alt="Image 1" data-index="1"></a>
-                      </div>
-                      <div class="gallery-item mx-auto block" data-src="../img/solutions/cems/DC-3510F-2.jpg">
-                        <a class="example-image-link"><img src="../img/solutions/cems/DC-3510F-2.jpg" class="mx-auto" alt="Image 2" data-index="1"></a>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
-                <div class="jq-tab-content text-black" data-tab="5">
-                  <img src="../img/solutions/cems/logo.png" alt="logo" width="300" height="200" class='block mb-8' />
-              
-                  <p class="text-[0.8em] md:text-[1em] mb-4">It was 2007 when eralytics started to revolutionize the petroleum testing industry. Going from a start-up company and driven by a great passion for making analyzers for the petroleum industry eralytics was founded in 2007 by four experts of the petroleum industry. </p>
-                  <p class="text-[0.8em] md:text-[1em] mb-4">The first product ERAVAP, a fully automated vapor pressure tester was the first vapor pressure tester on the market that featured a color touchscreen and a modern industry PC with USB and Ethernet interfaces.</p>
-                  <div class="gallery">
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-10 lightgallery">
-                      <div class="gallery-item" data-src="../img/solutions/cems/p1.png">
-                        <img src="../img/solutions/cems/p1.png" alt="Image 1" data-index="1">
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/p2.png">
-                        <img src="../img/solutions/cems/p2.png" alt="Image 2" data-index="1">
-                      </div>
-                    </div>
-                  </div>  
+                  </div> 
                 </div>
             </div>
           </div>
@@ -223,9 +291,9 @@
   
         $('.jq-tab-title, .jq-tab-content').removeClass('active');
 
-        if(window.location.hash.includes("#envea")){
+        if(window.location.hash.includes("#abb")){
           $('[data-tab="2"]').addClass('active');
-        }else if(window.location.hash.includes("#abb")){
+        }else if(window.location.hash.includes("#envea")){
           $('[data-tab="3"]').addClass('active');
         }else if(window.location.hash.includes("#sick")){
           $('[data-tab="4"]').addClass('active');

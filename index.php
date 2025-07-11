@@ -302,7 +302,7 @@
                 </p>
                 <p class="mb-4 text-[0.8em] md:text-[1em] text-black flex items-center gap-x-4">
                   <i class="icon-21 text-[#0396D5] text-[1.2em]"></i>
-                  <a href="mailto:info@alammulia.com" class="hover:text-[#0396D5]">info@alammulia.com</a>
+                  <a href="mailto:info@ecoslinksolutions.com" class="hover:text-[#0396D5]">info@ecoslinksolutions.com</a>
                 </p>
                 <div class='google-maps w-full text-[1.2em]'>
                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.3794833350594!2d101.4368387!3d3.2555413000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4fbb75e05057%3A0x710c082800d6a6ff!2sEcos%20Link%20Solutions%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1751821261292!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
