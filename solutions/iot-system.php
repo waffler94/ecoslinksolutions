@@ -53,7 +53,7 @@
         <section class="">
           <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 bg-banner-3">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
-              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#0396D5]">IOT</span> System</h1>
+              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#035D87]">IOT</span> System</h1>
               <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><a href="/solutions">Solutions</a><span>/</span><b>IOT System</b></p>
             </div>
           </div>
@@ -69,21 +69,21 @@
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
             <div class="grid gap-6 grid-cols-1 md:grid-cols-3">
               <div class="system_box leading-[1.2]" data-aos="fade-down">
-                <div class="w-[60px] h-[60px] bg-[#0396D5] text-white text-[2em] rounded-full flex items-center justify-center">
+                <div class="w-[60px] h-[60px] bg-[#035D87] text-white text-[2em] rounded-full flex items-center justify-center">
                     <i class="icon-22"></i>
                 </div>
                 <h3 class="text-[#252B42] text-[16px] md:text-[19px] font-bold mt-4 mb-2">Data Aggregation:</h3>
                 <p class="text-[14px] md:text-[16px] text-[#8987A1] leading-[1.2]">Collects data from sensors, PLCs, and ERP systems across all plants for holistic visibility.</p>
               </div>
               <div class="system_box leading-[1.2]" data-aos="fade-down">
-                <div class="w-[60px] h-[60px] bg-[#0396D5] text-white text-[2em] rounded-full flex items-center justify-center">
+                <div class="w-[60px] h-[60px] bg-[#035D87] text-white text-[2em] rounded-full flex items-center justify-center">
                     <i class="icon-23"></i>
                 </div>
                 <h3 class="text-[#252B42] text-[16px] md:text-[19px] font-bold mt-4 mb-2">Real-Time Monitoring &amp; Reporting:</h3>
                 <p class="text-[14px] md:text-[16px] text-[#8987A1] leading-[1.2]">Provides dashboards and automated reports, enabling quick decisions on production performance and maintenance.</p>
               </div>
               <div class="system_box leading-[1.2]" data-aos="fade-down">
-                <div class="w-[60px] h-[60px] bg-[#0396D5] text-white text-[2em] rounded-full flex items-center justify-center">
+                <div class="w-[60px] h-[60px] bg-[#035D87] text-white text-[2em] rounded-full flex items-center justify-center">
                     <i class="icon-24"></i>
                 </div>
                 <h3 class="text-[#252B42] text-[16px] md:text-[19px] font-bold mt-4 mb-2">Analytics &amp; KPI Tracking:</h3>
@@ -92,14 +92,14 @@
             </div>
             <div class="grid gap-6 grid-cols-1 md:grid-cols-2 mb-8 mt-6">
               <div class="system_box leading-[1.2]" data-aos="fade-up">
-                <div class="w-[60px] h-[60px] bg-[#0396D5] text-white text-[2em] rounded-full flex items-center justify-center">
+                <div class="w-[60px] h-[60px] bg-[#035D87] text-white text-[2em] rounded-full flex items-center justify-center">
                     <i class="icon-25"></i>
                 </div>
                 <h3 class="text-[#252B42] text-[16px] md:text-[19px] font-bold mt-4 mb-2">Modular Design:</h3>
                 <p class="text-[14px] md:text-[16px] text-[#8987A1] leading-[1.2]">Supports customization for different plant types (e.g., palm oil mills, chemical plants) with configurable dashboards and modules for specific process parameters.</p>
               </div>
               <div class="system_box leading-[1.2]" data-aos="fade-up">
-                <div class="w-[60px] h-[60px] bg-[#0396D5] text-white text-[2em] rounded-full flex items-center justify-center">
+                <div class="w-[60px] h-[60px] bg-[#035D87] text-white text-[2em] rounded-full flex items-center justify-center">
                     <i class="icon-26"></i>
                 </div>
                 <h3 class="text-[#252B42] text-[16px] md:text-[19px] font-bold mt-4 mb-2">Remote Access &amp; Control:</h3>

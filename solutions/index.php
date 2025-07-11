@@ -65,7 +65,7 @@
             </div>
             <div class='grid grid-cols-1 grid-rows-4 sm:grid-cols-2 sm:grid-rows-2 my-12 md:my-24 gap-8' data-aos="fade-up">
                 <a href="/solutions/continuous-emission-monitoring-system" class="solutions_box" data-aos="fade-right">
-                  <div class="w-[80px] h-[80px] bg-[#0396D5] text-white text-[3em] rounded-full flex items-center justify-center">
+                  <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon11"></i>
                   </div>
                   <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">CEMS Calibration & Maintenance</h2>
@@ -76,7 +76,7 @@
                   </ul>
                 </a>
                 <a href="/solutions/process-analyzer" class="solutions_box" data-aos="fade-left">
-                  <div class="w-[80px] h-[80px] bg-[#0396D5] text-white text-[3em] rounded-full flex items-center justify-center">
+                  <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon12"></i>
                   </div>
                   <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">Process Analyzer Support &amp; Calibration</h2>
@@ -86,7 +86,7 @@
                   </ul>
                 </a>
                 <a href="/solutions/iot-system" class="solutions_box" data-aos="fade-right">
-                  <div class="w-[80px] h-[80px] bg-[#0396D5] text-white text-[3em] rounded-full flex items-center justify-center">
+                  <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon13"></i>
                   </div>
                   <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">IoT System Development &amp; Integration</h2>
@@ -96,7 +96,7 @@
                   </ul>
                 </a>
                 <a href="/solutions/system-integrate" class="solutions_box" data-aos="fade-left">
-                  <div class="w-[80px] h-[80px] bg-[#0396D5] text-white text-[3em] rounded-full flex items-center justify-center">
+                  <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon14"></i>
                   </div>
                   <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">Industrial System Integration</h2>

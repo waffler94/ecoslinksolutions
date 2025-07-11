@@ -168,7 +168,7 @@ nav .overlay {
 }
 
 .menu ul li a:hover {
-  color: #0396D5;
+  color: #035D87;
 }
 
 .menu-open {
@@ -181,7 +181,7 @@ nav .overlay {
   transition: background-color 0.3s ease;
 }
 .scrollDown {
-  background-color: #0396D5;
+  background-color: #035D87;
 }
 
 .burger-icon.close .bar:nth-child(1) {
@@ -273,8 +273,8 @@ nav .overlay {
 }
 
 .about_box:hover div{
-  color:#0396D5;
-  border-color:#0396D5
+  color:#035D87;
+  border-color:#035D87
 }
 
 
@@ -320,7 +320,7 @@ nav .overlay {
 .tab-buttons {
   display: flex;
   flex-direction: column;
-  border-right: 2px solid #0396D5;
+  border-right: 2px solid #035D87;
   width: 25%;
 }
 
@@ -334,7 +334,7 @@ nav .overlay {
 }
 
 .tab-button.active {
-  background-color: #0396D5;
+  background-color: #035D87;
   color: white;
 }
 
@@ -378,11 +378,11 @@ nav .overlay {
   border-left: 3px solid #57C43F; 
 }
   .jq-tab-menu .jq-tab-title:first-child {
-    /* border-top: 1px solid #0396D5;  */
+    /* border-top: 1px solid #035D87;  */
   }
   .jq-tab-menu .jq-tab-title:hover, .jq-tab-menu .jq-tab-title.active {
     background: #57C43F;
-    border-left: 3px solid #0396D5; 
+    border-left: 3px solid #035D87; 
     color:#FFF;
   }
 
@@ -526,7 +526,7 @@ nav .overlay {
   }
   .jq-tab-menu .jq-tab-title:hover, .jq-tab-menu .jq-tab-title.active{
     background: #fff;
-    color: #0396D5;
+    color: #035D87;
     border:none;
   }
   .menu ul li a{

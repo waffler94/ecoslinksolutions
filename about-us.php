@@ -53,7 +53,7 @@
         <section class="">
           <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 md:mt-0 bg-banner-2">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
-              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#0396D5]">About</span> Us</h1>
+              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#035D87]">About</span> Us</h1>
               <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="">Home</a><span>/</span><b>About Us</b></p>
             </div>
           </div>
@@ -75,7 +75,7 @@
             We take pride in being a one-stop CEMS Malaysia solution provider, offering competitive prices and unrivaled service. Whether for DOE compliance or ESG initiative, our tailor-made solutions help you harness the emission data into value while reducing carbon emissions.
             </p>
             <div class="flex md:flex-row flex-col-reverse gap-6 mt-6 md:mt-12">
-              <div class="bg-[#0396D5] p-4 md:p-6 w-full md:w-[40%] flex flex-col justify-center">
+              <div class="bg-[#035D87] p-4 md:p-6 w-full md:w-[40%] flex flex-col justify-center">
                 <h2 class="text-[28px] md:text-[40px] font-bold mb-4" id="counter1">0</h2>
                 <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2] mb-2">Over 300 factories compliance and still counting!</p>
                 <hr class="my-8" />
@@ -92,20 +92,20 @@
         </section>
         <section class='mt-12 md:mt-20 w-11/12 sm:w-5/6 mx-auto flex flex-col md:flex-row gap-6 justify-between items-center'>
           <div class='w-full md:w-1/2'>
-            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center md:text-left'><span class='text-[#0396D5]'>Our </span>Purpose</h2>
+            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center md:text-left'><span class='text-[#035D87]'>Our </span>Purpose</h2>
             <div data-aos="fade-up" class='relative text-center w-1/3 flex justify-center items-center my-4 mx-auto md:mx-0'>
                 <div class='bg-[#0086AF] h-[2px] w-full'></div>
                 <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>
             </div>
             <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mb-4 mt-6 text-center md:text-left'>To provide reliable data for industry and DOE so that our current and next generation enjoy a sustainable and clean Malaysia.</p>
             <p data-aos="fade-up" class="text-[#252B42] text-[13px] md:text-[1em] mb-8 text-center md:text-left">Leaders in the general industry, committed to excellence, innovation, and sustainable practices.</p>              
-            <a href="https://www.ecoslinksolutions.com/#contact-us" data-aos="fade-up" class="block mx-auto md:mx-0 w-fit rounded-lg border-[#0396D5] border-solid bg-[#0396D5] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold">Get a quote</a>
+            <a href="https://www.ecoslinksolutions.com/#contact-us" data-aos="fade-up" class="block mx-auto md:mx-0 w-fit rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold">Get a quote</a>
           </div>
           <img data-aos="fade-left" src="img/about/image5.png" alt="office and factory photo" width="800" height="800" class='w-full md:w-1/2 mt-6 md:mt-0' />
         </section>
         <section class='pt-12 lg:pt-24 pb-14 bg-dna'>
           <div class='w-11/12 sm:w-5/6 mx-auto'>
-            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#0396D5]'>Our</span> DNA</h2>
+            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#035D87]'>Our</span> DNA</h2>
             <div data-aos="fade-up" class='relative text-center mx-auto w-1/5 flex justify-center items-center my-6'>
                 <div class='bg-[#0086AF] h-[2px] w-full'></div>
                 <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>
@@ -114,35 +114,35 @@
             <div class="flex flex-col-reverse min-[769px]:flex-row gap-8 min-[769px]:gap-4 items-start mt-12">
               <div class="flex flex-col gap-8 lg:gap-12">
                 <div class="flex items-center gap-x-4">
-                  <i class="icon-icon6 text-[#0396D5] text-[4em]"></i>
+                  <i class="icon-icon6 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Strive to exceed expectation</h3>
                     <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>We are relentless in our pursuit of the extraordinary, constantly pushing the boundaries of what is possible.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
-                  <i class="icon-icon7 text-[#0396D5] text-[4em]"></i>
+                  <i class="icon-icon7 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Work hard, have fun!</h3>
                     <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>We work hard serving our clients but have fun doing it.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
-                  <i class="icon-icon8 text-[#0396D5] text-[4em]"></i>
+                  <i class="icon-icon8 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Pursue Growth &amp; Learning</h3>
                     <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>An insatiable appetite for knowledge fuels us. We embrace challenges, nurture creativity, and celebrate every opportunity to expand our horizons.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
-                  <i class="icon-icon9 text-[#0396D5] text-[4em]"></i>
+                  <i class="icon-icon9 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Openness &amp; Respect</h3>
                     <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Our doors and minds are always open. We foster a work environment that is transparent, inclusive, and where every voice is valued.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
-                  <i class="icon-icon10 text-[#0396D5] text-[4em]"></i>
+                  <i class="icon-icon10 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Accountability</h3>
                     <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Take ownership. Recognizing and rectifying our mistakes fortifies trust with our clients and team members, enhancing the value of our services.</p>
@@ -155,7 +155,7 @@
         </section>
         <section class='pt-12 lg:pt-24 pb-14 bg-journey'>
           <div class='w-11/12 sm:w-5/6 mx-auto'>
-            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#0396D5]'>Our</span> Journey</h2>
+            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#035D87]'>Our</span> Journey</h2>
             <div data-aos="fade-up" class='relative text-center mx-auto w-1/5 flex justify-center items-center my-6'>
                 <div class='bg-[#0086AF] h-[2px] w-full'></div>
                 <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>
@@ -224,7 +224,7 @@
         </section>
         <section class='pt-6 sm:pt-12 lg:pt-24 pb-14 bg-support'>
           <div class='w-11/12 sm:w-5/6 mx-auto'>
-              <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#0396D5]'>Supports</span> &amp; Recognitions</h2>
+              <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#57c43f] text-center'><span class='text-[#035D87]'>Supports</span> &amp; Recognitions</h2>
               <div data-aos="fade-up" class='relative text-center mx-auto w-1/5 flex justify-center items-center my-6'>
                   <div class='bg-[#0086AF] h-[2px] w-full'></div>
                   <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>

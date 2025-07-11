@@ -53,7 +53,7 @@
         <section class="">
           <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 bg-banner-3">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
-              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#0396D5]">System</span> Integration</h1>
+              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#035D87]">System</span> Integration</h1>
               <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><a href="/solutions">Solutions</a><span>/</span><b>System Integration</b></p>
             </div>
           </div>
