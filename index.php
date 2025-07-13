@@ -184,12 +184,9 @@
                     <img src="img/client/wilmar.webp" loading="eager" alt="Wilmar" class="marquee-image">
                     <img src="img/client/kim_loong.webp" loading="eager" alt="Kim Loong Resources Berhad" class="marquee-image">
                     <img src="img/client/eastman.webp" loading="eager" alt="Eastman" class="marquee-image">
-                    <img src="img/client/flexsys.webp" loading="eager" alt="Flexsys" class="marquee-image">
                     <img src="img/client/arkema.webp" loading="eager" alt="Arkema" class="marquee-image">
                     <img src="img/client/jcorp.webp" loading="eager" alt="Johor Corporation" class="marquee-image">
-                    <img src="img/client/ytl.webp" loading="eager" alt="YTL" class="marquee-image p-8">
                     <img src="img/client/tnb.webp" loading="eager" alt="Tenaga Nasional" class="marquee-image">
-                    <img src="img/client/malakoff.webp" loading="eager" alt="Malakoff" class="marquee-image">
                     <img src="img/client/sarawak_energy.webp" loading="eager" alt="Sarawak Energy" class="marquee-image">
                 </div>
                 <div class="marquee-content scroll reverse">
@@ -198,12 +195,9 @@
                   <img src="img/client/wilmar.webp" loading="eager" alt="Wilmar" class="marquee-image">
                   <img src="img/client/kim_loong.webp" loading="eager" alt="Kim Loong Resources Berhad" class="marquee-image">
                   <img src="img/client/eastman.webp" loading="eager" alt="Eastman" class="marquee-image">
-                  <img src="img/client/flexsys.webp" loading="eager" alt="Flexsys" class="marquee-image">
                   <img src="img/client/arkema.webp" loading="eager" alt="Arkema" class="marquee-image">
                   <img src="img/client/jcorp.webp" loading="eager" alt="Johor Corporation" class="marquee-image">
-                  <img src="img/client/ytl.webp" loading="eager" alt="YTL" class="marquee-image p-8">
                   <img src="img/client/tnb.webp" loading="eager" alt="Tenaga Nasional" class="marquee-image">
-                  <img src="img/client/malakoff.webp" loading="eager" alt="Malakoff" class="marquee-image">
                   <img src="img/client/sarawak_energy.webp" loading="eager" alt="Sarawak Energy" class="marquee-image">
               </div>
                 <!-- <div class="marquee-content scroll reverse">
