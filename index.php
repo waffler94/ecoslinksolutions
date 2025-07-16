@@ -236,7 +236,7 @@
                   <div class="flex gap-[8px] lg:gap-[20px] min-[769px]:items-end lg:items-start justify-between">
                     <div class="w-full min-[576px]:w-3/4 lg:w-1/2 mb-6 sm:mb-12">
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">CEMS solutions from leading brands, featuring MCA 10 for certified hot-wet gas analysis across multiple components.</p>
-                      <a href="/analytical-process-measurement" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
+                      <a href="/solutions/continuous-emission-monitoring-system" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/cems.webp" alt="CEMS" width="800" height="1080" class='h-full w-1/2 min-[576px]:w-[250px] min-[769px]:w-[150px] lg:w-1/2 mt-6' />
                   </div>
@@ -246,7 +246,7 @@
                   <div class="flex gap-[8px] lg:gap-[20px] items-start justify-between">
                     <div class="w-full min-[576px]:w-[60%] mb-12">
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Reliable analyzers for real-time monitoring of TOC, gases, and moisture in industrial processes.</p>
-                      <a href="/process-skid-tab" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
+                      <a href="/solutions/process-analyzer" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/process_analytical_systems.webp" alt="Process Analytical Systems" width="800" height="1080" class='w-1/2 min-[576px]:w-[40%]' />
                   </div>
@@ -256,7 +256,7 @@
                   <div class="flex gap-[8px] lg:gap-[20px] items-start justify-between">  
                     <div class="w-full min-[576px]:w-1/2 mb-12">
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Modular real-time data platform with remote access, KPI tracking, and system integration.</p>
-                      <a href="/analytical-process-measurement" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
+                      <a href="/solutions/iot-system" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/iot_system.webp" alt="IOT System" width="800" height="1080" class='w-1/2 min-[576px]:w-1/2 mt-12' />
                   </div>
@@ -266,7 +266,7 @@
                   <div class="flex gap-[8px] lg:gap-[20px] items-start justify-between">
                     <div class="w-full min-[576px]:w-1/2 mb-12">
                       <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Custom gas analysis with real-time monitoring and global compliance</p>
-                      <a href="/analytical-process-measurement" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
+                      <a href="/solutions/system-integration" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/system_intergration_work.webp" alt="System Integration Work" width="800" height="1080" class='w-[40%] min-[576px]:w-[40%]' />
                   </div>
