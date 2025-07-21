@@ -281,39 +281,154 @@
                 </div>
 
                 <div class="jq-tab-content text-black" data-tab="5">
-                  <img src="../img/solutions/cems/durag_logo.webp" alt="DURAG logo" width="300" height="200" class='block mb-8' />
+                  <img src="../img/solutions/cems/durag_logo.jpeg" alt="DURAG logo" width="300" height="200" class='block p-8' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image14.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image14.png" class="w-full" alt="DUSTHUNTER SP100" />
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 290-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 290-1.jpg" class="w-full" alt="D-R 290" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 290-2.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 290-2.jpg" class="w-full hidden" alt="D-R 290" />
                       </div>
                     </div>
                     <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER SP100</h3>
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 290</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Dust and opacity monitor</h4>
+                      <p class="mb-4">For continuous, contactless dust and opacity measurement at medium to high concentrations in dry flue and process gases. Also suitable for difficult plant conditions. Exceeds EPA and ASTM standards.</p>
                       <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Installation from one side</li>
-                        <li class="mb-2" data-aos="fade-right">For very low to medium dust concentrations</li>
-                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
-                        <li class="mb-2" data-aos="fade-right">Contamination check</li>
-                        <li class="mb-2" data-aos="fade-right">Hastelloy probe available for corrosive gases</li>
-                        <li class="mb-2" data-aos="fade-right">For small to medium duct diameters</li>
-                        <li class="mb-2" data-aos="fade-right">Device version for Ex zone 2</li>
+                        <li class="mb-2" data-aos="fade-right">Continuous dust measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Smallest certified measuring range 0 … 15 mg/m3</li>
+                        <li class="mb-2" data-aos="fade-right">Automatic measurement and correction of contamination</li>
+                        <li class="mb-2" data-aos="fade-right">Automatic check functions</li>
+                        <li class="mb-2" data-aos="fade-right">Contactless measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Maintenance and linearity check without disassembly</li>
+                        <li class="mb-2" data-aos="fade-right"><b>Exceeds EPA and ASTM standards</b><br/>The D-R 290 was developed to comply with 40CFR60, App. B, PS-1 and ASTM D6216-20 Annex A1 “Standard Practice for Opacity Manufactures to Certify Conformance with Design and Performance Specifications."</li>
                       </ul>
                     </div>
                   </div> 
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image15.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image15.png" class="w-full" alt="DUSTHUNTER T100" />
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 909-1.jpg" class="w-full" alt="D-R 909" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-2.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 909-2.jpg" class="w-full hidden" alt="D-R 909" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-3.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 909-3.jpg" class="w-full hidden" alt="D-R 909" />
                       </div>
                     </div>
                     <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER T100</h3>
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 909</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Extractive dust monitor</h4>
+                      <p class="mb-4">Extractive continuous dust measurement of small to medium dust concentrations in wet flue and process gases even under difficult plant conditions. </p>
                       <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">For medium to high dust concentrations</li>
-                        <li class="mb-2" data-aos="fade-right">Integrated contamination check</li>
-                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
-                        <li class="mb-2" data-aos="fade-right">For small to large measuring distances</li>
+                        <li class="mb-2" data-aos="fade-right">QAL1-certified in accordance with EN 15267</li>
+                        <li class="mb-2" data-aos="fade-right">Automatic control functions</li>
+                        <li class="mb-2" data-aos="fade-right">Flow-optimized design prevents the deposit of impurities</li>
+                        <li class="mb-2" data-aos="fade-right">Efficient operation due to electronically controlled blowers and heaters</li>
+                        <li class="mb-2" data-aos="fade-right">Modular system of compact units</li>
+                      </ul>
+                    </div>
+                  </div> 
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 320-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 320-1.jpg" class="w-full" alt="D-R 320" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 320-2.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 320-2.jpg" class="w-full hidden" alt="D-R 320" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 320</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">In situ dust monitor</h4>
+                      <p class="mb-4">For continuous, contactless measurement of low to medium dust concentrations in dry flue and process gases. Also suitable for corrosive gases and potentially explosive atmospheres.</p>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Continuous dust measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Smallest certified measuring range 0 … 7.5 mg/m3</li>
+                        <li class="mb-2" data-aos="fade-right">Single-sided installation without optical alignment</li>
+                        <li class="mb-2" data-aos="fade-right">Automatic check functions</li>
+                        <li class="mb-2" data-aos="fade-right">Continuous, integrated purge air monitoring and control</li>
+                        <li class="mb-2" data-aos="fade-right">Maintenance and linearity check without disassembly</li>
+                        <li class="mb-2" data-aos="fade-right">Contactless measurement</li>
+                      </ul>
+                    </div>
+                  </div> 
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 808-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 808-1.jpg" class="w-full" alt="D-R 808" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 808-2.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/D-R 808-2.jpg" class="w-full hidden" alt="D-R 808" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 808</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">In situ dust monitor</h4>
+                      <p class="mb-4">Certified and approved PM CEMS providing very high quality monitoring of very low to medium particulate concentrations in dry flue gas flows.</p>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Certified for the range of 0-7.5 mg/m3 the lowest range achievable for a dust CEMS (Continuous Emissions Monitoring System)</li>
+                        <li class="mb-2" data-aos="fade-right">Certified and approved dust analyzer for ensuring plant compliance with international standards for industrial emissions</li>
+                        <li class="mb-2" data-aos="fade-right"><b>New</b>: ATEX & IECEx certified to operate safely in hazardous environments, minimizing the risk of ignition and explosion</li>
+                      </ul>
+                    </div>
+                  </div> 
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas-1.jpg" class="w-full" alt="ProCeas" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-2.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas-2.jpg" class="w-full hidden" alt="ProCeas" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-3.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas-3.png" class="w-full hidden" alt="ProCeas" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-4.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas-4.png" class="w-full hidden" alt="ProCeas" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ProCeas</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Laser infrared spectrometer</h4>
+                      <p class="mb-4">Fully pre-calibrated multi-component gas analyzer for process gas analysis. Suitable for a wide range of gases and applications.</p>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Continuous multigas measurement</li>
+                        <li class="mb-2" data-aos="fade-right">High resolution IR laser technology</li>
+                        <li class="mb-2" data-aos="fade-right">Patented OFCEAS TDL technology</li>
+                        <li class="mb-2" data-aos="fade-right">No optical moving parts</li>
+                        <li class="mb-2" data-aos="fade-right">Direct measurement without degrading the sample (no scrubber needed)</li>
+                        <li class="mb-2" data-aos="fade-right">Patented low pressure sampling system</li>
+                        <li class="mb-2" data-aos="fade-right">Maintenance: Yearly</li>
+                      </ul>
+                    </div>
+                  </div> 
+                  <div class="flex flex-col md:flex-row gap-6 mb-12">
+                    <div class="lightgallery w-full md:w-3/5">
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas Air-1.jpg" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas Air-1.jpg" class="w-full" alt="ProCeas Air" />
+                      </div>
+                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas Air-2.png" data-aos="fade-up">
+                        <img src="../img/solutions/cems/ProCeas Air-2.png" class="w-full hidden" alt="ProCeas Air" />
+                      </div>
+                    </div>
+                    <div class="w-full">
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ProCeas Air</h3>
+                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Laser infrared spectrometer</h4>
+                      <p class="mb-4">Fully pre-calibrated multi-component gas analyzer, e.g. for ambient air, workplace or greenhouse gas applications. Designed for low to medium gas concentrations.</p>
+                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
+                        <li class="mb-2" data-aos="fade-right">Direct and extractive measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Continuous measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Multi components</li>
+                        <li class="mb-2" data-aos="fade-right">High resolution laser technology</li>
+                        <li class="mb-2" data-aos="fade-right">Patented OFCEAS IR laser technology</li>
+                        <li class="mb-2" data-aos="fade-right">No optical moving parts</li>
+                        <li class="mb-2" data-aos="fade-right">Patented low pressure sampling system</li>
+                        <li class="mb-2" data-aos="fade-right">No instrument air consumption</li>
+                        <li class="mb-2" data-aos="fade-right">Up to 16 lines for multiplexed measurement</li>
+                        <li class="mb-2" data-aos="fade-right">Maintenance: yearly</li>
                       </ul>
                     </div>
                   </div> 
