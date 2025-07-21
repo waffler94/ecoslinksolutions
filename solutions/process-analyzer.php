@@ -154,8 +154,8 @@
                   <img src="../img/solutions/process-analyzer/image11.png" alt="Southland Sensing logo" width="500" height="300" class='block mb-8' />
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/process-analyzer/image13.png" data-aos="fade-up">
-                        <img src="../img/solutions/process-analyzer/image13.png" class="w-full" alt="OMD-640 Portable Trace Oxygen Analyzer" />
+                      <div class="gallery-item" data-src="../img/solutions/process-analyzer/image12.png" data-aos="fade-up">
+                        <img src="../img/solutions/process-analyzer/image12.png" class="w-full" alt="OMD-640 Portable Trace Oxygen Analyzer" />
                       </div>
                     </div>
                     <div class="w-full">

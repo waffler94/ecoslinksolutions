@@ -26,6 +26,7 @@
                                       <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-full px-6 py-3">ABB</a></li>
                                       <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-full px-6 py-3">Envea</a></li>
                                       <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-full px-6 py-3">SICK</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#durag" class="block w-full px-6 py-3">DURAG</a></li>
                                   </ul>
                               </div>
                           </li>
@@ -87,6 +88,7 @@
                     <a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-fit px-6 pb-3">ABB</a>
                     <a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-fit px-6 pb-3">Envea</a>
                     <a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-fit px-6 pb-3">SICK</a>
+                    <a href="/solutions/continuous-emission-monitoring-system#durag" class="block w-fit px-6 pb-3">DURAG</a>
                   </div>
                 </li>
                 <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Process Analzyer</span><i class="fas fa-chevron-right transition"></i></a>
