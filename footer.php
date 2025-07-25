@@ -32,5 +32,5 @@
         </div>
     </div>
     <a href="https://wa.link/zq82cu" target="_blank" class="flex items-center justify-center text-[1.8em] w-[50px] h-[50px] rounded-full bg-[#57c43f] transition border border-solid border-[#57c43f] text-white fixed right-4 bottom-4"><i class="fab fa-whatsapp"></i></a>
-    <p class="text-center text-[11px] py-6 border-t-[1px] border-solid border-white">&copy; <span class="latestYear"></span> ECOSLINKSOLUTIONS. All rights reserved.</p>
+    <p class="text-center text-[11px] py-6 border-t-[1px] border-solid border-white">&copy; <span class="latestYear"></span> ECOSLINKSOLUTIONS. (1146976 T) All rights reserved.</p>
 </footer>
