@@ -64,7 +64,7 @@
             </div>
             <div class='flex md:flex-row flex-col w-full gap-4 py-6 my-6 md:my-12' data-aos="fade-up">
               <img src="img/about/image1.png" alt="Chimes" width="800" height="800" class='w-full min-[576px]:w-1/3' />
-              <img src="img/about/image2.png" alt="CEMS process" width="800" height="800" class='w-full min-[576px]:w-2/3' />
+              <img src="img/about/about_us_img.webp" alt="CEMS process" width="800" height="800" class='w-full min-[576px]:w-2/3' />
             </div>
             <p class="text-[#252B42] mb-4">
               Leading Emission Monitoring Company in Malaysia - Creating a Greener Future<br/>
@@ -149,7 +149,7 @@
                   </div>
                 </div>
               </div>
-              <img data-aos="fade-left" src="img/about/image6.png" alt="Review system" width="800" height="800" class='block w-full min-[769px]:w-1/2 min-[769px]:max-w-[600px] mt-6 md:mt-0 mr-0 min-[768px]:mr-[-5vw] min-[1280px]:mr-0' />
+              <img data-aos="fade-left" src="img/about/image6.webp" alt="Review system" width="800" height="800" class='block w-full min-[769px]:w-1/2 min-[769px]:max-w-[600px] mt-6 md:mt-0 mr-0 min-[768px]:mr-[-5vw] min-[1280px]:mr-0' />
             </div>
           </div>
         </section>
