@@ -291,7 +291,7 @@
                 </p>
                 <p class="mb-4 text-[0.8em] md:text-[1em] text-black flex items-center gap-x-4">
                   <i class="icon-20 text-[#035D87] text-[1.2em]"></i>
-                  <a href="tel:+0358711227" class="hover:text-[#035D87]">+03-5871 1227</a>
+                  <a href="tel:+0358711226" class="hover:text-[#035D87]">+03-5871 1226</a>
                 </p>
                 <p class="mb-4 text-[0.8em] md:text-[1em] text-black flex items-center gap-x-4">
                   <i class="icon-21 text-[#035D87] text-[1.2em]"></i>
