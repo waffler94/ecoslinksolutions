@@ -76,11 +76,28 @@
             </p>
             <div class="flex md:flex-row flex-col-reverse gap-6 mt-6 md:mt-12">
               <div class="bg-[#035D87] p-4 md:p-6 w-full md:w-[40%] flex flex-col justify-center">
-                <h2 class="text-[28px] md:text-[40px] font-bold mb-4" id="counter1">0</h2>
-                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2] mb-2">Over <span class="font-bold" id="counter2">0</span> factories helped compliance and still counting!</p>
+                
+                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2] mb-2">
+                  Over </p>
+                  
+                <h2 class="text-[28px] md:text-[40px] font-bold mb-2" id="counter1">0</h2>
+                   
+                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2]">
+                  factories helped compliance and still counting!
+                </p>
                 <hr class="my-8" />
-                <h2 class="text-[28px] md:text-[40px] font-bold mb-4 leading-[1.2]">Estimated CO₂ savings</h2>
-                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2]"><span class="font-bold" id="counter3">0</span> tonnes per year equivalent to <span class="font-bold" id="counter4">0</span> cars off the road annually!</p>
+                
+                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2] mb-2">
+                  Estimated CO₂ savings
+                </p>
+                <h2 class="text-[28px] md:text-[40px] font-bold mb-2 leading-[1.2]" id="counter3"></h2>
+                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2] mb-2">   
+                tonnes per year equivalent to 
+              </p>
+                <h2 class="text-[28px] md:text-[40px] font-bold mb-2 leading-[1.2]" id="counter4">0</h2> 
+                <p class="text-[18px] md:text-[28px] text-white font-light leading-[1.2]">   
+                  cars off the road annually!
+                </p>
               </div>
               <div class="w-full md:w-[60%]">
                 <img src="img/about/image4.jpeg" alt="Engineer" width="800" height="800" class='w-full mb-6' />
