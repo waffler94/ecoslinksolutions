@@ -11,10 +11,10 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>EcosLinkSolutions - World class provider of Continuous Emission Monitoring System (CEMS)</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
-        <meta property="og:title" content="EcosLinkSolutions - World class provider of Continuous Emission Monitoring System (CEMS)">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <title>Continuous Emission Monitoring System (CEMS)</title>
+        <meta name="description" content="EcosLinkSolutions - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta property="og:title" content="Continuous Emission Monitoring System (CEMS)">
+        <meta property="og:description" content="EcosLinkSolutions - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">

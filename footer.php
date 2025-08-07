@@ -11,7 +11,7 @@
                 />
             </a>
             <p class="mt-6 lg:max-w-[500px] text-center sm:text-left">Since 2015, Ecos Link Solutions has been at the forefront of providing comprehensive monitoring and integration solutions for various industries across Malaysia. </p>
-            <a href="https://www.linkedin.com/company/ecos-link-solutions" target="_blank"class="mt-4 block sm:mx-0 mx-auto w-fit hover:text-[#57c43f] transition"><i class="text-[2em] fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/company/ecos-link-solutions-sdn-bhd/" target="_blank"class="mt-4 block sm:mx-0 mx-auto w-fit hover:text-[#57c43f] transition"><i class="text-[2em] fab fa-linkedin"></i></a>
         </div>
         <div class="w-full lg:w-1/5 pt-6 mt-4 md:mt-0">
             <h6 class="text-[21px] font-bold mb-6">Quick Links</h6>

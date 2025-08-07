@@ -95,7 +95,7 @@
                   <li class="text-[14px] md:text-[16px]">Cloud-based monitoring and AI-driven predictive analytics.</li>
                   </ul>
                 </a>
-                <a href="/solutions/system-integrate" class="solutions_box" data-aos="fade-left">
+                <a href="/solutions/system-integration" class="solutions_box" data-aos="fade-left">
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon14"></i>
                   </div>
