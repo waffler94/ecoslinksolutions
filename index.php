@@ -379,7 +379,7 @@
       
 
     <script>
-        AOS.init({once: false,});
+        AOS.init({once: true,});
         $(document).ready(function () {
             const counters = [
                 { id: 'counter1', end: 10, duration: 2000 },

@@ -83,7 +83,7 @@
       </main>
       <?php include("../footer.php"); ?>
     <script>
-        AOS.init({once: false});
+        AOS.init({once: true});
     </script>
     <script src="../js/main.js"></script>
 </body>

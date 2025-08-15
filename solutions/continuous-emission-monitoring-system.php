@@ -469,7 +469,7 @@
             $(".dropdown button").text(selectedOption);
             $(".dropdown-content").hide();
         });
-        AOS.init({once: false});
+        AOS.init({once: true});
     </script>
     <script src="../js/main.js"></script>
 </body>

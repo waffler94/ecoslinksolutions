@@ -133,36 +133,36 @@
                 <div class="flex items-center gap-x-4">
                   <i class="icon-icon6 text-[#035D87] text-[4em]"></i>
                   <div>
-                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Strive to exceed expectation</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>We are relentless in our pursuit of the extraordinary, constantly pushing the boundaries of what is possible.</p>
-                  </div>
-                </div>
-                <div class="flex items-center gap-x-4">
-                  <i class="icon-icon7 text-[#035D87] text-[4em]"></i>
-                  <div>
-                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Work hard, have fun!</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>We work hard serving our clients but have fun doing it.</p>
-                  </div>
-                </div>
-                <div class="flex items-center gap-x-4">
-                  <i class="icon-icon8 text-[#035D87] text-[4em]"></i>
-                  <div>
-                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Pursue Growth &amp; Learning</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>An insatiable appetite for knowledge fuels us. We embrace challenges, nurture creativity, and celebrate every opportunity to expand our horizons.</p>
-                  </div>
-                </div>
-                <div class="flex items-center gap-x-4">
-                  <i class="icon-icon9 text-[#035D87] text-[4em]"></i>
-                  <div>
-                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Openness &amp; Respect</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Our doors and minds are always open. We foster a work environment that is transparent, inclusive, and where every voice is valued.</p>
+                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Go Beyond</h3>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Strive to exceed expectations in everything you do.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
                   <i class="icon-icon10 text-[#035D87] text-[4em]"></i>
                   <div>
-                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Accountability</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Take ownership. Recognizing and rectifying our mistakes fortifies trust with our clients and team members, enhancing the value of our services.</p>
+                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Respect &amp; Openness</h3>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Speak truth with respect. Listen to understand, not to reply.</p>
+                  </div>
+                </div>
+                <div class="flex items-center gap-x-4">
+                  <i class="icon-icon7 text-[#035D87] text-[4em]"></i>
+                  <div>
+                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Improve Always</h3>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Relentless in learning, feedback, and self-growth.</p>
+                  </div>
+                </div>
+                <div class="flex items-center gap-x-4">
+                  <i class="icon-icon9 text-[#035D87] text-[4em]"></i>
+                  <div>
+                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Take Ownership</h3>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Own every task like it&apos;s your name on the line.</p>
+                  </div>
+                </div>
+                <div class="flex items-center gap-x-4">
+                  <i class="icon-icon8 text-[#035D87] text-[4em]"></i>
+                  <div>
+                    <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Serve with Energy</h3>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Work hard. Have fun. Bring energy to the team and client.</p>
                   </div>
                 </div>
               </div>
@@ -269,7 +269,7 @@
       <?php include("footer.php"); ?>
 
     <script>
-        AOS.init({once: false});
+        AOS.init({once: true});
         $(document).ready(function () {
             const counters = [
                 { id: 'counter1', end: 300, duration: 3000 },
