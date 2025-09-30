@@ -99,7 +99,7 @@
             <div class="jq-tab-content-wrapper">
                 <div class="jq-tab-content active text-black" data-tab="1">
                   <img src="../img/solutions/process-analyzer/image2.png" alt="Dr. Fodisch logo" width="300" height="200" class='block mb-8' />
-                  <h3 data-aos="fade-up" class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">Multi component analyser MCA 10</h3>
+                  <h3 data-aos="fade-up" class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">TOC UV - Persulphate Analyzer</h3>
                   <p data-aos="fade-up" class="">The Model 3S Total Organic Carbon (TOC) Analyzer by Electro-Chemical Devices (ECD) is designed for continuous online measurement of TOC in liquid samples. It employs the UV persulfate oxidation method, followed by detection of the generated carbon dioxide using a Non-Dispersive Infrared Detector (NDIR), ensuring compliance with EPA, DIN, CE, ASTM, and NAMUR regulations.</p>
                       
                   <div class="flex flex-col md:flex-row gap-6 my-12 items-center">
