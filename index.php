@@ -12,9 +12,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Continuous Emission Monitoring System (CEMS)</title>
-        <meta name="description" content="EcosLinkSolutions - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta name="description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
         <meta property="og:title" content="Continuous Emission Monitoring System (CEMS)">
-        <meta property="og:description" content="EcosLinkSolutions - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta property="og:description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
@@ -43,6 +43,18 @@
         <link rel="manifest" href="/manifest.json">
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
         <meta name="theme-color" content="#ffffff">
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Ecos Link Solutions Sdn Bhd",
+          "url": "https://www.ecoslinksolutions.com",
+          "logo": "https://www.ecoslinksolutions.com/img/ecos_product_logo.png",
+          "sameAs": [
+            "https://www.linkedin.com/company/ecos-link-solutions-sdn-bhd/"
+          ]
+        }
+        </script>
   </head>
 
 <body>
