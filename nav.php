@@ -40,9 +40,19 @@
                                 </ul>
                               </div>
                           </li>
+
+                          <li class="menu-item with-subdropdown block w-full">
+                              <div class="block w-full px-6 py-3">Instrumentation </div>
+                              <div class="subdropdown">
+                                <ul class="subsubmenu relative">
+                                  <li class="block w-full"><a href="/solutions/flowmeter " class="block w-full px-6 py-3">Flowmeter</a></li>
+                                  <li class="block w-full"><a href="/solutions/levelmeter" class="block w-full px-6 py-3">Level Meter</a></li>
+                                </ul>
+                              </div>
+                          </li>
                           
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/solutions/iot-system" class=" block w-full px-6 py-3">IOT System</a>
+                              <a href="/solutions/iot-system" class=" block w-full px-6 py-3">IoT System</a>
                           </li>
                           <li class="menu-item with-subdropdown block w-full">
                               <a href="/solutions/system-integration" class=" block w-full px-6 py-3">System Integration Work</a>
@@ -98,7 +108,7 @@
                   <a href="/solutions/process-analyzer#southland" class="block w-fit px-6 pb-3">Southland Sensing</a>
                 </div></li>
                 
-                <li><a href="/solutions/iot-system">IOT System</a></li>
+                <li><a href="/solutions/iot-system">IoT System</a></li>
                 <li><a href="/solutions/system-integration" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
                   <!-- <div class="submenu">
                     <a href="/system-integration-work" class="block w-fit px-6 py-3">System Integration Work</a>

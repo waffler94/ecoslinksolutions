@@ -68,7 +68,7 @@
             </div>
             <p class="text-[#252B42] mb-4">
               Leading Emission Monitoring Company in Malaysia - Creating a Greener Future<br/>
-              Ecos Link Solutions is a trusted Continuous Emission Monitoring System (CEMS) company in Malaysia, committed to delivering high-quality gas analzyer, dust analzyer, and IOT system to meet the rising demand for clean air compliance. With over 300 completed projects and 400 satisfied customers, we provide cutting-edge monitoring solutions tailored to your industry needs.
+              Ecos Link Solutions is a trusted Continuous Emission Monitoring System (CEMS) company in Malaysia, committed to delivering high-quality gas analzyer, dust analzyer, and IoT system to meet the rising demand for clean air compliance. With over 300 completed projects and 400 satisfied customers, we provide cutting-edge monitoring solutions tailored to your industry needs.
             </p>
             <p class="text-[#252B42]">
             As a leading CEMS company, we ensure a seamless transition to DOE compliance with expert consultation, custom system design, and professional installation. Our CEMS systems guarantee immediate data linkage to DOE while promoting a sustainable operation of your plant.
@@ -155,7 +155,7 @@
                   <i class="icon-icon9 text-[#035D87] text-[4em]"></i>
                   <div>
                     <h3 class="font-bold text-[#252B42] text-[18px] md:text-[23px] leading-[1.2]">Take Ownership</h3>
-                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>Own every task like it&apos;s your name on the line.</p>
+                    <p data-aos="fade-up" class='text-[#252B42] text-[13px] md:text-[1em] mt-2'>No excuses. Own outcome.</p>
                   </div>
                 </div>
                 <div class="flex items-center gap-x-4">
@@ -197,7 +197,7 @@
                     <b class="text-[#252B42] text-[20px] md:text-[28px]">2019</b>
                     <hr class="w-full ml-3 border-[#6D6A6A]" />
                   </div>
-                  <p class="text-[#6D6A6A]">Venture into IOT system for CEMS provider for Power Plant & Cement</p>
+                  <p class="text-[#6D6A6A]">Venture into IoT system for CEMS provider for Power Plant & Cement</p>
                 </div>
                 <div class="swiper-slide">
                   <img data-aos="fade-left" src="img/about/journey_image-3.png" alt="2021" width="800" height="800" class='mb-4' />

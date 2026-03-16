@@ -11,9 +11,9 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>IOT System | EcosLinkSolutions</title>
+        <title>IoT System | EcosLinkSolutions</title>
         <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
-        <meta property="og:title" content="IOT System  | EcosLinkSolutions">
+        <meta property="og:title" content="IoT System  | EcosLinkSolutions">
         <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
@@ -53,8 +53,8 @@
         <section class="">
           <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 bg-banner-3">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
-              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#035D87]">IOT</span> System</h1>
-              <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><a href="/solutions">Solutions</a><span>/</span><b>IOT System</b></p>
+              <h1 class='text-[1.2em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[2em]' data-aos="fade-down"><span class="text-[#035D87]">IoT</span> System</h1>
+              <p class='text-[0.8em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-2 sm:gap-x-4' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><a href="/solutions">Solutions</a><span>/</span><b>IoT System</b></p>
             </div>
           </div>
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
@@ -63,7 +63,7 @@
                 <h2 class="text-[18px] md:text-[28px] font-bold text-[#252B42] mb-2">System Architecture &amp; Integration:</h2>
                 <p class="text-[14px] lg:text-[19px] text-[#252B42]" data-aos="fade-right">The software is built on a centralized, scalable platform that collects, stores, and analyzes data from multiple production plants. It integrates with plant-level control systems (SCADA, MES, ERP) via secure communication protocols (e.g., OPC UA, MQTT, REST APIs) and uses real-time data acquisition to provide a unified dashboard. Key features include:</p>
               </div>
-              <img src="../img/solutions/iot-system/Image1.png" data-aos="fade-left" alt="IOT System" width="800" height="800" class='w-full max-w-[650px] lg:w-1/3' />
+              <img src="../img/solutions/iot-system/Image1.png" data-aos="fade-left" alt="IoT System" width="800" height="800" class='w-full max-w-[650px] lg:w-1/3' />
             </div>
           </div>
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
@@ -107,7 +107,7 @@
               </div>
             </div>
           </div>
-          <img src="../img/solutions/iot-system/image2.png" data-aos="fade-up" alt="IOT System Flow Chart" width="1180" height="647" class='w-11/12 sm:w-5/6 mx-auto mb-12' />
+          <img src="../img/solutions/iot-system/image2.png" data-aos="fade-up" alt="IoT System Flow Chart" width="1180" height="647" class='w-11/12 sm:w-5/6 mx-auto mb-12' />
         </section>
       </main>
       <?php include("../footer.php"); ?>

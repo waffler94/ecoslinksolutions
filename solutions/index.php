@@ -60,15 +60,15 @@
           <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
             <div class='w-full mt-6 md:mt-12' data-aos="fade-up">
               <p class='text-[14px] lg:text-[19px] text-[#252B42]'>
-                Ecos Link Solutions is a trusted Malaysian engineering partner specializing in four core verticals: Continuous Emissions Monitoring Systems (CEMS), Industrial IoT solutions, system integration, and process analyzers. We help industries achieve regulatory compliance, operational efficiency, and digital transformation. With strong technical expertise and partnerships with global brands, we deliver tailored solutions from design to after-sales support.
+                Ecos Link Solutions is a trusted Malaysian engineering partner specializing in five core verticals: Continuous Emissions Monitoring Systems (CEMS), Instrumentation, Industrial IoT solutions, system integration, and process analyzers. We help industries achieve regulatory compliance, operational efficiency, and digital transformation. With strong technical expertise and partnerships with global brands, we deliver tailored solutions from design to after-sales support.
               </p>
             </div>
-            <div class='grid grid-cols-1 grid-rows-4 sm:grid-cols-2 sm:grid-rows-2 my-12 md:my-24 gap-8' data-aos="fade-up">
+            <div class='grid grid-cols-1 sm:grid-cols-3 mt-12 md:mt-24 mb-12 gap-8' data-aos="fade-up">
                 <a href="/solutions/continuous-emission-monitoring-system" class="solutions_box" data-aos="fade-right">
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon11"></i>
                   </div>
-                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">CEMS Calibration & Maintenance</h2>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">CEMS Calibration & Maintenance</h2>
                   <ul class="text-[#6D6A6A] list-disc pl-8">
                   <li class="text-[14px] md:text-[16px]">Ensuring accuracy and compliance with DOE regulations.</li>
                   <li class="text-[14px] md:text-[16px]">Regular servicing and troubleshooting for uninterrupted operations.</li>
@@ -79,17 +79,29 @@
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon12"></i>
                   </div>
-                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">Process Analyzer Support &amp; Calibration</h2>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">Process Analyzer Support &amp; Calibration</h2>
                   <ul class="text-[#6D6A6A] list-disc pl-8">
                   <li class="text-[14px] md:text-[16px]">Periodic maintenance of gas and liquid analyzers.</li>
                   <li class="text-[14px] md:text-[16px]">On-site and remote diagnostic services.</li>
                   </ul>
                 </a>
+                <a href="/solutions/flowmeter" class="solutions_box" data-aos="fade-left">
+                  <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
+                      <i class="icon-24"></i>
+                  </div>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">Reliable Instrumentation for Accurate Process Measurement</h2>
+                  <ul class="text-[#6D6A6A] list-disc pl-8">
+                  <li class="text-[14px] md:text-[16px]">Industrial-grade flowmeters and level transmitters for accurate liquid monitoring.</li>
+                  <li class="text-[14px] md:text-[16px]">Designed for water, wastewater, and demanding process environments.</li>
+                  </ul>
+                </a>
+            </div>
+            <div class='grid grid-cols-1 sm:grid-cols-2 mb-12 md:mb-24 gap-8' data-aos="fade-up">
                 <a href="/solutions/iot-system" class="solutions_box" data-aos="fade-right">
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon13"></i>
                   </div>
-                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">IoT System Development &amp; Integration</h2>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">IoT System Development &amp; Integration</h2>
                   <ul class="text-[#6D6A6A] list-disc pl-8">
                   <li class="text-[14px] md:text-[16px]">Custom dashboard and reporting tools for real-time insights.</li>
                   <li class="text-[14px] md:text-[16px]">Cloud-based monitoring and AI-driven predictive analytics.</li>
@@ -99,7 +111,7 @@
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon14"></i>
                   </div>
-                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6">Industrial System Integration</h2>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">Industrial System Integration</h2>
                   <ul class="text-[#6D6A6A] list-disc pl-8">
                   <li class="text-[14px] md:text-[16px]">Full-scale system design, installation, and commissioning.</li>
                   <li class="text-[14px] md:text-[16px]">Retrofit and upgrade solutions for outdated systems.</li>

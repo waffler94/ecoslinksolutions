@@ -483,6 +483,8 @@ nav .overlay {
   display: block;
 }
 
+
+
 @media (max-width:1440px) {
   .google-maps {
     position: relative;
@@ -636,3 +638,137 @@ nav .overlay {
     background-position: center;
   }
 }
+
+
+    .benefits-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
+    }
+
+    .benefit-card {
+      position: relative;
+      overflow: hidden;
+      padding: 28px 24px;
+      border-radius: 22px;
+      border: 1px solid #57c43f;
+      backdrop-filter: blur(12px);
+      transition: transform 0.45s ease, box-shadow 0.45s ease, border-color 0.45s ease;
+      min-height: 250px;
+      cursor: pointer;
+    }
+
+    .benefit-card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, #035d8738, rgba(0, 114, 255, 0.05), rgba(255,255,255,0.02));
+      opacity: 0;
+      transition: opacity 0.45s ease;
+    }
+
+    .benefit-card::after {
+      content: "";
+      position: absolute;
+      width: 180px;
+      height: 180px;
+      background: radial-gradient(circle, #035d87a1, transparent 70%);
+      top: -60px;
+      right: -60px;
+      transform: scale(0.7);
+      opacity: 0;
+      transition: all 0.45s ease;
+      pointer-events: none;
+    }
+
+    .benefit-card:hover {
+      transform: translateY(-10px) scale(1.02);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
+      border-color: #035D87;
+    }
+
+    .benefit-card:hover::before {
+      opacity: 1;
+    }
+
+    .benefit-card:hover::after {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    .benefit-inner {
+      position: relative;
+      z-index: 2;
+    }
+
+    .icon-wrap {
+      width: 68px;
+      height: 68px;
+      border-radius: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 30px;
+      background: #57c43f1f;
+      border: 1px solid #57c43f1f;
+      transition: transform 0.45s ease, background 0.45s ease;
+    }
+
+    .benefit-card:hover .icon-wrap {
+      transform: rotateY(180deg) scale(1.08);
+      background: #035d8728;
+    }
+
+    .icon-wrap svg {
+      width: 32px;
+      height: 32px;
+      fill: #035D87;
+    }
+
+    .benefit-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.2;
+      min-height: 50px;
+    }
+
+    .benefit-card p {
+      color: #252B42;
+      line-height: 1.3;
+    }
+
+    .floating-line {
+      position: absolute;
+      left: 24px;
+      bottom: 18px;
+      width: 0;
+      height: 3px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #57c43f, #538b46);
+      transition: width 0.45s ease;
+      z-index: 2;
+    }
+
+    .benefit-card:hover .floating-line {
+      width: 65%;
+    }
+
+    @media (max-width: 1024px) {
+      .benefits-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .benefit-card h3 {
+        font-size: 16px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .benefits-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .benefit-card {
+        min-height: auto;
+      }
+    }
