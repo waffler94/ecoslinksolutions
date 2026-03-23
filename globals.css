@@ -772,3 +772,191 @@ nav .overlay {
         min-height: auto;
       }
     }
+
+    .applications-section { 
+      margin: 0 auto;
+    }
+
+    .applications-wrap {
+      display: grid;
+      grid-template-columns: 420px 1fr;
+      border-radius: 28px;
+      overflow: hidden;
+      background: #ffffff;
+      box-shadow: 0 18px 50px rgba(3, 93, 135, 0.10);
+      border: 1px solid rgba(3, 93, 135, 0.08);
+    }
+
+    .applications-left {
+      position: relative;
+      padding: 50px 38px;
+      background: linear-gradient(160deg, #035D87 0%, #024766 100%);
+      color: #fff;
+      overflow: hidden;
+    }
+
+    .applications-left::before,
+    .applications-left::after {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(87, 196, 63, 0.12);
+    }
+
+    .applications-left::before {
+      width: 220px;
+      height: 220px;
+      top: -80px;
+      right: -80px;
+    }
+
+    .applications-left::after {
+      width: 180px;
+      height: 180px;
+      bottom: -70px;
+      left: -60px;
+    }
+
+    .applications-left .eyebrow {
+      display: inline-block;
+      font-size: 13px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #9ff08c;
+      margin-bottom: 18px;
+      font-weight: 700;
+    }
+
+    .applications-left h2 {
+      font-size: 40px;
+      line-height: 1.15;
+      margin-bottom: 18px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .applications-left p {
+      font-size: 16px;
+      line-height: 1.8;
+      color: rgba(255, 255, 255, 0.84);
+      max-width: 290px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .applications-left .accent-line {
+      width: 78px;
+      height: 5px;
+      border-radius: 999px;
+      background: #57c43f;
+      margin-top: 28px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .applications-right {
+      padding: 34px;
+      background: #fff;
+    }
+
+    .applications-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .app-item {
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 18px 18px;
+      border-radius: 18px;
+      background: linear-gradient(180deg, #ffffff 0%, #f9fcfd 100%);
+      border: 1px solid rgba(3, 93, 135, 0.08);
+      transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
+      overflow: hidden;
+    }
+
+    .app-item::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 0;
+      background: linear-gradient(180deg, #57c43f, #035D87);
+      transition: width 0.35s ease;
+    }
+
+    .app-item:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 14px 28px rgba(3, 93, 135, 0.12);
+      border-color: rgba(87, 196, 63, 0.35);
+    }
+
+    .app-item:hover::before {
+      width: 6px;
+    }
+
+    .app-icon {
+      position: relative;
+      flex-shrink: 0;
+      width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      font-size: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, rgba(87, 196, 63, 0.14), rgba(3, 93, 135, 0.14));
+      transition: transform 0.35s ease, background 0.35s ease;
+    }
+
+    .app-item:hover .app-icon {
+      transform: scale(1.08) rotate(-6deg);
+      background: linear-gradient(135deg, rgba(87, 196, 63, 0.20), rgba(3, 93, 135, 0.20));
+    }
+
+    .app-icon i {
+      color: #035D87;
+    }
+
+    .app-item h3 {
+      font-size: 16px;
+      line-height: 1.5;
+      font-weight: 700;
+      color: #12303e;
+    }
+
+    @media (max-width: 1024px) {
+      .applications-wrap {
+        grid-template-columns: 1fr;
+      }
+
+      .applications-left {
+        padding: 40px 30px;
+      }
+
+      .applications-left h2 {
+        font-size: 32px;
+      }
+
+      .applications-left p {
+        max-width: none;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .applications-right {
+        padding: 20px;
+      }
+
+      .applications-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .applications-left h2 {
+        font-size: 28px;
+      }
+    }
