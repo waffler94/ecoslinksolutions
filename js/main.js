@@ -117,7 +117,7 @@ $('.form-email').on('submit', function (e) {
     $btn.prop('disabled', true).text('Sending…');
 
     $.ajax({
-        url: '/send_mail.php',
+        url: '/send_mail',
         method: 'POST',
         data: $form.serialize(),
         dataType: 'json',

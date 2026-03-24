@@ -323,7 +323,7 @@ if (empty($_SESSION['csrf_token'])) {
                 id="contact-us"
                 class="form-email flex flex-col gap-4 w-full max-w-[500px] mx-auto"
                 method="POST"
-                action="/send_mail.php"
+                action="/send_mail"
                 data-success="Thanks for your submission, we will be in touch shortly."
                 data-error="Please fill all fields correctly."
                 data-aos="fade-left"
