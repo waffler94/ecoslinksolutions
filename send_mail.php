@@ -26,7 +26,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 $to      = 'info@ecoslinksolutions.com';
 $subject = $subject ?: 'Contact Form Enquiry';
 $body    = "Name: $name\r\nEmail: $email\r\nPhone: $phone\r\n\r\nMessage:\r\n$message";
-$headers = "From: no-reply@ecoslinksolutions.com\r\n"
+$headers = "From: info@ecoslinksolutions.com\r\n"
          . "Reply-To: $email\r\n"
          . "X-Mailer: PHP/" . phpversion();
 
