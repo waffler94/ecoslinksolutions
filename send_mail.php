@@ -66,9 +66,9 @@ $mail = new PHPMailer(true);
 
 try {
     $mail->isSMTP();
-    $mail->Host       = 'mail.ecoslinksolutions.com';
+    $mail->Host       = 'ecoslinksolutions.com';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'info.ecoslinksolutions.com';
+    $mail->Username   = 'info@ecoslinksolutions.com';
     $mail->Password   = '623z4_rlP';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port       = 465;
@@ -94,5 +94,5 @@ try {
         exit;
     }
 } catch (Exception $e) {
-    respond($isAjax, false, 'Failed to send email. Please try again later.');
+    respond($isAjax, false, 'Mailer error: ' . $e->getMessage());
 }
