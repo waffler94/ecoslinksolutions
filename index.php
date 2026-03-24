@@ -1,3 +1,9 @@
+<?php
+session_start();
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -320,6 +326,9 @@
                 data-error="Please fill all fields correctly."
                 data-aos="fade-left"
               >
+                <input type="hidden" name="csrf_token" value="<?php echo $_SESSION['csrf_token']; ?>">
+                <!-- Honeypot: hidden from real users, bots will fill it -->
+                <input type="text" name="website" value="" style="display:none;" tabindex="-1" autocomplete="off">
                 <div class="flex flex-col">
                   <label for="name" class="mb-1 text-sm font-medium text-gray-700">Name <span class="text-[#ff0000]">*</span>
                     <input

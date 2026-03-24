@@ -126,6 +126,9 @@ $('.form-email').on('submit', function (e) {
                 $form.append('<p class="form-status mt-2 text-sm text-green-600">' + successMsg + '</p>');
                 $form[0].reset();
                 $form.find('input, textarea').removeClass('border-red-500').addClass('border-gray-300');
+                if (res.csrf_token) {
+                    $form.find('input[name="csrf_token"]').val(res.csrf_token);
+                }
             } else {
                 $form.append('<p class="form-status mt-2 text-sm text-red-600">' + (res.message || errorMsg) + '</p>');
             }
