@@ -5,25 +5,35 @@ use PHPMailer\PHPMailer\Exception;
 require __DIR__ . '/vendor/autoload.php';
 
 session_start();
-header('Content-Type: application/json');
+
+$isAjax = !empty($_SERVER['HTTP_X_REQUESTED_WITH']) &&
+          strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
+
+function respond($isAjax, $success, $message = '') {
+    if ($isAjax) {
+        header('Content-Type: application/json');
+        echo json_encode(['success' => $success, 'message' => $message]);
+    } else {
+        $_SESSION['form_flash'] = ['success' => $success, 'message' => $message];
+        header('Location: /#contact-us');
+    }
+    exit;
+}
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     http_response_code(405);
-    echo json_encode(['success' => false, 'message' => 'Method not allowed']);
-    exit;
+    respond($isAjax, false, 'Method not allowed');
 }
 
-// Honeypot check — bots fill hidden fields, humans don't
+// Honeypot — silently discard bots
 if (!empty($_POST['website'])) {
-    echo json_encode(['success' => true]); // Silently discard
-    exit;
+    respond($isAjax, true, '');
 }
 
 // CSRF check
-if (empty($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'], $_POST['csrf_token'])) {
+if (empty($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'] ?? '', $_POST['csrf_token'])) {
     http_response_code(403);
-    echo json_encode(['success' => false, 'message' => 'Invalid request.']);
-    exit;
+    respond($isAjax, false, 'Invalid request.');
 }
 
 // Rate limiting — max 3 submissions per 10 minutes per session
@@ -33,8 +43,7 @@ $_SESSION['submissions'] = array_filter(
     fn($t) => $now - $t < 600
 );
 if (count($_SESSION['submissions']) >= 3) {
-    echo json_encode(['success' => false, 'message' => 'Too many submissions. Please try again later.']);
-    exit;
+    respond($isAjax, false, 'Too many submissions. Please try again later.');
 }
 $_SESSION['submissions'][] = $now;
 
@@ -46,13 +55,11 @@ $subject = trim(strip_tags($_POST['subject'] ?? ''));
 $message = trim(strip_tags($_POST['message'] ?? ''));
 
 if (!$name || !$email || !$phone || !$message) {
-    echo json_encode(['success' => false, 'message' => 'Please fill all required fields.']);
-    exit;
+    respond($isAjax, false, 'Please fill all required fields.');
 }
 
 if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-    echo json_encode(['success' => false, 'message' => 'Invalid email address.']);
-    exit;
+    respond($isAjax, false, 'Invalid email address.');
 }
 
 $mail = new PHPMailer(true);
@@ -62,11 +69,11 @@ try {
     $mail->Host       = 'mail.ecoslinksolutions.com';
     $mail->SMTPAuth   = true;
     $mail->Username   = 'info.ecoslinksolutions.com';
-    $mail->Password   = 'YOUR_SMTP_PASSWORD';
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // use ENCRYPTION_SMTPS for port 465
+    $mail->Password   = '623z4_rlP';
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port       = 465;
 
-    $mail->setFrom('YOUR_SMTP_USERNAME', 'Ecos Link Solutions');
+    $mail->setFrom('info@ecoslinksolutions.com', 'Ecos Link Solutions');
     $mail->addAddress('info@ecoslinksolutions.com');
     $mail->addReplyTo($email, $name);
 
@@ -75,10 +82,17 @@ try {
 
     $mail->send();
 
-    // Regenerate CSRF token after successful submission
     $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
 
-    echo json_encode(['success' => true, 'csrf_token' => $_SESSION['csrf_token']]);
+    if ($isAjax) {
+        header('Content-Type: application/json');
+        echo json_encode(['success' => true, 'csrf_token' => $_SESSION['csrf_token']]);
+        exit;
+    } else {
+        $_SESSION['form_flash'] = ['success' => true, 'message' => 'Thanks for your submission, we will be in touch shortly.'];
+        header('Location: /#contact-us');
+        exit;
+    }
 } catch (Exception $e) {
-    echo json_encode(['success' => false, 'message' => 'Failed to send email. Please try again later.']);
+    respond($isAjax, false, 'Failed to send email. Please try again later.');
 }
