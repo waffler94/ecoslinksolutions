@@ -107,6 +107,12 @@
                   <a href="/solutions/process-analyzer#phymetrix" class="block w-fit px-6 py-3">PhyMetrix</a>
                   <a href="/solutions/process-analyzer#southland" class="block w-fit px-6 py-3">Southland Sensing</a>
                 </div></li>
+
+                <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Instrumentation</span><i class="fas fa-chevron-right transition"></i></a>
+                <div class="submenu">
+                  <a href="/solutions/flowmeter" class="block w-fit px-6 py-3">Flowmeter</a>
+                  <a href="/solutions/levelmeter" class="block w-fit px-6 py-3">Level Meter</a>
+                </div></li>
                 
                 <li><a href="/solutions/iot-system">ECOS-IOT-26</a></li>
                 <li><a href="/solutions/system-integration" class="toggle-submenu flex justify-between items-center"><span>System Integration Work</span></a>
