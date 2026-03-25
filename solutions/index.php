@@ -101,7 +101,7 @@
                   <div class="w-[80px] h-[80px] bg-[#035D87] text-white text-[3em] rounded-full flex items-center justify-center">
                       <i class="icon-icon13"></i>
                   </div>
-                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">IoT System Development &amp; Integration</h2>
+                  <h2 class="text-[#252B42] text-[18px] md:text-[23px] font-bold my-6 leading-[1.3]">ECOS-IOT-26 Development &amp; Integration</h2>
                   <ul class="text-[#6D6A6A] list-disc pl-8">
                   <li class="text-[14px] md:text-[16px]">Custom dashboard and reporting tools for real-time insights.</li>
                   <li class="text-[14px] md:text-[16px]">Cloud-based monitoring and AI-driven predictive analytics.</li>
