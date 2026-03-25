@@ -74,7 +74,7 @@ try {
     $mail->Port       = 465;
 
     $mail->setFrom('info@ecoslinksolutions.com', 'Ecos Link Solutions');
-    $mail->addAddress('info@ecoslinksolutions.com');
+    $mail->addAddress('kc.wang@ecoslinksolutions.com');
     $mail->addReplyTo($email, $name);
 
     $mail->Subject = $subject ?: 'Contact Form Enquiry';
