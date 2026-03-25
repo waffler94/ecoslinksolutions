@@ -320,11 +320,19 @@ if (empty($_SESSION['csrf_token'])) {
                 </div>
               </div>
               <?php if (!empty($_SESSION['form_flash'])): ?>
-                <div class="w-full max-w-[500px] mx-auto px-4 py-3 rounded-md text-sm font-medium
-                  <?php echo $_SESSION['form_flash']['success'] ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'; ?>">
-                  <?php echo htmlspecialchars($_SESSION['form_flash']['message']); ?>
-                </div>
-              <?php unset($_SESSION['form_flash']); endif; ?>
+                <?php $flash = $_SESSION['form_flash']; unset($_SESSION['form_flash']); ?>
+                <?php if ($flash['success']): ?>
+                  <div class="w-full max-w-[500px] mx-auto flex flex-col items-center justify-center gap-4 py-12 px-8 bg-white rounded-xl shadow text-center">
+                    <div class="text-[2.5rem] text-[#57C43F]">&#10003;</div>
+                    <h3 class="text-[1.1rem] font-bold text-[#252B42]">Message Sent!</h3>
+                    <p class="text-[#6D6A6A] text-sm"><?php echo htmlspecialchars($flash['message']); ?></p>
+                  </div>
+                <?php else: ?>
+                  <div class="w-full max-w-[500px] mx-auto bg-red-50 border border-red-300 text-red-700 text-sm rounded-md px-4 py-3 mb-2">
+                    <?php echo htmlspecialchars($flash['message']); ?>
+                  </div>
+                <?php endif; ?>
+              <?php endif; ?>
 
               <form
                 id="contact-us"
