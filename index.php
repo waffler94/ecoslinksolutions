@@ -1,3 +1,9 @@
+<?php
+session_start();
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -294,6 +300,22 @@
                 <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>
             </div>
             <p data-aos="fade-up" class='text-center text-[#252B42] text-[1em] lg:text-[1.2em] max-w-[650px] mx-auto'>Looking for a trusted analyzer system integrator in Malaysia? Talk to our technical experts for a custom-engineered solution.</p>
+            
+            <?php if (!empty($_SESSION['form_flash'])): ?>
+              <?php $flash = $_SESSION['form_flash']; unset($_SESSION['form_flash']); ?>
+              <?php if ($flash['success']): ?>
+                <div class="w-full max-w-[500px] mx-auto flex flex-col items-center justify-center gap-4 py-12 px-8 bg-white rounded-xl shadow text-center">
+                  <div class="text-[2.5rem] text-[#57C43F]">&#10003;</div>
+                  <h3 class="text-[1.1rem] font-bold text-[#252B42]">Message Sent!</h3>
+                  <p class="text-[#6D6A6A] text-sm"><?php echo htmlspecialchars($flash['message']); ?></p>
+                </div>
+              <?php else: ?>
+                <div class="w-full max-w-[500px] mx-auto bg-red-50 border border-red-300 text-red-700 text-sm rounded-md px-4 py-3 mb-2">
+                  <?php echo htmlspecialchars($flash['message']); ?>
+                </div>
+              <?php endif; ?>
+            <?php endif; ?>
+
             <div class='relative flex min-[1280px]:flex-nowrap flex-wrap gap-x-6 justify-between mt-12 md:mt-24 items-center'>
               <div class='w-full min-[1280px]:w-1/2 mb-4 md:mb-12' data-aos="fade-right">
                 <h3 class='text-[1em] md:text-[19px] font-bold text-[#252B42] mb-2 underline'>Contact Details</h3>
@@ -313,13 +335,19 @@
                   <iframe title="ecoslinksolutions map location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.3794833350594!2d101.4368387!3d3.2555413000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4fbb75e05057%3A0x710c082800d6a6ff!2sEcos%20Link%20Solutions%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1751821261292!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
               </div>
+
               <form
                 id="contact-us"
                 class="form-email flex flex-col gap-4 w-full max-w-[500px] mx-auto"
+                method="POST"
+                action="/send_mail"
                 data-success="Thanks for your submission, we will be in touch shortly."
                 data-error="Please fill all fields correctly."
                 data-aos="fade-left"
               >
+                <input type="hidden" name="csrf_token" value="<?php echo $_SESSION['csrf_token']; ?>">
+                <!-- Honeypot: hidden from real users, bots will fill it -->
+                <input type="text" name="website" value="" style="display:none;" tabindex="-1" autocomplete="off">
                 <div class="flex flex-col">
                   <label for="name" class="mb-1 text-sm font-medium text-gray-700">Name <span class="text-[#ff0000]">*</span>
                     <input
