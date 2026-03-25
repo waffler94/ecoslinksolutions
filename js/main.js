@@ -123,18 +123,21 @@ $('.form-email').on('submit', function (e) {
         dataType: 'json',
         success: function (res) {
             if (res.success) {
-                $form.append('<p class="form-status mt-2 text-sm text-green-600">' + successMsg + '</p>');
-                $form[0].reset();
-                $form.find('input, textarea').removeClass('border-red-500').addClass('border-gray-300');
-                if (res.csrf_token) {
-                    $form.find('input[name="csrf_token"]').val(res.csrf_token);
-                }
+                $form.replaceWith(
+                    '<div class="form-status w-full max-w-[500px] mx-auto flex flex-col items-center justify-center gap-4 py-12 px-8 bg-white rounded-xl shadow text-center">' +
+                        '<div class="text-[2.5rem] text-[#57C43F]">&#10003;</div>' +
+                        '<h3 class="text-[1.1rem] font-bold text-[#252B42]">Message Sent!</h3>' +
+                        '<p class="text-[#6D6A6A] text-sm">' + successMsg + '</p>' +
+                    '</div>'
+                );
             } else {
-                $form.append('<p class="form-status mt-2 text-sm text-red-600">' + (res.message || errorMsg) + '</p>');
+                $form.find('.form-status').remove();
+                $form.prepend('<div class="form-status w-full bg-red-50 border border-red-300 text-red-700 text-sm rounded-md px-4 py-3">' + (res.message || errorMsg) + '</div>');
             }
         },
         error: function () {
-            $form.append('<p class="form-status mt-2 text-sm text-red-600">' + errorMsg + '</p>');
+            $form.find('.form-status').remove();
+            $form.prepend('<div class="form-status w-full bg-red-50 border border-red-300 text-red-700 text-sm rounded-md px-4 py-3">' + errorMsg + '</div>');
         },
         complete: function () {
             $btn.prop('disabled', false).text('Submit');
