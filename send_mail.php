@@ -35,11 +35,6 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     respond($isAjax, false, 'Method not allowed');
 }
 
-// Honeypot — silently discard bots
-if (!empty($_POST['website'])) {
-    respond($isAjax, true, '');
-}
-
 // CSRF check
 if (empty($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'] ?? '', $_POST['csrf_token'])) {
     http_response_code(403);
