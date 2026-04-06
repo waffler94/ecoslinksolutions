@@ -35,6 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     respond($isAjax, false, 'Method not allowed');
 }
 
+// Honeypot — silently discard bots
+if (!empty($_POST['website'])) {
+    respond($isAjax, true, '');
+}
+
 // CSRF check
 if (empty($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'] ?? '', $_POST['csrf_token'])) {
     http_response_code(403);
@@ -72,18 +77,16 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
     respond($isAjax, false, 'Invalid email address.');
 }
 
-$mail = new PHPMailer(true);
+function env( $key, $default = null ) {
+    return $_ENV[ $key ] ?? $default;
+}
 
-// Brevo SMTP credentials
+$mail = new PHPMailer(true);
 
 try {
 
-    function env( $key, $default = null ) {
-        return $_ENV[ $key ] ?? $default;
-    }
-
     $mail->isSMTP();
-    $mail->SMTPDebug  = 2;
+    $mail->SMTPDebug   = 0;
     $mail->Debugoutput = 'error_log';
 
     $mail->Host       = env( 'MAIL_HOST', 'smtp-relay.brevo.com' );

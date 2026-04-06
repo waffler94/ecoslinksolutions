@@ -77,18 +77,16 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
     respond($isAjax, false, 'Invalid email address.');
 }
 
-$mail = new PHPMailer(true);
+function env( $key, $default = null ) {
+    return $_ENV[ $key ] ?? $default;
+}
 
-// Brevo SMTP credentials
+$mail = new PHPMailer(true);
 
 try {
 
-    function env( $key, $default = null ) {
-        return $_ENV[ $key ] ?? $default;
-    }
-
     $mail->isSMTP();
-    $mail->SMTPDebug  = 2;
+    $mail->SMTPDebug   = 0;
     $mail->Debugoutput = 'error_log';
 
     $mail->Host       = env( 'MAIL_HOST', 'smtp-relay.brevo.com' );
