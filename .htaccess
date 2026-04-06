@@ -1,3 +1,8 @@
+# Block direct access to .env files
+<FilesMatch "^\.env(\..*)?$">
+    Require all denied
+</FilesMatch>
+
 # Force HTTPS
 RewriteCond %{HTTP_HOST} webwafflesolutions\.com [NC]
 RewriteCond %{SERVER_PORT} 80
