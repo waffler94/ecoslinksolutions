@@ -1,7 +1,7 @@
 <nav class="nav-menu bg-[#035D87] md:justify-center flex py-0 md:py-6 text-white items-center fixed top-0 w-full left-0 right-0 z-40">
         <div class="w-5/6 gap-x-32 items-center hidden min-[1024px]:flex">
             <img 
-                src="/eco-logo3.png" 
+                src="https://www.ecoslinksolutions.com/eco-logo3.png" 
                 alt="White Logo"
                 class="w-[220px]"
                 width="200"
@@ -69,7 +69,7 @@
         <div class="relative min-[1024px]:hidden block w-full">
           <div class="flex justify-between items-center w-full px-6 max-[767px]:py-4 mobile_menu">
             <img 
-                  src="/eco-logo3.png" 
+                  src="https://www.ecoslinksolutions.com/eco-logo3.png" 
                   alt="White Logo"
                   class="block"
                   width="300"

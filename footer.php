@@ -3,7 +3,7 @@
         <div class="w-full lg:w-1/3">
             <a href="/" class="w-full md:w-2/3">
                 <img
-                src="/eco-logo3.png"
+                src="https://www.ecoslinksolutions.com/eco-logo3.png"
                 alt="White Logo"
                 class="mx-auto px-4 sm:px-0 block sm:mx-0 max-w-[220px]"
                 width="224"

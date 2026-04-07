@@ -11,15 +11,16 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>CEMS | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
-        <meta property="og:title" content="CEMS | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <title>CEMS Solutions | EcosLinkSolutions</title>
+        <meta name="description" content="Leading CEMS Malaysia supplier. DOE-compliant Continuous Emission Monitoring Systems for power plants, cement, palm oil, petrochemical & industrial facilities. Certified installation, calibration & after-sales support.">
+        <meta property="og:title" content="CEMS Solutions | EcosLinkSolutions">
+        <meta property="og:description" content="Leading CEMS Malaysia supplier. DOE-compliant Continuous Emission Monitoring Systems for power plants, cement, palm oil, petrochemical & industrial facilities. Certified installation, calibration & after-sales support." />
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <meta name="keywords" content="CEMS Malaysia, continuous emission monitoring system Malaysia, DOE CEMS Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system" />
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 
@@ -50,425 +51,501 @@
         
       <script src="../js/lightgallery-all.min.js"></script>
       <script src="../js/jquery.tabs.min.js"></script>
+      <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CEMS Malaysia — Continuous Emission Monitoring System",
+    "description": "DOE-compliant Continuous Emission Monitoring Systems (CEMS) for Malaysian industrial facilities. Supply, installation, commissioning, calibration, and after-sales support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Ecos Link Solutions Sdn. Bhd."
+    },
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "areaServed": "MY",
+      "priceCurrency": "MYR"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Who needs a CEMS in Malaysia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Under the Environmental Quality (Clean Air) Regulations 2014, facilities including power plants, cement plants, palm oil mills, steel mills, petrochemical plants, and waste incinerators are required by the Department of Environment (DOE) Malaysia to install and operate a Continuous Emission Monitoring System (CEMS)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What pollutants does CEMS measure in Malaysia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A DOE-compliant CEMS in Malaysia typically monitors SO₂, NOₓ, CO, CO₂, O₂, particulate matter (dust/opacity), and stack gas flow rate. Specific parameters depend on the industry type and operating permit conditions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Ecos Link Solutions supply DOE-registered CEMS equipment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Ecos Link Solutions supplies CEMS equipment from globally certified manufacturers that meet DOE Malaysia guidelines (Version 8.0, October 2025). Our systems transmit data directly to the DOE iRemote server as required."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the iRemote data transmission requirement for CEMS in Malaysia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "All CEMS installed at regulated industrial premises in Malaysia must transmit real-time emission data to the DOE's iRemote (CEMS Remote Monitoring and Enforcement System). Ecos Link Solutions provides full iRemote-compatible CEMS-DAS and CEMS-DIS integration."
+        }
+      }
+    ]
+  }
+  </script>
   </head>
 
 <body>
     <?php include("../nav.php"); ?>
     <main class="">
-        <section class="">
-          <div class="relative flex items-center h-[300px] md:h-[400px] mt-12 bg-banner-3">
-            <div class='w-11/12 sm:w-5/6 relative mx-auto'>
-              <h1 class='text-[1em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-2 md:mb-6 max-[575px]:text-[1.5em]' data-aos="fade-down"><span class="text-[#035D87] block">Continuous Emissions</span> Monitoring Systems (CEMS)</h1>
-              <p class='text-[0.65em] lg:text-[1.2em] text-[#252B42] flex items-center gap-x-1 sm:gap-x-4 leading-[1.2]' data-aos="fade-up"><a href="https://ecoslinksolutions.com/">Home</a><span>/</span><a href="/solutions">Solutions</a><span>/</span><b>Continuous Emissions Monitoring Systems (CEMS)</b></p>
+        <section class="hero">
+          <div class="mx-auto lg:w-5/6 px-6 lg:px-0 text-[#1E293B]">
+            <div class="breadcrumb" data-aos="fade-up" data-aos-duration="500">
+              <a href="/">Home</a> > <a href="/solutions">Solutions</a> > CEMS Malaysia
             </div>
-          </div>
-          <div class='w-11/12 sm:w-5/6 mx-auto mb-6 md:mb-12'>
-            <div class='w-full mt-6 md:mt-12' data-aos="fade-up">
-              <p class='text-[14px] lg:text-[19px] text-[#252B42]'>
-                Ecos Link Solutions is a trusted Malaysian engineering partner specializing in four core verticals: Continuous Emissions Monitoring Systems (CEMS), Industrial IoT solutions, system integration, and process analyzers. We help industries achieve regulatory compliance, operational efficiency, and digital transformation. With strong technical expertise and partnerships with global brands, we deliver tailored solutions from design to after-sales support.
-              </p>
+            <h1 data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">CEMS <span>Malaysia</span> — DOE-Compliant<br>Emission Monitoring Solutions</h1>
+            <p class="lead" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+              Malaysia's trusted partner for Continuous Emission Monitoring Systems (CEMS). From system design and DOE registration to installation, calibration, iRemote connectivity, and on-site support — Ecos Link Solutions delivers end-to-end CEMS compliance.
+            </p>
+            <div class="cta-row" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+              <a href="/#contact-us" class="btn-primary">Request a CEMS Consultation</a>
+              <a href="/solutions/continuous-emission-monitoring-system-solutions" class="btn-outline">View All Solutions</a>
             </div>
           </div>
         </section>
-        <section class='w-11/12 sm:w-5/6 mx-auto lg:pt-12 pb-12 md:pb-28 text-[#252B42]'>
-          <div class="jq-tab-wrapper" id="verticalTab">
-            <div class="jq-tab-menu min-[1024px]:block hidden">
-                <div class="jq-tab-title active" data-tab="1">Dr. Fodisch</div>
-                <div class="jq-tab-title" data-tab="2">ABB</div>
-                <div class="jq-tab-title" data-tab="3">Envea</div>
-                <div class="jq-tab-title" data-tab="4">SICK</div>
-                <div class="jq-tab-title" data-tab="5">Durag</div>
-            </div>
-            <div class="dropdown min-[1024px]:hidden block">
-              <div class="relative">
-                <button class="active w-full py-2 px-4 text-left relative block" onclick="toggleDropdown()">Select an option</button>
-                <i class="fas fa-chevron-down absolute right-4 top-3"></i>
-              </div>
-              
-              <div class="dropdown-content">
-                  <div class="jq-tab-title" data-tab="1">Dr. Fodisch</div>
-                  <div class="jq-tab-title" data-tab="2">ABB</div>
-                  <div class="jq-tab-title" data-tab="3">Envea</div>
-                  <div class="jq-tab-title" data-tab="4">SICK</div>
-                  <div class="jq-tab-title" data-tab="5">Durag</div>
-              </div>
-            </div>
-            <div class="jq-tab-content-wrapper">
-                <div class="jq-tab-content active text-black" data-tab="1">
-                  <img src="../img/solutions/cems/image2.png" alt="Dr. Fodisch logo" width="300" height="200" class='block mb-8' />
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image1.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image1.png" class="w-full" alt="Multi component analyser MCA 10" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">Multi component analyser MCA 10</h3>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Extractive multicomponent analysis system</li>
-                        <li class="mb-2" data-aos="fade-right">Hot-wet gas analysis</li>
-                        <li class="mb-2" data-aos="fade-right">QAL 1 & MCERTS according to EN 15267-3</li>
-                        <li class="mb-2" data-aos="fade-right">HF, HCl, H2O, NMVOC, CO, CO2, NO, NO2, NOx, N2O, NH3, SO2 and O2</li>
-                      </ul>
-                    </div>
-                  </div>
-                  
-                  <div class="flex flex-col md:flex-row gap-6 mb-12 items-center">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image3.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image3.png" class="w-full" alt="Dust monitoring device PFM 02 Ex">
-                      </div>
-                    </div>
-                    <div class="w-full">
-                        <h3 class="font-bold text-[18px] md:text-[24px] mb-4 mt-6 leading-[1.2]" data-aos="fade-down">Dust monitoring device PFM 02 Ex</h3>
-                        <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                          <li class="mb-2" data-aos="fade-right">Filter monitor for in-situ dust measurement with EC-Type Examination Certificate (IBExU04ATEX1249 X)</li>
-                          <li class="mb-2" data-aos="fade-right">Approved for Ex II 1 / 3D Ex ia / tc IIIC T74 ° C Da / Dc</li>
-                          <li class="mb-2" data-aos="fade-right">Compact device</li>
-                          <li class="mb-2" data-aos="fade-right">Display showing the measured value in mg/m³ or in line diagram</li>
-                        </ul>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12 items-center">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image4.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image4.png" class="w-full" alt="Flow measuring device FMD 09">
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 mt-6 leading-[1.2]" data-aos="fade-down">Flow measuring device FMD 09</h3>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Continuous measurement of exhaust gas velocity, exhaust gas flow, pressure and temperature</li>
-                        <li class="mb-2" data-aos="fade-right">Compact unit with differential pressure probe</li>
-                        <li class="mb-2" data-aos="fade-right">Can be used in flue gases with high dust contents</li>
-                        <li class="mb-2" data-aos="fade-right">Suitability tested and certified according to EN 15267-3 (QAL1)</li>
-                        <li class="mb-2" data-aos="fade-right">Approved for all plants covered by IED</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="jq-tab-content text-black" data-tab="2">
-                  <img src="../img/solutions/cems/image5.png" alt="ABB logo" width="300" height="200" class='block mb-8' />
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image6.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image6.png" class="w-full" alt="ABB EL3020 Analyzer" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ABB EL3020 Analyzer</h3>
-                      <p class="">Features gas-filled opto-pneumatic radiation detectors. Detector filling corresponds to the gas being measured, which means that the detector provides optimum sensitivity and high selectivity compared with the other gas components in the sample.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Detectors with different measurement principles for numerous process and emission monitoring applications</li>
-                        <li class="mb-2" data-aos="fade-right">Up to five measurement components per gas analyzer</li>
-                        <li class="mb-2" data-aos="fade-right">Suitable for measuring flammable gases</li>
-                        <li class="mb-2" data-aos="fade-right">Automatic calibration including pump and valve control</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image7.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image7.png" class="w-full" alt="ABB AO2040" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ABB AO2040</h3>
-                      <p class="">Advance Optima Continuous Gas Analyser AO2000 Series.The ABB Advance Optima AO2040 is part of the AO2000 series, a modular product line designed for continuous process gas analysis. The series is highly versatile and offers a wide range of analyzer modules for a variety of applications, including process and emissions monitoring. AO2040 is specifically configured for use in Zone 1,21 and 2,22 environments, where explosive environments are possible.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="jq-tab-content text-black" data-tab="3">
-                  <img src="../img/solutions/cems/image8.png" alt="Envea" width="200" height="200" class='block mb-8' />
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image9.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image9.png" class="w-full" alt="OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710</h3>
-                      <p class="mb-4">QAL1 approved particulate CEM which meets US EPA PS-1 requirements for Opacity monitoring from combustion stack.</p>
-                      <p class="">Robust multi corner cube reflector provides truer reflection of transmitted light compared to traditional "mirror type" reflectors providing greater confidence in measurement.</p>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image10.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image10.png" class="w-full" alt="PARTICULATE CEM FOR WET GAS STREAMS - STACK 181 WS" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">PARTICULATE CEM FOR WET GAS STREAMS - STACK 181 WS</h3>
-                      <p class="">US EPA PS11 capable ProScatter™ particulate CEM for the extractive sampling and measurement of particulate in saturated wet gas streams.</p>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image11.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image11.png" class="w-full" alt="OPACITY QAL1 APPROVED PARTICULATE CEM - STACK 710" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">STACKFLOW 400 𝘍𝘭𝘶𝘦𝘚𝘰𝘯𝘪𝘤™ APPROVED FLUE GAS VELOCITY CEM</h3>
-                      <p class="">Approved flue gas velocity CEM for stack velocity, volumetric flow and pollutant mass release calculations when linked to Gas and Dust CEMS.</p>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image12.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image12.png" class="w-full" alt="MIR 9000e NDIR-GFC Multi-Gas Analyzer" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">MIR 9000e NDIR-GFC Multi-Gas Analyzer</h3>
-                      <p class="mb-4">Eco-designed, ultra-compact, smart &amp; connected instrument, the MIR 9000e is your next tool to measure combustion exhaust gas from boiler, or gas from different industrial furnaces and process applications.</p>
-                      <p class="">It offers superior metrological performances for the simultaneous multi-gas measurement of: NOx, SO2, CO, O2, residual H2O, CO2, CH4 and N2O (greenhouse gases).</p>
-                    </div>
-                  </div>
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image16.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image16.png" class="w-full" alt="IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">IN-SITU CLOSE-COUPLED MULTI-GAS ANALYZER - MIR IS</h3>
-                      <p class="mb-4">A complete &quot;all in one compact&quot; system, for multi-gas measurements, based on the field-proven MIR 9000 analyzer and on-board SEC sampling system.</p>
-                      <p class="mb-4">Fast &amp; simultaneous measurement of up to 10 gases among: HCl, NO, NO2 (NOx), SO2, CO, CO2, HC, CH4 (TOC), HF, N2O, O2, at the sampling location.</p>
-                      <p class="">Integrated sample drying &amp; system conditioning; no sample line necessary.</p>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="jq-tab-content text-black" data-tab="4">
-                  <img src="../img/solutions/cems/image13.png" alt="SICK logo" width="300" height="200" class='block mb-8' />
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image14.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image14.png" class="w-full" alt="DUSTHUNTER SP100" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER SP100</h3>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Installation from one side</li>
-                        <li class="mb-2" data-aos="fade-right">For very low to medium dust concentrations</li>
-                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
-                        <li class="mb-2" data-aos="fade-right">Contamination check</li>
-                        <li class="mb-2" data-aos="fade-right">Hastelloy probe available for corrosive gases</li>
-                        <li class="mb-2" data-aos="fade-right">For small to medium duct diameters</li>
-                        <li class="mb-2" data-aos="fade-right">Device version for Ex zone 2</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-1/3">
-                      <div class="gallery-item" data-src="../img/solutions/cems/image15.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/image15.png" class="w-full" alt="DUSTHUNTER T100" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">DUSTHUNTER T100</h3>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">For medium to high dust concentrations</li>
-                        <li class="mb-2" data-aos="fade-right">Integrated contamination check</li>
-                        <li class="mb-2" data-aos="fade-right">Automated check of zero and reference point</li>
-                        <li class="mb-2" data-aos="fade-right">For small to large measuring distances</li>
-                      </ul>
-                    </div>
-                  </div> 
-                </div>
 
-                <div class="jq-tab-content text-black" data-tab="5">
-                  <img src="../img/solutions/cems/durag_logo.jpeg" alt="DURAG logo" width="300" height="200" class='block p-8' />
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 290-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 290-1.jpg" class="w-full" alt="D-R 290" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 290-2.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 290-2.jpg" class="w-full hidden" alt="D-R 290" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 290</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Dust and opacity monitor</h4>
-                      <p class="mb-4">For continuous, contactless dust and opacity measurement at medium to high concentrations in dry flue and process gases. Also suitable for difficult plant conditions. Exceeds EPA and ASTM standards.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Continuous dust measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Smallest certified measuring range 0 … 15 mg/m3</li>
-                        <li class="mb-2" data-aos="fade-right">Automatic measurement and correction of contamination</li>
-                        <li class="mb-2" data-aos="fade-right">Automatic check functions</li>
-                        <li class="mb-2" data-aos="fade-right">Contactless measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Maintenance and linearity check without disassembly</li>
-                        <li class="mb-2" data-aos="fade-right"><b>Exceeds EPA and ASTM standards</b><br/>The D-R 290 was developed to comply with 40CFR60, App. B, PS-1 and ASTM D6216-20 Annex A1 “Standard Practice for Opacity Manufactures to Certify Conformance with Design and Performance Specifications."</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 909-1.jpg" class="w-full" alt="D-R 909" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-2.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 909-2.jpg" class="w-full hidden" alt="D-R 909" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 909-3.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 909-3.jpg" class="w-full hidden" alt="D-R 909" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 909</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Extractive dust monitor</h4>
-                      <p class="mb-4">Extractive continuous dust measurement of small to medium dust concentrations in wet flue and process gases even under difficult plant conditions. </p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">QAL1-certified in accordance with EN 15267</li>
-                        <li class="mb-2" data-aos="fade-right">Automatic control functions</li>
-                        <li class="mb-2" data-aos="fade-right">Flow-optimized design prevents the deposit of impurities</li>
-                        <li class="mb-2" data-aos="fade-right">Efficient operation due to electronically controlled blowers and heaters</li>
-                        <li class="mb-2" data-aos="fade-right">Modular system of compact units</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 320-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 320-1.jpg" class="w-full" alt="D-R 320" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 320-2.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 320-2.jpg" class="w-full hidden" alt="D-R 320" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 320</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">In situ dust monitor</h4>
-                      <p class="mb-4">For continuous, contactless measurement of low to medium dust concentrations in dry flue and process gases. Also suitable for corrosive gases and potentially explosive atmospheres.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Continuous dust measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Smallest certified measuring range 0 … 7.5 mg/m3</li>
-                        <li class="mb-2" data-aos="fade-right">Single-sided installation without optical alignment</li>
-                        <li class="mb-2" data-aos="fade-right">Automatic check functions</li>
-                        <li class="mb-2" data-aos="fade-right">Continuous, integrated purge air monitoring and control</li>
-                        <li class="mb-2" data-aos="fade-right">Maintenance and linearity check without disassembly</li>
-                        <li class="mb-2" data-aos="fade-right">Contactless measurement</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 808-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 808-1.jpg" class="w-full" alt="D-R 808" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/D-R 808-2.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/D-R 808-2.jpg" class="w-full hidden" alt="D-R 808" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">D-R 808</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">In situ dust monitor</h4>
-                      <p class="mb-4">Certified and approved PM CEMS providing very high quality monitoring of very low to medium particulate concentrations in dry flue gas flows.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Certified for the range of 0-7.5 mg/m3 the lowest range achievable for a dust CEMS (Continuous Emissions Monitoring System)</li>
-                        <li class="mb-2" data-aos="fade-right">Certified and approved dust analyzer for ensuring plant compliance with international standards for industrial emissions</li>
-                        <li class="mb-2" data-aos="fade-right"><b>New</b>: ATEX & IECEx certified to operate safely in hazardous environments, minimizing the risk of ignition and explosion</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas-1.jpg" class="w-full" alt="ProCeas" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-2.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas-2.jpg" class="w-full hidden" alt="ProCeas" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-3.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas-3.png" class="w-full hidden" alt="ProCeas" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas-4.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas-4.png" class="w-full hidden" alt="ProCeas" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ProCeas</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Laser infrared spectrometer</h4>
-                      <p class="mb-4">Fully pre-calibrated multi-component gas analyzer for process gas analysis. Suitable for a wide range of gases and applications.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Continuous multigas measurement</li>
-                        <li class="mb-2" data-aos="fade-right">High resolution IR laser technology</li>
-                        <li class="mb-2" data-aos="fade-right">Patented OFCEAS TDL technology</li>
-                        <li class="mb-2" data-aos="fade-right">No optical moving parts</li>
-                        <li class="mb-2" data-aos="fade-right">Direct measurement without degrading the sample (no scrubber needed)</li>
-                        <li class="mb-2" data-aos="fade-right">Patented low pressure sampling system</li>
-                        <li class="mb-2" data-aos="fade-right">Maintenance: Yearly</li>
-                      </ul>
-                    </div>
-                  </div> 
-                  <div class="flex flex-col md:flex-row gap-6 mb-12">
-                    <div class="lightgallery w-full md:w-3/5">
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas Air-1.jpg" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas Air-1.jpg" class="w-full" alt="ProCeas Air" />
-                      </div>
-                      <div class="gallery-item" data-src="../img/solutions/cems/ProCeas Air-2.png" data-aos="fade-up">
-                        <img src="../img/solutions/cems/ProCeas Air-2.png" class="w-full hidden" alt="ProCeas Air" />
-                      </div>
-                    </div>
-                    <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">ProCeas Air</h3>
-                      <h4 class="font-bold text-[16px] md:text-[20px] mb-4 leading-[1.2]" data-aos="fade-down">Laser infrared spectrometer</h4>
-                      <p class="mb-4">Fully pre-calibrated multi-component gas analyzer, e.g. for ambient air, workplace or greenhouse gas applications. Designed for low to medium gas concentrations.</p>
-                      <ul class='list-disc pl-6 text-[14px] text-[#252B42]'>
-                        <li class="mb-2" data-aos="fade-right">Direct and extractive measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Continuous measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Multi components</li>
-                        <li class="mb-2" data-aos="fade-right">High resolution laser technology</li>
-                        <li class="mb-2" data-aos="fade-right">Patented OFCEAS IR laser technology</li>
-                        <li class="mb-2" data-aos="fade-right">No optical moving parts</li>
-                        <li class="mb-2" data-aos="fade-right">Patented low pressure sampling system</li>
-                        <li class="mb-2" data-aos="fade-right">No instrument air consumption</li>
-                        <li class="mb-2" data-aos="fade-right">Up to 16 lines for multiplexed measurement</li>
-                        <li class="mb-2" data-aos="fade-right">Maintenance: yearly</li>
-                      </ul>
-                    </div>
-                  </div> 
-                </div>
+        <!-- ═══════════ TRUST BAR ═══════════ -->
+        <div class="trust-bar">
+          <div class="mx-auto lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <div class="item" data-aos="fade-up" data-aos-duration="500" data-aos-delay="0"><span class="icon">✅</span> DOE Malaysia Compliant Equipment</div>
+              <div class="item" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80"><span class="icon">📡</span> iRemote / CEMS-DIS Integration</div>
+              <div class="item" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160"><span class="icon">🏭</span> 10+ Industries Served</div>
+              <div class="md:col-span-3 flex flex-col md:flex-row md:justify-center gap-4 md:gap-12">
+                <div class="item" data-aos="fade-up" data-aos-duration="500" data-aos-delay="240"><span class="icon">🔧</span> Full After-Sales &amp; Calibration Support</div>
+                <div class="item" data-aos="fade-up" data-aos-duration="500" data-aos-delay="320"><span class="icon">🌍</span> World-Class Global Technology Partners</div>
+              </div>
             </div>
           </div>
-      </section>
+        </div>
+
+        <!-- ═══════════ WHAT IS CEMS ═══════════ -->
+        <section id="what-is-cems" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="mx-auto lg:w-5/6 px-6 lg:px-0">
+            <div class="what-grid">
+              <div class="prose" data-aos="fade-right" data-aos-duration="700">
+                <div class="section-label">Understanding CEMS</div>
+                <h2 class="section-title">What Is a Continuous Emission Monitoring System (CEMS)?</h2>
+                <p>
+                  A <strong>Continuous Emission Monitoring System (CEMS)</strong> is a fully integrated set of equipment used to continuously sample, condition, analyse, and record pollutant concentrations from industrial exhaust stacks. In Malaysia, CEMS is the primary mechanism through which the <strong>Department of Environment (DOE)</strong> enforces compliance with the <em>Environmental Quality (Clean Air) Regulations 2014</em>.
+                </p>
+                <p>
+                  A complete CEMS installation comprises gas analysers (extractive or in-situ), particulate monitors, flow velocity meters, a Data Acquisition System (CEMS-DAS), and a Data Interfacing System (CEMS-DIS) that transmits real-time stack data directly to the DOE's <strong>iRemote server</strong> for remote monitoring and enforcement.
+                </p>
+                <h3>Key System Components</h3>
+                <p>Gas analysers measure SO₂, NOₓ, CO, CO₂ and O₂. Particulate/dust monitors measure opacity and PM concentration. A flow meter quantifies stack gas velocity and volumetric flow rate. The CEMS-DAS aggregates data as half-hour averages (minimum 75% valid data). The CEMS-DIS handles encrypted data transmission to DOE.</p>
+                <h3>Extractive vs. In-Situ CEMS</h3>
+                <p>
+                  <strong>Extractive systems</strong> withdraw a sample from the stack, condition it (remove moisture, particulates), then analyse it in an analyser shelter. <strong>In-situ systems</strong> (such as cross-stack laser or IR analysers) measure directly in the flue gas path with no sample conditioning, offering faster response and simpler maintenance — increasingly popular for Malaysian cement, waste-to-energy, and power plant applications.
+                </p>
+              </div>
+              <div class="stat-cards" data-aos="fade-left" data-aos-duration="700">
+                <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
+                  <div class="num">2014</div>
+                  <div class="label">Environmental Quality (Clean Air) Regulations — the legal basis for CEMS requirements in Malaysia</div>
+                </div>
+                <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">
+                  <div class="num num--with-action">v8.0
+                    <a href="/img/solutions/cems/Guidelines%20CEMS%20%20Vol%20I%26II%20Version%208.pdf" download class="pdf-btn" title="Download DOE CEMS Guidelines v8.0 PDF">
+                      <img src="../img/pdf_icon.png" alt="Download PDF" width="40" height="50">
+                    </a>
+                  </div>
+                  <div class="label">DOE CEMS Guidelines (October 2025) — the current technical standard governing CEMS installation and maintenance</div>
+                </div>
+                <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">
+                  <div class="num">75%</div>
+                  <div class="label">Minimum valid data availability per half-hour period required by DOE (≥22 of 30 one-minute averages)</div>
+                </div>
+                <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="400">
+                  <div class="num">24 / 7</div>
+                  <div class="label">Continuous data transmission to DOE iRemote required for all regulated industrial premises</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══════════ REGULATORY ═══════════ -->
+        <div class="section-tinted">
+        <section id="doe-cems-malaysia" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">Regulatory Framework</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">DOE CEMS Requirements in Malaysia</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">
+              Understanding and meeting DOE Malaysia's CEMS regulatory framework is the foundation of any compliant installation. Ecos Link Solutions guides you through every regulatory obligation.
+            </p>
+            <div class="reg-cards grid grids-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[20px] mt-[8px]">
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+                <div class="icon">📜</div>
+                <h3>Environmental Quality (Clean Air) Regulations 2014</h3>
+                <p>The primary legislation requiring designated industrial premises to install, operate, and maintain a DOE-approved CEMS at each regulated point source.</p>
+              </div>
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="icon">📋</div>
+                <h3>DOE CEMS Guidelines v8.0 (October 2025)</h3>
+                <p>A 90-page technical document specifying equipment criteria, pollutant parameters, installation procedures, QA/QC plans, data requirements, and reporting obligations for all CEMS installations.</p>
+              </div>
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="icon">🖥️</div>
+                <h3>iRemote Data Transmission</h3>
+                <p>All regulated facilities must connect their CEMS-DAS to the DOE CEMS Remote Monitoring and Enforcement System (iRemote) for real-time, online submission of half-hourly emission averages.</p>
+              </div>
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="icon">📊</div>
+                <h3>Quality Assurance Plan (QAP)</h3>
+                <p>Operators must prepare, submit, and obtain DOE approval for a QAP detailing CEMS maintenance schedules, performance evaluations, calibration frequency, and data validation procedures.</p>
+              </div>
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="icon">🔍</div>
+                <h3>CEMS Functional Testing</h3>
+                <p>Before commissioning, facilities must complete calibration tests and relative accuracy variability checks. Results are reviewed by DOE before the iRemote connection is activated.</p>
+              </div>
+              <div class="reg-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                <div class="icon">🏢</div>
+                <h3>Registered Consultant Requirement</h3>
+                <p>Plant operators must engage a DOE-registered CEMS consultant. Ecos Link Solutions works alongside registered consultants and testers to ensure full compliance from design through commissioning.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+        </div><!-- /section-tinted -->
+
+        <!-- ═══════════ INDUSTRIES ═══════════ -->
+        <section id="industries" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">Who Needs CEMS in Malaysia</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">Industries Required to Install CEMS</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">The DOE mandates CEMS for high-emission industrial sectors. Ecos Link Solutions has experience across all major regulated industries in Malaysia.</p>
+            <div class="ind-grid grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-[10px] sm:gap-[20px]">
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="0"><div class="icon">⚡</div><h3>Power Plants &amp; IPPs</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="60"><div class="icon">🏭</div><h3>Cement Manufacturing</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="120"><div class="icon">🛢️</div><h3>Petroleum &amp; Petrochemical</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="180"><div class="icon">🌴</div><h3>Palm Oil Mills &amp; Refineries</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="240"><div class="icon">🔩</div><h3>Iron &amp; Steel Works</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="60"><div class="icon">🔥</div><h3>Waste Incinerators</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="120"><div class="icon">🪵</div><h3>Pulp &amp; Paper</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="180"><div class="icon">⚗️</div><h3>Chemical &amp; Fertiliser Plants</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="240"><div class="icon">🏗️</div><h3>Glass &amp; Ceramic Manufacturing</h3></div>
+              <div class="ind-card" data-aos="zoom-in" data-aos-duration="500" data-aos-delay="300"><div class="icon">♻️</div><h3>Waste-to-Energy Facilities</h3></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══════════ PARAMETERS TABLE ═══════════ -->
+        <div class="section-tinted">
+        <section id="parameters" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">Measurement Parameters</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">CEMS Parameters Required by DOE Malaysia</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">Ecos Link Solutions supplies certified analysers for every DOE-mandated measurement parameter.</p>
+            <div class="table-scroll" data-aos="fade-up" data-aos-duration="600" data-aos-delay="240">
+            <table class="param-table">
+              <thead>
+                <tr>
+                  <th>Parameter</th>
+                  <th>Measurement Type</th>
+                  <th>Typical Technology</th>
+                  <th>DOE Requirement</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>SO₂ (Sulphur Dioxide)</strong></td>
+                  <td>Gas concentration</td>
+                  <td>UV fluorescence / NDIR / FTIR</td>
+                  <td><span class="badge">Mandatory</span> most sectors</td>
+                </tr>
+                <tr>
+                  <td><strong>NOₓ (Nitrogen Oxides)</strong></td>
+                  <td>Gas concentration (NO + NO₂)</td>
+                  <td>Chemiluminescence / FTIR</td>
+                  <td><span class="badge">Mandatory</span> combustion sources</td>
+                </tr>
+                <tr>
+                  <td><strong>CO (Carbon Monoxide)</strong></td>
+                  <td>Gas concentration</td>
+                  <td>NDIR / electrochemical</td>
+                  <td><span class="badge">Mandatory</span> combustion sources</td>
+                </tr>
+                <tr>
+                  <td><strong>CO₂ (Carbon Dioxide)</strong></td>
+                  <td>Gas concentration</td>
+                  <td>NDIR / FTIR</td>
+                  <td><span class="badge">Mandatory</span> flow correction</td>
+                </tr>
+                <tr>
+                  <td><strong>O₂ (Oxygen)</strong></td>
+                  <td>Gas concentration</td>
+                  <td>Paramagnetic / zirconia probe</td>
+                  <td><span class="badge">Mandatory</span> dilution correction</td>
+                </tr>
+                <tr>
+                  <td><strong>Particulate Matter (PM)</strong></td>
+                  <td>Dust concentration / opacity</td>
+                  <td>Transmissometer / forward scatter / triboelectric</td>
+                  <td><span class="badge">Mandatory</span> solid fuel &amp; incinerators</td>
+                </tr>
+                <tr>
+                  <td><strong>Stack Gas Flow Rate</strong></td>
+                  <td>Velocity &amp; volumetric flow</td>
+                  <td>Pitot / ultrasonic flow meter</td>
+                  <td><span class="badge">Mandatory</span> mass emission calculation</td>
+                </tr>
+                <tr>
+                  <td><strong>H₂O (Moisture)</strong></td>
+                  <td>Moisture content %</td>
+                  <td>In-situ humidity sensor</td>
+                  <td>Wet gas correction</td>
+                </tr>
+              </tbody>
+            </table>
+            </div><!-- /table-scroll -->
+          </div>
+        </section>
+        </div><!-- /section-tinted -->
+
+        <!-- ═══════════ PRODUCTS ═══════════ -->
+        <section id="products" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">Our CEMS Products</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">CEMS Equipment Supplied by Ecos Link Solutions</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">We partner with world-leading European and US manufacturers to supply QAL1-approved, DOE-compliant CEMS equipment for every application in Malaysia.</p>
+            <div class="prod-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[20px] md:gap-[24px]">
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+                <div class="top">
+                  <h3>Extractive Gas Analysers</h3>
+                  <div class="type">Multi-component NDIR / UV / FTIR</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>Simultaneous SO₂, NOₓ, CO, CO₂, O₂, CH₄, N₂O</li>
+                    <li>High-temperature extractive sampling for wet gas</li>
+                    <li>QAL1 certified to EN 14181 / EN 15267</li>
+                    <li>Compact, rack-mount analyser shelters available</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="top">
+                  <h3>In-Situ Gas Analysers</h3>
+                  <div class="type">Cross-stack laser / hot-wet IR</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>Direct insertion — no sample conditioning required</li>
+                    <li>Suitable for high-moisture, high-particulate stacks</li>
+                    <li>Faster response, lower maintenance burden</li>
+                    <li>ATEX / IECEx certified options for hazardous areas</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="top">
+                  <h3>Particulate / Dust CEMS</h3>
+                  <div class="type">Opacity &amp; PM concentration monitors</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>US EPA PS-1 &amp; PS-11 approved opacity monitors</li>
+                    <li>QAL1 approved — certified down to 0–7.5 mg/m³</li>
+                    <li>Suitable for wet gas streams (ProScatter™ technology)</li>
+                    <li>Baghouse &amp; cartridge filter applications</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+                <div class="top">
+                  <h3>Flow Velocity Meters</h3>
+                  <div class="type">Stack gas velocity &amp; volumetric flow</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>Approved for DOE mass emission calculations</li>
+                    <li>Links to gas &amp; dust CEMS for mass release reporting</li>
+                    <li>Ultrasonic and differential pressure technologies</li>
+                    <li>Wide turndown ratio for variable load operation</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="top">
+                  <h3>CEMS-DAS &amp; iRemote Integration</h3>
+                  <div class="type">Data Acquisition &amp; Transmission</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>Compliant with DOE CEMS-DAS &amp; CEMS-DIS specifications</li>
+                    <li>Automated half-hourly average computation</li>
+                    <li>Real-time encrypted transmission to DOE iRemote</li>
+                    <li>Local HMI, alarm management, and data historian</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="top">
+                  <h3>Calibration &amp; QA/QC Equipment</h3>
+                  <div class="type">Certified reference gases &amp; audit tools</div>
+                </div>
+                <div class="body">
+                  <ul>
+                    <li>Cylinder gas calibrators for zero/span checks</li>
+                    <li>CEMS performance audit support services</li>
+                    <li>Reference method (RM) testing coordination</li>
+                    <li>Relative accuracy test (RATA) support</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══════════ OUR PROCESS ═══════════ -->
+        <div class="section-tinted">
+        <section id="process"  class="pt-16 pb-20 mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">End-to-End Service</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">How We Deliver Your CEMS Project</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">From the first site visit to ongoing annual support, Ecos Link Solutions manages your entire CEMS journey.</p>
+          </div>
+          <div class="roadmap px-6 xl:px-0 xl:w-5/6 mx-auto">
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+              <div class="rm-node"><span>01</span></div>
+              <div class="rm-card">
+                <h3>Site Assessment &amp; Design</h3>
+                <p>Stack characterisation, duct layout review, parameter selection, and system architecture design aligned with DOE guidelines v8.0.</p>
+              </div>
+            </div>
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+              <div class="rm-node"><span>02</span></div>
+              <div class="rm-card">
+                <h3>Equipment Supply</h3>
+                <p>Procurement of QAL1-certified gas analysers, PM monitors, flow meters, and CEMS-DAS from our global technology partners.</p>
+              </div>
+            </div>
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+              <div class="rm-node"><span>03</span></div>
+              <div class="rm-card">
+                <h3>Installation &amp; Civil Works</h3>
+                <p>Mechanical installation of probes, platforms, sample lines, analyser shelters, and data cabling to DOE-specified configurations.</p>
+              </div>
+            </div>
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+              <div class="rm-node"><span>04</span></div>
+              <div class="rm-card">
+                <h3>Commissioning &amp; DOE Testing</h3>
+                <p>Functional tests, calibration, variability checks, and coordination with DOE-registered CEMS testers for official certification.</p>
+              </div>
+            </div>
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+              <div class="rm-node"><span>05</span></div>
+              <div class="rm-card">
+                <h3>iRemote Activation</h3>
+                <p>CEMS-DIS configuration, data validation, and live iRemote connection to the DOE server — your legal obligation, fulfilled.</p>
+              </div>
+            </div>
+
+            <div class="roadmap-step" data-aos="fade-up" data-aos-duration="600" data-aos-delay="500">
+              <div class="rm-node"><span>06</span></div>
+              <div class="rm-card">
+                <h3>Training &amp; Ongoing Support</h3>
+                <p>Operator training, scheduled preventive maintenance, annual calibration audits, and QAP update assistance throughout the system lifecycle.</p>
+              </div>
+            </div>
+
+          </div>
+          </div>
+        </section>
+        </div><!-- /section-tinted -->
+
+        <!-- ═══════════ FAQ ═══════════ -->
+        <section id="faq" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
+          <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
+            <div class="section-label" data-aos="fade-up" data-aos-duration="500">Frequently Asked Questions</div>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">CEMS Malaysia — Common Questions</h2>
+            <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">Answers to the questions our Malaysian clients ask most often about CEMS compliance and implementation.</p>
+
+            <details open data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+              <summary>Who is legally required to install CEMS in Malaysia?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                Under the Environmental Quality (Clean Air) Regulations 2014, any industrial premises listed under the regulated source activities in the DOE CEMS Guidelines must install and operate a compliant CEMS. This includes power plants (gas, coal, biomass), cement plants, palm oil mills, petroleum refineries, steel mills, petrochemical plants, glass furnaces, and waste incinerators — among others. Refer to Table 2-1 of DOE CEMS Guidelines v8.0 for the complete list of regulated activities and capacity thresholds.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="80">
+              <summary>What is the iRemote system and why is it required?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                iRemote (the DOE CEMS Remote Monitoring and Enforcement System) is the DOE's centralised platform for receiving and enforcing real-time emission data from all regulated facilities across Malaysia. Every CEMS must be connected via a CEMS-DIS (Data Interfacing System) that transmits validated half-hourly averages to iRemote. Without a live iRemote connection, your CEMS installation is not considered compliant. Ecos Link Solutions handles all CEMS-DIS configuration and iRemote connection testing as part of our commissioning service.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="160">
+              <summary>What is a Quality Assurance Plan (QAP) and do I need one?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                Yes. A Quality Assurance Plan is a mandatory document that every CEMS operator in Malaysia must prepare, submit to the DOE, and have formally approved before their system goes live. The QAP details your scheduled maintenance activities, performance evaluation procedures, calibration intervals, data validation methods, and corrective action protocols. Ecos Link Solutions can assist you in drafting and reviewing your QAP in alignment with DOE requirements.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="240">
+              <summary>What is the difference between extractive and in-situ CEMS?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                An extractive CEMS withdraws a representative flue gas sample from the stack, transports it through heated or cooled sample lines, conditions it (removing water vapour and particulates), and then measures gas concentrations in a remote analyser. An in-situ CEMS measures directly in the gas stream using probes or cross-stack beams — no sample extraction or conditioning is needed. In-situ systems are generally simpler to maintain and faster in response, making them well-suited for high-moisture stack applications like palm oil boilers or cement kilns. Ecos Link Solutions recommends the most appropriate technology based on your specific stack conditions and regulatory requirements.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="320">
+              <summary>How often does a CEMS need to be calibrated in Malaysia?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                DOE Malaysia requires daily automated zero/span calibration checks using certified reference gases, periodic relative accuracy tests (typically annually or as specified in your QAP), and regular preventive maintenance. Any CEMS downtime must be documented, and data recovery procedures must be in place to ensure that data availability remains above the 75% threshold required for valid half-hourly averages. Ecos Link Solutions offers maintenance contracts to keep your CEMS compliant year-round.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+              <summary>Can Ecos Link Solutions help with an existing CEMS that is failing or out of compliance?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                Absolutely. We provide CEMS health audits, troubleshooting, analyser replacements, spare parts supply, and calibration recovery for existing systems — regardless of the original equipment brand. If your current CEMS is generating excessive downtime, failing DOE audits, or losing iRemote connectivity, contact us for a rapid diagnostic assessment.
+              </div>
+            </details>
+          </div>
+        </section>
+
+        <!-- ═══════════ CTA BAND ═══════════ -->
+        <section class="cta-band">
+          <div class="container">
+            <h2 data-aos="fade-up" data-aos-duration="600">Ready to Achieve CEMS Compliance in Malaysia?</h2>
+            <p data-aos="fade-up" data-aos-duration="600" data-aos-delay="120">Speak with our CEMS specialists. We'll assess your site, recommend the right system, and guide you through every step of DOE approval.</p>
+            <a href="/#contact-us" class="btn-primary" data-aos="fade-up" data-aos-duration="600" data-aos-delay="240">Contact Ecos Link Solutions Today</a>
+          </div>
+        </section>
       </main>
       <?php include("../footer.php"); ?>
     
     <script>
-      $(document).ready(function () {
-        $('#verticalTab').jqTabs();
-  
-        $('.jq-tab-title, .jq-tab-content').removeClass('active');
-
-        if(window.location.hash.includes("#abb")){
-          $('[data-tab="2"]').addClass('active');
-        }else if(window.location.hash.includes("#envea")){
-          $('[data-tab="3"]').addClass('active');
-        }else if(window.location.hash.includes("#sick")){
-          $('[data-tab="4"]').addClass('active');
-        }else if(window.location.hash.includes("#durag")){
-          $('[data-tab="5"]').addClass('active');
-        }else{
-          $('[data-tab="1"]').addClass('active');
-        }
-
-        $('.lightgallery').lightGallery();
-      });
-      function toggleDropdown() {
-          $(".dropdown-content").toggle();
-        }
-
-        // Handle option selection
-        $(".jq-tab-title").click(function () {
-            var selectedOption = $(this).text();
-            $(".dropdown button").text(selectedOption);
-            $(".dropdown-content").hide();
-        });
         AOS.init({once: true});
     </script>
     <script src="../js/main.js"></script>
