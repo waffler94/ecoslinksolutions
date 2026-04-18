@@ -12,9 +12,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Process Analyzer | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
         <meta property="og:title" content="Process Analyzer | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
@@ -141,11 +141,11 @@
                   <div class="flex flex-col md:flex-row gap-6 mb-12">
                     <div class="lightgallery w-full md:w-1/3">
                       <div class="gallery-item" data-src="../img/solutions/process-analyzer/image10.png" data-aos="fade-up">
-                        <img src="../img/solutions/process-analyzer/image10.png" class="w-full" alt="Portable Dewpoint Analzyer" />
+                        <img src="../img/solutions/process-analyzer/image10.png" class="w-full" alt="Portable Dewpoint Analyzer" />
                       </div>
                     </div>
                     <div class="w-full">
-                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">Portable Dewpoint Analzyer</h3>
+                      <h3 class="font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2]" data-aos="fade-down">Portable Dewpoint Analyzer</h3>
                       <p class=""><b>World&apos;s fastest responses time.</b> The PhyMetrix PPMa is a portable moisture analyzer designed for accurate and rapid measurement of moisture content in various gases. Utilizing advanced nanotechnology, it offers a measurement range from -110°C to +20°C dew point, ensuring precise and repeatable results.</p>
                     </div>
                   </div>

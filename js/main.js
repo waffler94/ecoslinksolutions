@@ -32,18 +32,21 @@
       const parentLi = this.closest('li');
       const submenu = parentLi ? parentLi.querySelector('.submenu') : null;
 
-      // only block link if this item actually has submenu
-      if (submenu) {
-        e.preventDefault();
+      if (!submenu) return;
 
-        document.querySelectorAll('.menu li.open').forEach((item) => {
-          if (item !== parentLi) {
-            item.classList.remove('open');
-          }
-        });
+      const href = this.getAttribute('href');
+      const isRealLink = href && href !== '#';
 
-        parentLi.classList.toggle('open');
-      }
+      // For real-link items, only toggle when the chevron span is clicked
+      if (isRealLink && !e.target.closest('.submenu-toggle')) return;
+
+      e.preventDefault();
+
+      document.querySelectorAll('.menu li.open').forEach((item) => {
+        if (item !== parentLi) item.classList.remove('open');
+      });
+
+      parentLi.classList.toggle('open');
     });
   });
 

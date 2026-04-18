@@ -23,15 +23,15 @@
                               <div class="subdropdown">
                                   <ul class="subsubmenu">
                                       <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system" class="block w-full px-6 py-3">Dr. Fodisch</a></li>
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-full px-6 py-3">ABB</a></li>
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-full px-6 py-3">Envea</a></li>
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-full px-6 py-3">SICK</a></li>
-                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system#durag" class="block w-full px-6 py-3">DURAG</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system-solutions#abb" class="block w-full px-6 py-3">ABB</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system-solutions#envea" class="block w-full px-6 py-3">Envea</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system-solutions#sick" class="block w-full px-6 py-3">SICK</a></li>
+                                      <li class="block w-full"><a href="/solutions/continuous-emission-monitoring-system-solutions#durag" class="block w-full px-6 py-3">DURAG</a></li>
                                   </ul>
                               </div>
                           </li>
                           <li class="menu-item with-subdropdown block w-full">
-                              <a href="/solutions/process-analyzer" class="block w-full px-6 py-3">Process Analzyer</a>
+                              <a href="/solutions/process-analyzer" class="block w-full px-6 py-3">Process Analyzer</a>
                               <div class="subdropdown">
                                 <ul class="subsubmenu relative">
                                   <li class="block w-full"><a href="/solutions/process-analyzer" class="block w-full px-6 py-3">ECD</a></li>
@@ -92,16 +92,17 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/about-us">About Us</a></li>
                 <li><a href="/solutions">Solutions</a></li>
-                <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><i class="fas fa-chevron-right transition"></i></a>
+                <li><a href="/solutions/continuous-emission-monitoring-system" class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></a>
                   <div class="submenu">
-                    <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">Dr. Födisch</a>
-                    <a href="/solutions/continuous-emission-monitoring-system#abb" class="block w-fit px-6 py-3">ABB</a>
-                    <a href="/solutions/continuous-emission-monitoring-system#envea" class="block w-fit px-6 py-3">Envea</a>
-                    <a href="/solutions/continuous-emission-monitoring-system#sick" class="block w-fit px-6 py-3">SICK</a>
-                    <a href="/solutions/continuous-emission-monitoring-system#durag" class="block w-fit px-6 py-3">DURAG</a>
+                    <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">CEMS Malaysia</a>
+                    <a href="/solutions/continuous-emission-monitoring-system-solutions" class="block w-fit px-6 py-3">Dr. Födisch</a>
+                    <a href="/solutions/continuous-emission-monitoring-system-solutions#abb" class="block w-fit px-6 py-3">ABB</a>
+                    <a href="/solutions/continuous-emission-monitoring-system-solutions#envea" class="block w-fit px-6 py-3">Envea</a>
+                    <a href="/solutions/continuous-emission-monitoring-system-solutions#sick" class="block w-fit px-6 py-3">SICK</a>
+                    <a href="/solutions/continuous-emission-monitoring-system-solutions#durag" class="block w-fit px-6 py-3">DURAG</a>
                   </div>
                 </li>
-                <li><a href="#" class="toggle-submenu flex justify-between items-center"><span>Process Analzyer</span><i class="fas fa-chevron-right transition"></i></a>
+                <li><a href="/solutions/process-analyzer" class="toggle-submenu flex justify-between items-center"><span>Process Analyzer</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></a>
                 <div class="submenu">
                   <a href="/solutions/process-analyzer" class="block w-fit px-6 py-3">ECD</a>
                   <a href="/solutions/process-analyzer#phymetrix" class="block w-fit px-6 py-3">PhyMetrix</a>

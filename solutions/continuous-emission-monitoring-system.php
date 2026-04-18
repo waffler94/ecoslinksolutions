@@ -117,9 +117,9 @@
         <section class="hero">
           <div class="mx-auto lg:w-5/6 px-6 lg:px-0 text-[#1E293B]">
             <div class="breadcrumb" data-aos="fade-up" data-aos-duration="500">
-              <a href="/">Home</a> > <a href="/solutions">Solutions</a> > CEMS Malaysia
+              <a href="/">Home</a> > <a href="/solutions">Solutions</a> > Continuous Emission Monitoring System (CEMS) Malaysia
             </div>
-            <h1 data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">CEMS <span>Malaysia</span> — DOE-Compliant<br>Emission Monitoring Solutions</h1>
+            <h1 data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Continuous Emission Monitoring System <br/> <span>CEMS Malaysia</span> <br/> — DOE-Compliant<br>Emission Monitoring Solutions</h1>
             <p class="lead" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
               Malaysia's trusted partner for Continuous Emission Monitoring Systems (CEMS). From system design and DOE registration to installation, calibration, iRemote connectivity, and on-site support — Ecos Link Solutions delivers end-to-end CEMS compliance.
             </p>
@@ -159,7 +159,7 @@
                   A complete CEMS installation comprises gas analysers (extractive or in-situ), particulate monitors, flow velocity meters, a Data Acquisition System (CEMS-DAS), and a Data Interfacing System (CEMS-DIS) that transmits real-time stack data directly to the DOE's <strong>iRemote server</strong> for remote monitoring and enforcement.
                 </p>
                 <h3>Key System Components</h3>
-                <p>Gas analysers measure SO₂, NOₓ, CO, CO₂ and O₂. Particulate/dust monitors measure opacity and PM concentration. A flow meter quantifies stack gas velocity and volumetric flow rate. The CEMS-DAS aggregates data as half-hour averages (minimum 75% valid data). The CEMS-DIS handles encrypted data transmission to DOE.</p>
+                <p>Gas analysers measure SO₂, NOₓ, CO, HF, HCl, NMVOC, CO₂ and O₂. Particulate/dust monitors measure opacity and PM concentration. A flow meter quantifies stack gas velocity and volumetric flow rate. The CEMS-DAS aggregates data as half-hour averages (minimum 75% valid data). The CEMS-DIS handles encrypted data transmission to DOE.</p>
                 <h3>Extractive vs. In-Situ CEMS</h3>
                 <p>
                   <strong>Extractive systems</strong> withdraw a sample from the stack, condition it (remove moisture, particulates), then analyse it in an analyser shelter. <strong>In-situ systems</strong> (such as cross-stack laser or IR analysers) measure directly in the flue gas path with no sample conditioning, offering faster response and simpler maintenance — increasingly popular for Malaysian cement, waste-to-energy, and power plant applications.
@@ -167,21 +167,25 @@
               </div>
               <div class="stat-cards" data-aos="fade-left" data-aos-duration="700">
                 <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="100">
-                  <div class="num">2014</div>
+                  <div class="num num--with-action">2014
+                    <a href="../img/solutions/cems/CAR%202014.pdf" download class="pdf-btn" title="Download CAR2014 PDF">
+                      <img src="../img/pdf_icon.png" alt="Download PDF" width="40" height="50">
+                    </a>
+                  </div>
                   <div class="label">Environmental Quality (Clean Air) Regulations — the legal basis for CEMS requirements in Malaysia</div>
                 </div>
                 <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">
                   <div class="num num--with-action">v8.0
-                    <a href="/img/solutions/cems/Guidelines%20CEMS%20%20Vol%20I%26II%20Version%208.pdf" download class="pdf-btn" title="Download DOE CEMS Guidelines v8.0 PDF">
+                    <a href="../img/solutions/cems/Guidelines%20CEMS%20%20Vol%20I%26II%20Version%208.pdf" download class="pdf-btn" title="Download DOE CEMS Guidelines v8.0 PDF">
                       <img src="../img/pdf_icon.png" alt="Download PDF" width="40" height="50">
                     </a>
                   </div>
                   <div class="label">DOE CEMS Guidelines (October 2025) — the current technical standard governing CEMS installation and maintenance</div>
                 </div>
-                <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">
+                <!-- <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="300">
                   <div class="num">75%</div>
                   <div class="label">Minimum valid data availability per half-hour period required by DOE (≥22 of 30 one-minute averages)</div>
-                </div>
+                </div> -->
                 <div class="stat-card" data-aos="fade-up" data-aos-duration="500" data-aos-delay="400">
                   <div class="num">24 / 7</div>
                   <div class="label">Continuous data transmission to DOE iRemote required for all regulated industrial premises</div>

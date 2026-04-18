@@ -18,9 +18,9 @@ if (empty($_SESSION['csrf_token'])) {
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Continuous Emission Monitoring System (CEMS)</title>
-        <meta name="description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta name="description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
         <meta property="og:title" content="Continuous Emission Monitoring System (CEMS)">
-        <meta property="og:description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process analzyer to measure chemical and physical properties.">
+        <meta property="og:description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
@@ -85,7 +85,7 @@ if (empty($_SESSION['csrf_token'])) {
               <div class='bg-[#035D87] rounded-full w-[80px] h-[80px] text-center flex items-center justify-center top-[-40px] mx-auto left-0 right-0 absolute'>
                 <i class="text-white text-[2em] lg:text-[2.5em] icon-icon2"></i>
               </div>
-              <h2 class='text-center text-[14px] lg:text-[16px] leading-[1.2] mb-2 text-black font-bold pt-2'>Process Analzyer </h2>
+              <h2 class='text-center text-[14px] lg:text-[16px] leading-[1.2] mb-2 text-black font-bold pt-2'>Process Analyzer </h2>
               <p class='text-center text-[13px] lg:text-[15px] text-[#6D6A6A]'>High-performance analyzers for accurate gas and liquid measurements in various industrial processes, ensuring product quality and operational efficiency.</p>
             </div>
             <div class='flex flex-col items-center justify-start rounded-lg shadow-lg px-6 pb-8 lg:pb-12 pt-10 lg:pt-14 relative bg-white' data-aos="fade-up" data-aos-delay="400">
