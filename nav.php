@@ -92,7 +92,7 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/about-us">About Us</a></li>
                 <li><a href="/solutions">Solutions</a></li>
-                <li><div class="toggle-submenu flex justify-between items-center"><span>Continuous Emission Monitoring System</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></div>
+                <li><div class="toggle-submenu flex justify-between items-center"><span class="text-[12px]">Continuous Emission Monitoring System</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></div>
                   <div class="submenu">
                     <a href="/solutions/continuous-emission-monitoring-system" class="block w-fit px-6 py-3">CEMS Malaysia</a>
                     <a href="/solutions/continuous-emission-monitoring-system-solutions" class="block w-fit px-6 py-3">Dr. Födisch</a>
@@ -102,7 +102,7 @@
                     <a href="/solutions/continuous-emission-monitoring-system-solutions#durag" class="block w-fit px-6 py-3">DURAG</a>
                   </div>
                 </li>
-                <li><div class="toggle-submenu flex justify-between items-center"><span>Process Analyzer</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></div>
+                <li><div class="toggle-submenu flex justify-between items-center"><span class="text-[12px]">Process Analyzer</span><span class="submenu-toggle"><i class="fas fa-chevron-right transition"></i></span></div>
                 <div class="submenu">
                   <a href="/solutions/process-analyzer" class="block w-fit px-6 py-3">ECD</a>
                   <a href="/solutions/process-analyzer#phymetrix" class="block w-fit px-6 py-3">PhyMetrix</a>
