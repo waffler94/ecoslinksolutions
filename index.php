@@ -1,4 +1,7 @@
 <?php
+require __DIR__ . '/vendor/autoload.php';
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 session_start();
 if (empty($_SESSION['csrf_token'])) {
     $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
@@ -41,6 +44,7 @@ if (empty($_SESSION['csrf_token'])) {
 
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
         <script src="./tailwind.js"></script>
+        <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -402,6 +406,8 @@ if (empty($_SESSION['csrf_token'])) {
                     ></textarea>
                   </label>
                 </div>
+
+                <div class="h-captcha" data-sitekey="<?php echo htmlspecialchars($_ENV['HCAPTCHA_SITE_KEY'] ?? ''); ?>"></div>
 
                 <button
                   type="submit"
