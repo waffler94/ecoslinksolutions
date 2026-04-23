@@ -27,7 +27,8 @@ if (empty($_SESSION['csrf_token'])) {
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
-
+        <meta name="keywords" content="CEMS Malaysia, continuous emission monitoring system Malaysia, DOE CEMS Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
+        
         <link rel="canonical" href="https://www.ecoslinksolutions.com/">
         <link rel="icon" href="/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
