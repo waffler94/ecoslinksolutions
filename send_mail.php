@@ -46,6 +46,26 @@ if (empty($_POST['csrf_token']) || !hash_equals($_SESSION['csrf_token'] ?? '', $
     respond($isAjax, false, 'Invalid request.');
 }
 
+// hCaptcha verification
+$hcaptchaResponse = $_POST['h-captcha-response'] ?? '';
+if (empty($hcaptchaResponse)) {
+    respond($isAjax, false, 'Please complete the CAPTCHA.');
+}
+$verify = file_get_contents('https://api.hcaptcha.com/siteverify', false, stream_context_create([
+    'http' => [
+        'method'  => 'POST',
+        'header'  => 'Content-Type: application/x-www-form-urlencoded',
+        'content' => http_build_query([
+            'secret'   => $_ENV['HCAPTCHA_SECRET_KEY'],
+            'response' => $hcaptchaResponse,
+        ]),
+    ],
+]));
+$captchaData = json_decode($verify, true);
+if (empty($captchaData['success'])) {
+    respond($isAjax, false, 'CAPTCHA verification failed. Please try again.');
+}
+
 // Rate limiting — max 3 submissions per 10 minutes per session
 $now = time();
 $_SESSION['submissions'] = array_filter(
