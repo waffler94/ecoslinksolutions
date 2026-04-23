@@ -74,7 +74,7 @@ if (empty($_SESSION['csrf_token'])) {
           <div class="relative flex items-center min-h-[650px] md:min-h-[550px] lg:min-h-[800px] lg:h-[80vh] bg-banner-1">
             <div class='w-11/12 sm:w-5/6 relative mx-auto'>
               <h1 class='text-[1.5em] md:text-[2em] lg:text-[3em] leading-[1.2] text-[#57C43F] font-extrabold mb-6 max-[575px]:text-center max-[575px]:text-[2em]' data-aos="fade-down"><span class="block text-[#035D87]">Measuring</span> What Matters</h1>
-              <p class='text-[1em] lg:text-[1.2em] max-w-[580px] text-black max-[575px]:text-center' data-aos="fade-up">Helping Malaysian Industries Stay Compliant & Emission-Ready.</p>
+              <p class='text-[1em] lg:text-[1.2em] max-w-[500px] text-black max-[575px]:text-center' data-aos="fade-up">Helping Malaysian Industries Stay Compliant & Emission-Ready.</p>
             </div>
           </div>
           <div class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 grid-rows-4 md:grid-rows-2 lg:grid-rows-1 w-11/12 sm:w-5/6 mx-auto gap-x-6 gap-y-24 min-[576px]:mt-[-100px] relative z-10'>
