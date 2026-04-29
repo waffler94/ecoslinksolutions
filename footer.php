@@ -31,6 +31,6 @@
             <a href="/solutions/system-integration" class="mb-4 block flex gap-x-4 items-center hover:text-[#57c43f]"><i class="fas fa-caret-right"></i><span>System Integration Work</span></a>
         </div>
     </div>
-    <a href="https://wa.link/zq82cu" target="_blank" class="flex items-center justify-center text-[1.8em] w-[50px] h-[50px] rounded-full bg-[#57c43f] transition border border-solid border-[#57c43f] text-white fixed right-4 bottom-4"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.me/60123359369?text=Hi%20Ecos%20Link%20Solutions%20Sdn%20Bhd%2C%0AName%3A%0ACompany%20Name%3A%0APhone%20Number%3A%0AEmail%3A%0AEnquiry%3A%20Item%2FProduct" target="_blank" class="flex items-center justify-center text-[1.8em] w-[50px] h-[50px] rounded-full bg-[#57c43f] transition border border-solid border-[#57c43f] text-white fixed right-4 bottom-4"><i class="fab fa-whatsapp"></i></a>
     <p class="text-center text-[11px] py-6 border-t-[1px] border-solid border-white">&copy; <span class="latestYear"></span> ECOSLINKSOLUTIONS. (1146976-T) All rights reserved.</p>
 </footer>
