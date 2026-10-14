@@ -109,6 +109,40 @@ if (empty($_SESSION['csrf_token'])) {
             </div>
           </div>
         </section>
+        <section class='pt-12 lg:pt-24'>
+          <div class='w-11/12 sm:w-5/6 mx-auto'>
+            <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#035D87] text-center'>See Us <span class='text-[#57C43F]'>In Action</span></h2>
+            <div data-aos="fade-up" class='relative text-center mx-auto w-1/5 flex justify-center items-center my-6'>
+                <div class='bg-[#0086AF] h-[2px] w-full'></div>
+                <div class='bg-[#57C43F] h-[6px] w-1/3 mx-auto text-center absolute'></div>
+            </div>
+            <p data-aos="fade-up" class='text-center text-black text-[1em] lg:text-[1.2em]'>A closer look at how we keep Malaysian industries clean and compliant</p>
+            <div class='grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center mt-12'>
+              <div id="companyVideoWrap" data-aos="fade-right" class='relative group cursor-pointer rounded-lg overflow-hidden shadow-lg border-b-[6px] border-[#57C43F] bg-black' oncontextmenu="return false">
+                <video id="companyVideo" class='block w-full aspect-video' autoplay muted loop playsinline preload="metadata" controlsList="nodownload noplaybackrate" disablePictureInPicture>
+                  <source src="img/home/cems_company_video.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                </video>
+                <button type="button" id="companyVideoBtn" aria-label="Play video" class='absolute inset-0 m-auto w-20 h-20 lg:w-24 lg:h-24 flex items-center justify-center rounded-full bg-[#57C43F]/90 text-white shadow-2xl ring-4 ring-white/40 transition duration-300 hover:scale-110 hover:bg-[#57C43F] group-hover:opacity-100 group-hover:pointer-events-auto focus-visible:opacity-100'>
+                  <span data-play class='absolute inset-0 rounded-full bg-[#57C43F] opacity-60 animate-ping'></span>
+                  <svg data-play class='relative w-9 h-9 lg:w-11 lg:h-11 ml-1' viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14z"/></svg>
+                  <svg data-pause hidden class='relative w-9 h-9 lg:w-11 lg:h-11' viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+                </button>
+              </div>
+              <div data-aos="fade-left">
+                <h3 class='text-[1.4em] lg:text-[1.8em] leading-[1.2] font-bold text-[#035D87] mb-4'>Your One-Stop <span class='text-[#57C43F]'>CEMS Partner</span> in Malaysia</h3>
+                <p class='text-[14px] lg:text-[16px] text-[#6D6A6A] mb-6'>As a DOE-approved CEMS provider, Ecos Link Solutions takes you from consultation and custom system design through to professional installation and long-term support. Our systems deliver reliable, real-time emissions data straight to DOE, so your plant stays compliant while you focus on operations.</p>
+                <ul class='flex flex-col gap-3 text-[14px] lg:text-[16px] text-[#252B42] font-bold mb-8'>
+                  <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Expert consultation &amp; custom system design</li>
+                  <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Professional installation &amp; commissioning</li>
+                  <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Real-time data linkage to DOE</li>
+                  <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Calibration &amp; maintenance for lasting accuracy</li>
+                </ul>
+                <a href="/solutions/continuous-emission-monitoring-system" class='inline-block rounded-lg bg-[#035D87] text-white text-center px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Explore Our CEMS</a>
+              </div>
+            </div>
+          </div>
+        </section>
         <section class='pt-12 lg:pt-24 pb-14 lg:pb-28'>
           <div class='w-11/12 sm:w-5/6 mx-auto'>
               <h2 data-aos="fade-down" class='text-[2em] lg:text-[2.5em] font-bold text-[#035D87] text-center'>Industries <span class='text-[#57C43F]'>Served</span></h2>
@@ -427,6 +461,38 @@ if (empty($_SESSION['csrf_token'])) {
 
     <script>
         AOS.init({once: true,});
+
+        const vidWrap = document.getElementById('companyVideoWrap');
+        const vid = document.getElementById('companyVideo');
+        const vidBtn = document.getElementById('companyVideoBtn');
+        function syncVideoBtn() {
+            const paused = vid.paused;
+            vidBtn.classList.toggle('opacity-0', !paused);
+            vidBtn.classList.toggle('pointer-events-none', !paused);
+            vidBtn.setAttribute('aria-label', paused ? 'Play video' : 'Pause video');
+            vidBtn.querySelectorAll('[data-play]').forEach(el => el.toggleAttribute('hidden', !paused));
+            vidBtn.querySelector('[data-pause]').toggleAttribute('hidden', paused);
+        }
+        // Leaving fullscreen keeps playing with sound; only the initial autoplay is muted.
+        function exitVideoFullscreen() { vid.controls = false; }
+        vid.addEventListener('play', syncVideoBtn);
+        vid.addEventListener('pause', syncVideoBtn);
+        vid.addEventListener('webkitendfullscreen', exitVideoFullscreen); // iPhone
+        document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement) exitVideoFullscreen(); });
+        vidBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            vid.paused ? vid.play() : vid.pause();
+        });
+        vidWrap.addEventListener('click', () => {
+            if (document.fullscreenElement) return;
+            vid.muted = false;
+            vid.controls = true;
+            vid.play();
+            if (vid.requestFullscreen) vid.requestFullscreen();
+            else if (vid.webkitEnterFullscreen) vid.webkitEnterFullscreen();
+        });
+        syncVideoBtn();
+
         $(document).ready(function () {
             const counters = [
                 { id: 'counter1', end: 10, duration: 2000 },
