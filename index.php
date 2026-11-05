@@ -20,14 +20,14 @@ if (empty($_SESSION['csrf_token'])) {
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Continuous Emission Monitoring System (CEMS)</title>
-        <meta name="description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="Continuous Emission Monitoring System (CEMS)">
-        <meta property="og:description" content="Ecos Link Solutions Sdn Bhd - World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
+        <title>DOE CEMS, CEMS Analyzer &amp; Liquid Analyzer Malaysia | Ecos Link Solutions</title>
+        <meta name="description" content="DOE-approved CEMS provider in Malaysia since 2015. Supply, installation and calibration of CEMS analyzers, plus liquid analyzers and process analyzers for industry.">
+        <meta property="og:title" content="DOE CEMS, CEMS Analyzer &amp; Liquid Analyzer Malaysia | Ecos Link Solutions">
+        <meta property="og:description" content="DOE-approved CEMS provider in Malaysia since 2015. Supply, installation and calibration of CEMS analyzers, plus liquid analyzers and process analyzers for industry.">
         <meta property="og:url" content="https://www.ecoslinksolutions.com/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
-        <meta name="keywords" content="CEMS Malaysia, continuous emission monitoring system Malaysia, DOE CEMS Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
+        <meta name="keywords" content="DOE CEMS, CEMS analyzer, liquid analyzer, CEMS Malaysia, continuous emission monitoring system Malaysia, DOE CEMS Malaysia, CEMS analyzer Malaysia, liquid analyzer Malaysia, process analyzer Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
         
         <link rel="canonical" href="https://www.ecoslinksolutions.com/">
         <link rel="icon" href="/fav.ico" type="image/x-icon">
@@ -57,12 +57,41 @@ if (empty($_SESSION['csrf_token'])) {
         <script type="application/ld+json">
         {
           "@context": "https://schema.org",
-          "@type": "Website",
-          "name": "Ecos Link Solutions Sdn Bhd",
-          "url": "https://www.ecoslinksolutions.com",
-          "logo": "https://www.ecoslinksolutions.com/img/ecos_product_logo.png",
-          "sameAs": [
-            "https://www.linkedin.com/company/ecos-link-solutions-sdn-bhd/"
+          "@graph": [
+            {
+              "@type": ["Organization", "LocalBusiness"],
+              "@id": "https://www.ecoslinksolutions.com/#organization",
+              "name": "Ecos Link Solutions Sdn Bhd",
+              "alternateName": "Ecos Link Solutions",
+              "url": "https://www.ecoslinksolutions.com/",
+              "logo": "https://www.ecoslinksolutions.com/img/ecos_product_logo.png",
+              "image": "https://www.ecoslinksolutions.com/img/zlogo-white.jpeg",
+              "description": "DOE-approved Continuous Emission Monitoring System (CEMS) provider in Malaysia since 2015, supplying, installing and calibrating DOE CEMS and CEMS analyzers, plus liquid analyzers, process analyzers, industrial IoT and analyzer system integration.",
+              "foundingDate": "2015",
+              "identifier": { "@type": "PropertyValue", "propertyID": "SSM Company No.", "value": "1146976-T" },
+              "telephone": "+60358711226",
+              "email": "info@ecoslinksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "No.12, First Floor, Jln Eco Perindustrian 1/3C, Eco Perindustrian 5",
+                "addressLocality": "Puncak Alam",
+                "addressRegion": "Selangor",
+                "postalCode": "42300",
+                "addressCountry": "MY"
+              },
+              "geo": { "@type": "GeoCoordinates", "latitude": 3.2555413, "longitude": 101.4368387 },
+              "hasMap": "https://maps.google.com/?cid=8145894793912166143",
+              "areaServed": { "@type": "Country", "name": "Malaysia" },
+              "knowsAbout": ["DOE CEMS", "Continuous Emission Monitoring System (CEMS)", "CEMS analyzer", "Liquid analyzer", "Process analyzer", "Gas analyzer", "Dust monitor", "DOE iRemote CEMS-DIS integration", "Industrial IoT", "Electromagnetic flowmeter", "Level transmitter"],
+              "sameAs": ["https://www.linkedin.com/company/ecos-link-solutions-sdn-bhd/"]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.ecoslinksolutions.com/#website",
+              "url": "https://www.ecoslinksolutions.com/",
+              "name": "Ecos Link Solutions",
+              "publisher": { "@id": "https://www.ecoslinksolutions.com/#organization" }
+            }
           ]
         }
         </script>
@@ -84,14 +113,14 @@ if (empty($_SESSION['csrf_token'])) {
                 <i class="text-white text-[2em] lg:text-[2.5em] icon-icon1"></i>
               </div>
               <h2 class='text-center text-[14px] lg:text-[16px] leading-[1.2] pt-2 mb-2 text-black font-bold'>Continuous Emissions Monitoring Systems (CEMS) </h2>
-              <p class='text-center text-[13px] lg:text-[15px] text-[#6D6A6A]'>Ensure regulatory compliance and environmental monitoring.</p>
+              <p class='text-center text-[13px] lg:text-[15px] text-[#6D6A6A]'>DOE CEMS with certified CEMS analyzers for regulatory compliance and real-time emission monitoring.</p>
             </div>
             <div class='flex flex-col items-center justify-start rounded-lg shadow-lg px-6 pb-8 lg:pb-12 pt-10 lg:pt-14 relative bg-white' data-aos="fade-up" data-aos-delay="200">
               <div class='bg-[#035D87] rounded-full w-[80px] h-[80px] text-center flex items-center justify-center top-[-40px] mx-auto left-0 right-0 absolute'>
                 <i class="text-white text-[2em] lg:text-[2.5em] icon-icon2"></i>
               </div>
               <h2 class='text-center text-[14px] lg:text-[16px] leading-[1.2] mb-2 text-black font-bold pt-2'>Process Analyzer </h2>
-              <p class='text-center text-[13px] lg:text-[15px] text-[#6D6A6A]'>High-performance analyzers for accurate gas and liquid measurements in various industrial processes, ensuring product quality and operational efficiency.</p>
+              <p class='text-center text-[13px] lg:text-[15px] text-[#6D6A6A]'>High-performance gas analyzers and liquid analyzers for accurate measurements in various industrial processes, ensuring product quality and operational efficiency.</p>
             </div>
             <div class='flex flex-col items-center justify-start rounded-lg shadow-lg px-6 pb-8 lg:pb-12 pt-10 lg:pt-14 relative bg-white' data-aos="fade-up" data-aos-delay="400">
               <div class='bg-[#035D87] rounded-full w-[80px] h-[80px] text-center flex items-center justify-center top-[-40px] mx-auto left-0 right-0 absolute'>
@@ -130,8 +159,8 @@ if (empty($_SESSION['csrf_token'])) {
                 </button>
               </div>
               <div data-aos="fade-left">
-                <h3 class='text-[1.4em] lg:text-[1.8em] leading-[1.2] font-bold text-[#035D87] mb-4'>Your One-Stop <span class='text-[#57C43F]'>CEMS Partner</span> in Malaysia</h3>
-                <p class='text-[14px] lg:text-[16px] text-[#6D6A6A] mb-6'>As a DOE-approved CEMS provider, Ecos Link Solutions takes you from consultation and custom system design through to professional installation and long-term support. Our systems deliver reliable, real-time emissions data straight to DOE, so your plant stays compliant while you focus on operations.</p>
+                <h3 class='text-[1.4em] lg:text-[1.8em] leading-[1.2] font-bold text-[#035D87] mb-4'>Your One-Stop <span class='text-[#57C43F]'>DOE CEMS Partner</span> in Malaysia</h3>
+                <p class='text-[14px] lg:text-[16px] text-[#6D6A6A] mb-6'>As a DOE-approved CEMS provider, Ecos Link Solutions takes you from consultation and custom system design through to CEMS analyzer supply, professional installation and long-term support. Our systems deliver reliable, real-time emissions data straight to DOE, so your plant stays compliant while you focus on operations.</p>
                 <ul class='flex flex-col gap-3 text-[14px] lg:text-[16px] text-[#252B42] font-bold mb-8'>
                   <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Expert consultation &amp; custom system design</li>
                   <li class='flex items-start gap-3'><span class='bg-[#57C43F] text-white rounded-full w-6 h-6 flex-none flex items-center justify-center text-[12px]'>&#10003;</span>Professional installation &amp; commissioning</li>
@@ -292,7 +321,7 @@ if (empty($_SESSION['csrf_token'])) {
                   <h2 class='mb-4 font-bold text-[1em] sm:text-[1.2em] leading-[1.2] text-[#252B42]'>CEMS</h2>
                   <div class="flex gap-[8px] lg:gap-[20px] min-[769px]:items-end lg:items-start justify-between">
                     <div class="w-full min-[576px]:w-3/4 lg:w-1/2 mb-6 sm:mb-12">
-                      <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">CEMS solutions from leading brands, featuring MCA 10 for certified hot-wet gas analysis across multiple components.</p>
+                      <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">DOE CEMS solutions with CEMS analyzers from leading brands, featuring MCA 10 for certified hot-wet gas analysis across multiple components.</p>
                       <a href="/solutions/continuous-emission-monitoring-system" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/cems.webp" alt="CEMS" width="800" height="1080" class='h-full w-1/2 min-[576px]:w-[250px] min-[769px]:w-[150px] lg:w-1/2 mt-6' />
@@ -302,7 +331,7 @@ if (empty($_SESSION['csrf_token'])) {
                   <h2 class='mb-4 font-bold text-[1em] sm:text-[1.2em] leading-[1.2] text-[#252B42]'>Process Analytical Systems</h2>
                   <div class="flex gap-[8px] lg:gap-[20px] items-start justify-between">
                     <div class="w-full min-[576px]:w-[60%] mb-12">
-                      <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Reliable analyzers for real-time monitoring of liquid and gases in industrial processes.</p>
+                      <p class="text-[#6D6A6A] mb-6 text-[14px] sm:text-[16px] leading-[1.2]">Reliable liquid analyzers and gas analyzers for real-time monitoring in industrial processes.</p>
                       <a href="/solutions/process-analyzer" class='rounded-lg border-[#035D87] border-solid bg-[#035D87] text-white text-center px-3 sm:px-6 py-2 text-[14px] sm:text-[19px] hover:bg-[#57C43F] transition font-bold'>Learn More</a>
                     </div>
                     <img src="img/home/process_analytical_systems.webp" alt="Process Analytical Systems" width="800" height="1080" class='w-1/2 min-[576px]:w-[40%]' />
@@ -364,7 +393,7 @@ if (empty($_SESSION['csrf_token'])) {
                 </p>
                 <p class="mb-4 text-[0.8em] md:text-[1em] text-black flex items-center gap-x-4">
                   <i class="icon-20 text-[#035D87] text-[1.2em]"></i>
-                  <a href="tel:+0358711226" class="hover:text-[#035D87]">+03-5871 1226</a>
+                  <a href="tel:+60358711226" class="hover:text-[#035D87]">+03-5871 1226</a>
                 </p>
                 <p class="mb-4 text-[0.8em] md:text-[1em] text-black flex items-center gap-x-4">
                   <i class="icon-21 text-[#035D87] text-[1.2em]"></i>

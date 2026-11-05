@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>CEMS | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="CEMS | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>CEMS Analyzer Brands – Dr. Födisch, ABB, Envea, SICK &amp; DURAG | Ecos Link Solutions</title>
+        <meta name="description" content="CEMS analyzers and dust monitors from Dr. Födisch, ABB, Envea, SICK and DURAG, supplied, installed and supported in Malaysia for DOE CEMS compliance.">
+        <meta property="og:title" content="CEMS Analyzer Brands – Dr. Födisch, ABB, Envea, SICK &amp; DURAG | Ecos Link Solutions">
+        <meta property="og:description" content="CEMS analyzers and dust monitors from Dr. Födisch, ABB, Envea, SICK and DURAG, supplied, installed and supported in Malaysia for DOE CEMS compliance.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system-solutions">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system-solutions">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 

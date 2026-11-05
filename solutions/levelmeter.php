@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Level Meter | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="Level Meter | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>Level Meter | Ecos Link Solutions</title>
+        <meta name="description" content="Ultrasonic and guided wave radar (GWR) level transmitters in Malaysia for tanks, sumps, vessels and silos in wastewater, chemical, palm oil and refinery plants.">
+        <meta property="og:title" content="Level Meter | Ecos Link Solutions">
+        <meta property="og:description" content="Ultrasonic and guided wave radar (GWR) level transmitters in Malaysia for tanks, sumps, vessels and silos in wastewater, chemical, palm oil and refinery plants.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/levelmeter">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/levelmeter">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 

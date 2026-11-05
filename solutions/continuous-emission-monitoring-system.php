@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>CEMS Solutions | EcosLinkSolutions</title>
-        <meta name="description" content="Leading CEMS Malaysia supplier. DOE-compliant Continuous Emission Monitoring Systems for power plants, cement, palm oil, petrochemical & industrial facilities. Certified installation, calibration & after-sales support.">
-        <meta property="og:title" content="CEMS Solutions | EcosLinkSolutions">
-        <meta property="og:description" content="Leading CEMS Malaysia supplier. DOE-compliant Continuous Emission Monitoring Systems for power plants, cement, palm oil, petrochemical & industrial facilities. Certified installation, calibration & after-sales support." />
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>DOE CEMS Malaysia – CEMS Analyzer Supply, Installation &amp; Calibration | Ecos Link Solutions</title>
+        <meta name="description" content="DOE CEMS specialist in Malaysia. QAL1-certified CEMS analyzers, dust monitors and flow meters with installation, calibration and iRemote integration for DOE compliance.">
+        <meta property="og:title" content="DOE CEMS Malaysia – CEMS Analyzer Supply, Installation &amp; Calibration | Ecos Link Solutions">
+        <meta property="og:description" content="DOE CEMS specialist in Malaysia. QAL1-certified CEMS analyzers, dust monitors and flow meters with installation, calibration and iRemote integration for DOE compliance." />
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <meta name="keywords" content="CEMS Malaysia, continuous emission monitoring system Malaysia, DOE CEMS Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
+        <meta name="keywords" content="DOE CEMS, CEMS analyzer, DOE CEMS Malaysia, CEMS analyzer Malaysia, CEMS Malaysia, continuous emission monitoring system Malaysia, industrial emission monitoring, stack emission monitoring Malaysia, CEMS supplier Malaysia, CEMS installation Malaysia, CEMS calibration Malaysia" />
         <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system" />
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
@@ -54,19 +54,13 @@
       <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "CEMS Malaysia — Continuous Emission Monitoring System",
-    "description": "DOE-compliant Continuous Emission Monitoring Systems (CEMS) for Malaysian industrial facilities. Supply, installation, commissioning, calibration, and after-sales support.",
-    "brand": {
-      "@type": "Brand",
-      "name": "Ecos Link Solutions Sdn. Bhd."
-    },
-    "offers": {
-      "@type": "Offer",
-      "availability": "https://schema.org/InStock",
-      "areaServed": "MY",
-      "priceCurrency": "MYR"
-    }
+    "@type": "Service",
+    "name": "DOE CEMS Malaysia — Continuous Emission Monitoring System",
+    "serviceType": "Continuous Emission Monitoring System (CEMS) supply, installation and calibration",
+    "description": "DOE-compliant Continuous Emission Monitoring Systems (CEMS) for Malaysian industrial facilities: QAL1-certified CEMS analyzers, dust monitors, flow meters, CEMS-DAS and iRemote integration, with installation, commissioning, calibration and after-sales support.",
+    "url": "https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system",
+    "provider": { "@id": "https://www.ecoslinksolutions.com/#organization", "@type": "Organization", "name": "Ecos Link Solutions Sdn Bhd", "url": "https://www.ecoslinksolutions.com/" },
+    "areaServed": { "@type": "Country", "name": "Malaysia" }
   }
   </script>
   <script type="application/ld+json">
@@ -76,34 +70,66 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Who needs a CEMS in Malaysia?",
+        "name": "What is DOE CEMS?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Under the Environmental Quality (Clean Air) Regulations 2014, facilities including power plants, cement plants, palm oil mills, steel mills, petrochemical plants, and waste incinerators are required by the Department of Environment (DOE) Malaysia to install and operate a Continuous Emission Monitoring System (CEMS)."
+          "text": "DOE CEMS is a Continuous Emission Monitoring System that meets the requirements of Malaysia's Department of Environment (DOE) under the Environmental Quality (Clean Air) Regulations 2014. A DOE CEMS must follow the DOE CEMS Guidelines (currently Version 8.0, October 2025), operate under a DOE-approved Quality Assurance Plan, and transmit validated half-hourly emission data to the DOE iRemote server through a CEMS-DIS. Ecos Link Solutions is a DOE-approved CEMS provider that designs, supplies, installs, calibrates and maintains DOE CEMS for regulated premises across Malaysia."
         }
       },
       {
         "@type": "Question",
-        "name": "What pollutants does CEMS measure in Malaysia?",
+        "name": "What is a CEMS analyzer?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A DOE-compliant CEMS in Malaysia typically monitors SO₂, NOₓ, CO, CO₂, O₂, particulate matter (dust/opacity), and stack gas flow rate. Specific parameters depend on the industry type and operating permit conditions."
+          "text": "A CEMS analyzer is the gas analyzer at the heart of a Continuous Emission Monitoring System. It continuously measures pollutant concentrations in stack flue gas, such as SO₂, NOₓ, CO, CO₂, O₂, HCl, HF and NMVOC, and passes the readings to the CEMS-DAS for reporting to DOE iRemote. CEMS analyzers are either extractive, where a sample is drawn from the stack and conditioned before analysis, or in-situ, where measurement happens directly in the stack. Ecos Link Solutions supplies QAL1-certified CEMS analyzers and dust monitors from Dr. Födisch, ABB, Envea, SICK and DURAG."
         }
       },
       {
         "@type": "Question",
-        "name": "Does Ecos Link Solutions supply DOE-registered CEMS equipment?",
+        "name": "Who is legally required to install CEMS in Malaysia?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. Ecos Link Solutions supplies CEMS equipment from globally certified manufacturers that meet DOE Malaysia guidelines (Version 8.0, October 2025). Our systems transmit data directly to the DOE iRemote server as required."
+          "text": "Under the Environmental Quality (Clean Air) Regulations 2014, any industrial premises listed under the regulated source activities in the DOE CEMS Guidelines must install and operate a compliant CEMS. This includes power plants (gas, coal, biomass), cement plants, palm oil mills, petroleum refineries, steel mills, petrochemical plants, glass furnaces, and waste incinerators — among others. Refer to Table 2-1 of DOE CEMS Guidelines v8.0 for the complete list of regulated activities and capacity thresholds."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the iRemote data transmission requirement for CEMS in Malaysia?",
+        "name": "What is the iRemote system and why is it required?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "All CEMS installed at regulated industrial premises in Malaysia must transmit real-time emission data to the DOE's iRemote (CEMS Remote Monitoring and Enforcement System). Ecos Link Solutions provides full iRemote-compatible CEMS-DAS and CEMS-DIS integration."
+          "text": "iRemote (the DOE CEMS Remote Monitoring and Enforcement System) is the DOE's centralised platform for receiving and enforcing real-time emission data from all regulated facilities across Malaysia. Every CEMS must be connected via a CEMS-DIS (Data Interfacing System) that transmits validated half-hourly averages to iRemote. Without a live iRemote connection, your CEMS installation is not considered compliant. Ecos Link Solutions handles all CEMS-DIS configuration and iRemote connection testing as part of our commissioning service."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a Quality Assurance Plan (QAP) and do I need one?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. A Quality Assurance Plan is a mandatory document that every CEMS operator in Malaysia must prepare, submit to the DOE, and have formally approved before their system goes live. The QAP details your scheduled maintenance activities, performance evaluation procedures, calibration intervals, data validation methods, and corrective action protocols. Ecos Link Solutions can assist you in drafting and reviewing your QAP in alignment with DOE requirements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between extractive and in-situ CEMS?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An extractive CEMS withdraws a representative flue gas sample from the stack, transports it through heated or cooled sample lines, conditions it (removing water vapour and particulates), and then measures gas concentrations in a remote analyser. An in-situ CEMS measures directly in the gas stream using probes or cross-stack beams — no sample extraction or conditioning is needed. In-situ systems are generally simpler to maintain and faster in response, making them well-suited for high-moisture stack applications like palm oil boilers or cement kilns. Ecos Link Solutions recommends the most appropriate technology based on your specific stack conditions and regulatory requirements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How often does a CEMS need to be calibrated in Malaysia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "DOE Malaysia requires daily automated zero/span calibration checks using certified reference gases, periodic relative accuracy tests (typically annually or as specified in your QAP), and regular preventive maintenance. Any CEMS downtime must be documented, and data recovery procedures must be in place to ensure that data availability remains above the 75% threshold required for valid half-hourly averages. Ecos Link Solutions offers maintenance contracts to keep your CEMS compliant year-round."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can Ecos Link Solutions help with an existing CEMS that is failing or out of compliance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. We provide CEMS health audits, troubleshooting, analyser replacements, spare parts supply, and calibration recovery for existing systems — regardless of the original equipment brand. If your current CEMS is generating excessive downtime, failing DOE audits, or losing iRemote connectivity, contact us for a rapid diagnostic assessment."
         }
       }
     ]
@@ -338,7 +364,7 @@
         <section id="products" class="pt-16 pb-20 flex lg:flex-nowrap flex-wrap gap-2 justify-between mx-auto">
           <div class="lg:w-5/6 px-6 lg:px-0 mx-auto">
             <div class="section-label" data-aos="fade-up" data-aos-duration="500">Our CEMS Products</div>
-            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">CEMS Equipment Supplied by Ecos Link Solutions</h2>
+            <h2 class="section-title" data-aos="fade-up" data-aos-duration="500" data-aos-delay="80">CEMS Analyzers &amp; Equipment Supplied by Ecos Link Solutions</h2>
             <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">We partner with world-leading European and US manufacturers to supply QAL1-approved, DOE-compliant CEMS equipment for every application in Malaysia.</p>
             <div class="prod-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[20px] md:gap-[24px]">
               <div class="prod-card" data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
@@ -500,6 +526,18 @@
             <p class="section-sub" data-aos="fade-up" data-aos-duration="500" data-aos-delay="160">Answers to the questions our Malaysian clients ask most often about CEMS compliance and implementation.</p>
 
             <details open data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+              <summary>What is DOE CEMS?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                DOE CEMS is a Continuous Emission Monitoring System that meets the requirements of Malaysia&apos;s Department of Environment (DOE) under the Environmental Quality (Clean Air) Regulations 2014. A DOE CEMS must follow the DOE CEMS Guidelines (currently Version 8.0, October 2025), operate under a DOE-approved Quality Assurance Plan, and transmit validated half-hourly emission data to the DOE iRemote server through a CEMS-DIS. Ecos Link Solutions is a DOE-approved CEMS provider that designs, supplies, installs, calibrates and maintains DOE CEMS for regulated premises across Malaysia.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
+              <summary>What is a CEMS analyzer?<span class="icon-17 faq-chevron"></span></summary>
+              <div class="answer">
+                A CEMS analyzer is the gas analyzer at the heart of a Continuous Emission Monitoring System. It continuously measures pollutant concentrations in stack flue gas, such as SO₂, NOₓ, CO, CO₂, O₂, HCl, HF and NMVOC, and passes the readings to the CEMS-DAS for reporting to DOE iRemote. CEMS analyzers are either extractive, where a sample is drawn from the stack and conditioned before analysis, or in-situ, where measurement happens directly in the stack. Ecos Link Solutions supplies QAL1-certified CEMS analyzers and dust monitors from Dr. Födisch, ABB, Envea, SICK and DURAG.
+              </div>
+            </details>
+            <details data-aos="fade-up" data-aos-duration="600" data-aos-delay="0">
               <summary>Who is legally required to install CEMS in Malaysia?<span class="icon-17 faq-chevron"></span></summary>
               <div class="answer">
                 Under the Environmental Quality (Clean Air) Regulations 2014, any industrial premises listed under the regulated source activities in the DOE CEMS Guidelines must install and operate a compliant CEMS. This includes power plants (gas, coal, biomass), cement plants, palm oil mills, petroleum refineries, steel mills, petrochemical plants, glass furnaces, and waste incinerators — among others. Refer to Table 2-1 of DOE CEMS Guidelines v8.0 for the complete list of regulated activities and capacity thresholds.

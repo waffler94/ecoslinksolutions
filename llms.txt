@@ -1,0 +1,26 @@
+# Ecos Link Solutions Sdn Bhd
+
+> DOE-approved Continuous Emission Monitoring System (CEMS) provider in Malaysia, established in 2015. Ecos Link Solutions designs, supplies, installs, calibrates and maintains DOE CEMS and CEMS analyzers, and supplies liquid analyzers, process analyzers, flowmeters, level meters, the ECOS-IOT-26 industrial IoT platform and custom analyzer system integration.
+
+- Company no.: 1146976-T
+- Address: No.12, First Floor, Jln Eco Perindustrian 1/3C, Eco Perindustrian 5, 42300 Puncak Alam, Selangor, Malaysia
+- Phone: +60 3-5871 1226
+- Email: info@ecoslinksolutions.com
+- Area served: Malaysia
+- Track record: 300+ completed projects, 400+ satisfied customers
+
+## Solutions
+
+- [DOE CEMS Malaysia](https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system): DOE CEMS requirements (Environmental Quality (Clean Air) Regulations 2014, DOE CEMS Guidelines v8.0), QAL1-certified CEMS analyzers, dust monitors, flow meters, CEMS-DAS / CEMS-DIS and DOE iRemote integration, calibration and maintenance.
+- [CEMS analyzer brands](https://www.ecoslinksolutions.com/solutions/continuous-emission-monitoring-system-solutions): Dr. Födisch (MCA 10 multi-component analyser), ABB (EL3020, AO2040), Envea (MIR 9000e, MIR IS, STACK 710), SICK (DUSTHUNTER), DURAG (D-R 290, D-R 909).
+- [Liquid analyzers and process analyzers](https://www.ecoslinksolutions.com/solutions/process-analyzer): ECD TOC, pH/ORP, chlorine, sulfide, dissolved oxygen and colorimetric liquid analyzers; PhyMetrix dewpoint and Southland Sensing oxygen and H2S gas analyzers.
+- [Flowmeters](https://www.ecoslinksolutions.com/solutions/flowmeter): ABB AquaMaster and WaterMaster electromagnetic flowmeters.
+- [Level meters](https://www.ecoslinksolutions.com/solutions/levelmeter): ultrasonic and guided wave radar (GWR) level transmitters.
+- [ECOS-IOT-26](https://www.ecoslinksolutions.com/solutions/iot-system): industrial IoT monitoring platform with real-time dashboards, alarms and RTU/PLC integration.
+- [System integration](https://www.ecoslinksolutions.com/solutions/system-integration): custom gas analyzer systems with sample handling, probes and calibration racks.
+- [All services](https://www.ecoslinksolutions.com/solutions/): CEMS calibration and maintenance, analyzer support, instrumentation and integration.
+
+## Company
+
+- [About us](https://www.ecoslinksolutions.com/about-us)
+- [Contact](https://www.ecoslinksolutions.com/#contact-us)

@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Solutions | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="Solutions | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>Solutions | Ecos Link Solutions</title>
+        <meta name="description" content="Engineering services in Malaysia: DOE CEMS calibration and maintenance, process and liquid analyzer support, instrumentation, ECOS-IOT-26 industrial IoT and system integration.">
+        <meta property="og:title" content="Solutions | Ecos Link Solutions">
+        <meta property="og:description" content="Engineering services in Malaysia: DOE CEMS calibration and maintenance, process and liquid analyzer support, instrumentation, ECOS-IOT-26 industrial IoT and system integration.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 

@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>System Integration | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="System Integration | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>System Integration | Ecos Link Solutions</title>
+        <meta name="description" content="Custom analyzer system integration in Malaysia: gas analyzers, sample handling systems, probes and calibration racks built to ASME, ASTM, API and IEC standards.">
+        <meta property="og:title" content="System Integration | Ecos Link Solutions">
+        <meta property="og:description" content="Custom analyzer system integration in Malaysia: gas analyzers, sample handling systems, probes and calibration racks built to ASME, ASTM, API and IEC standards.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/system-integration">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/system-integration">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 

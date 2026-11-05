@@ -1,4 +1,4 @@
+User-agent: *
+Allow: /
 
-#Begin Attracta SEO Tools Sitemap. Do not remove
-sitemap: http://cdn.attracta.com/sitemap/6014618.xml.gz
-#End Attracta SEO Tools Sitemap. Do not remove
+Sitemap: https://www.ecoslinksolutions.com/sitemap.xml

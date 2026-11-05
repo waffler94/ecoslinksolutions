@@ -11,15 +11,15 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Flowmeter | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="Flowmeter | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>Flowmeter | Ecos Link Solutions</title>
+        <meta name="description" content="ABB electromagnetic flowmeters in Malaysia, including AquaMaster and WaterMaster, for water distribution, wastewater and industrial process flow measurement.">
+        <meta property="og:title" content="Flowmeter | Ecos Link Solutions">
+        <meta property="og:description" content="ABB electromagnetic flowmeters in Malaysia, including AquaMaster and WaterMaster, for water distribution, wastewater and industrial process flow measurement.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/flowmeter">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/flowmeter">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 

@@ -11,15 +11,16 @@
         <!-- End Google Tag Manager -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Process Analyzer | EcosLinkSolutions</title>
-        <meta name="description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:title" content="Process Analyzer | EcosLinkSolutions">
-        <meta property="og:description" content="We are World class provider of Continuous Emission Monitoring System and specialize in process Analyzer to measure chemical and physical properties.">
-        <meta property="og:url" content="https://www.ecoslinksolutions.com/">
+        <title>Liquid Analyzer &amp; Process Analyzer Malaysia | Ecos Link Solutions</title>
+        <meta name="description" content="Liquid analyzers and process analyzers in Malaysia: ECD TOC, pH/ORP, chlorine and dissolved oxygen analyzers, plus PhyMetrix and Southland gas analyzers, with integration and support.">
+        <meta property="og:title" content="Liquid Analyzer &amp; Process Analyzer Malaysia | Ecos Link Solutions">
+        <meta property="og:description" content="Liquid analyzers and process analyzers in Malaysia: ECD TOC, pH/ORP, chlorine and dissolved oxygen analyzers, plus PhyMetrix and Southland gas analyzers, with integration and support.">
+        <meta property="og:url" content="https://www.ecoslinksolutions.com/solutions/process-analyzer">
         <meta property="og:image" content="https://www.ecoslinksolutions.com/img/zlogo-white.jpeg">
         <meta property="og:type" content="website">
+        <meta name="keywords" content="liquid analyzer, liquid analyzer Malaysia, process analyzer Malaysia, TOC analyzer, pH analyzer, ORP analyzer, chlorine analyzer, dissolved oxygen analyzer, oxygen analyzer, H2S analyzer, dewpoint analyzer" />
 
-        <link rel="canonical" href="https://www.ecoslinksolutions.com/">
+        <link rel="canonical" href="https://www.ecoslinksolutions.com/solutions/process-analyzer">
         <link rel="icon" href="https://ecoslinksolutions.com/fav.ico" type="image/x-icon">
         <link rel="apple-touch-icon" sizes="180x180" href="https://www.ecoslinksolutions.com/img/zlogo3.jpeg">
 
@@ -50,6 +51,38 @@
         
       <script src="../js/lightgallery-all.min.js"></script>
       <script src="../js/jquery.tabs.min.js"></script>
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a liquid analyzer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A liquid analyzer is an instrument that continuously measures the chemical properties of a liquid process stream, such as pH, ORP, dissolved oxygen, chlorine, sulfide or Total Organic Carbon (TOC), so operators can control water quality, protect equipment and meet discharge limits."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What liquid analyzers does Ecos Link Solutions supply in Malaysia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ecos Link Solutions supplies liquid analyzers from ECD (Electro-Chemical Devices, USA), including the Model 3S TOC analyzer (UV persulfate oxidation with NDIR detection), S80 intelligent pH/ORP sensors with the T80 universal transmitter, and chlorine, sulfide, dissolved oxygen and colorimetric analyzers, plus boiler water and cooling water controls. We also provide integration, commissioning and maintenance support."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where are liquid analyzers used?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typical applications include water and wastewater treatment, boiler feedwater and cooling water monitoring, power generation, and chemical and oil & gas processes, where continuous liquid measurement keeps the process in specification."
+            }
+          }
+        ]
+      }
+      </script>
   </head>
 
 <body>
@@ -70,13 +103,17 @@
               <p class='text-[14px] lg:text-[19px] text-[#252B42] mb-4'>
                 Ecos Link Solutions Sdn Bhd is Malaysia&apos;s trusted provider of process analyzer systems - delivering end-to-end solutions from design, integration, to commissioning and maintenance. We represent global analyzer brands including Michell Instruments (by Dwyer Omega) and ECD Analyzers (USA), and offer Gas Chromatograph (GC) solutions for precise multi-component analysis.
               </p>
-              <p class='text-[14px] lg:text-[19px] text-[#252B42]'>
+              <p class='text-[14px] lg:text-[19px] text-[#252B42] mb-4'>
                 With deep expertise in analyzer integration and sample handling systems, we support critical applications across oil &amp; gas, power generation, water treatment, and chemical industries in Malaysia.
+              </p>
+              <h2 class='font-bold text-[18px] md:text-[24px] mb-4 leading-[1.2] text-[#035D87]'>Liquid Analyzers</h2>
+              <p class='text-[14px] lg:text-[19px] text-[#252B42]'>
+                Our ECD liquid analyzer range covers online Total Organic Carbon (TOC), pH, ORP, chlorine, sulfide, dissolved oxygen and colorimetric measurement, with liquid sensors, transmitters and controllers for boiler water, cooling water and water treatment applications.
               </p>
             </div>
           </div>
         </section>
-        <section class='w-11/12 sm:w-5/6 mx-auto lg:pt-12 pb-12 md:pb-28 text-[#252B42]'>
+        <section class='w-11/12 sm:w-5/6 mx-auto lg:pt-12 pb-12 text-[#252B42]'>
           <div class="jq-tab-wrapper" id="verticalTab">
             <div class="jq-tab-menu min-[1024px]:block hidden">
                 <div class="jq-tab-title active" data-tab="1">ECD</div>
@@ -222,6 +259,28 @@
                 </div>
             </div>
           </div>
+      </section>
+      <section id="faq" class='w-11/12 sm:w-5/6 mx-auto pb-12 md:pb-28'>
+        <div class="section-label" data-aos="fade-up">Frequently Asked Questions</div>
+        <h2 class="section-title" data-aos="fade-up">Liquid Analyzer — Common Questions</h2>
+        <details open data-aos="fade-up">
+          <summary>What is a liquid analyzer?<span class="icon-17 faq-chevron"></span></summary>
+          <div class="answer">
+            A liquid analyzer is an instrument that continuously measures the chemical properties of a liquid process stream, such as pH, ORP, dissolved oxygen, chlorine, sulfide or Total Organic Carbon (TOC), so operators can control water quality, protect equipment and meet discharge limits.
+          </div>
+        </details>
+        <details data-aos="fade-up">
+          <summary>What liquid analyzers does Ecos Link Solutions supply in Malaysia?<span class="icon-17 faq-chevron"></span></summary>
+          <div class="answer">
+            Ecos Link Solutions supplies liquid analyzers from ECD (Electro-Chemical Devices, USA), including the Model 3S TOC analyzer (UV persulfate oxidation with NDIR detection), S80 intelligent pH/ORP sensors with the T80 universal transmitter, and chlorine, sulfide, dissolved oxygen and colorimetric analyzers, plus boiler water and cooling water controls. We also provide integration, commissioning and maintenance support.
+          </div>
+        </details>
+        <details data-aos="fade-up">
+          <summary>Where are liquid analyzers used?<span class="icon-17 faq-chevron"></span></summary>
+          <div class="answer">
+            Typical applications include water and wastewater treatment, boiler feedwater and cooling water monitoring, power generation, and chemical and oil &amp; gas processes, where continuous liquid measurement keeps the process in specification.
+          </div>
+        </details>
       </section>
       </main>
       <?php include("../footer.php"); ?>
